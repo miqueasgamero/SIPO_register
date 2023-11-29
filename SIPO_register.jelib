@@ -1542,6 +1542,11 @@ ES1||D5G2;X2;|pin@16||U
 ESYN||D5G2;X-2;|pin@18||U
 X
 
+# Cell sequential_logic;1{lay}
+Csequential_logic;1{lay}||mocmos|1701120572419|1701120572420|
+Ngeneric:Facet-Center|art@0||0|0||||AV
+X
+
 # Cell sequential_logic;1{sch}
 Csequential_logic;1{sch}||schematic|1701110595411|1701111619642|
 Iand;1{ic}|and@0||-16|-8|||D5G4;
