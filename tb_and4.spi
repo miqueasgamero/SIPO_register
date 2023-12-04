@@ -1,0 +1,38 @@
+*** SPICE deck for cell tb_and4{sch} from library SIPO_register
+*** Created on lun dic 04, 2023 18:59:45
+*** Last revised on lun dic 04, 2023 19:06:10
+*** Written on lun dic 04, 2023 19:06:35 by Electric VLSI Design System, version 9.07
+*** Layout tech: mocmos, foundry MOSIS
+*** UC SPICE *** , MIN_RESIST 4.0, MIN_CAPAC 0.1FF
+* Model cards are described in this file:
+.include C:\Users\giuli\OneDrive\Documentos\LTspiceXVII\lib\sym\MOS\mos.txt
+
+*** SUBCIRCUIT SIPO_register__and4 FROM CELL and4{sch}
+.SUBCKT SIPO_register__and4 A B C D out
+** GLOBAL gnd
+** GLOBAL vdd
+Mnmos-4@0 net@1 A net@9 nmos-4@0_b NMOS L=0.6U W=1.8U
+Mnmos-4@1 net@9 B net@10 nmos-4@1_b NMOS L=0.6U W=1.8U
+Mnmos-4@2 net@10 C net@11 nmos-4@2_b NMOS L=0.6U W=1.8U
+Mnmos-4@3 net@11 D gnd nmos-4@3_b NMOS L=0.6U W=1.8U
+Mnmos-4@4 out net@1 gnd nmos-4@4_b NMOS L=0.6U W=1.8U
+Mpmos-4@0 vdd A net@1 pmos-4@0_b PMOS L=0.6U W=3U
+Mpmos-4@1 vdd B net@1 pmos-4@1_b PMOS L=0.6U W=3U
+Mpmos-4@2 vdd C net@1 pmos-4@2_b PMOS L=0.6U W=3U
+Mpmos-4@3 vdd D net@1 pmos-4@3_b PMOS L=0.6U W=3U
+Mpmos-4@4 vdd net@1 out pmos-4@4_b PMOS L=0.6U W=3U
+.ENDS SIPO_register__and4
+
+.global gnd vdd
+
+*** TOP LEVEL CELL: tb_and4{sch}
+VPulse@0 net@0 gnd DC=1V pulse 0 5V 0ns 200ps 200ps 3ns 6ns
+VPulse@1 net@6 gnd DC=1V pulse 0 5V 0ns 200ps 200ps 6ns 12ns
+VPulse@2 net@4 gnd DC=1V pulse 0 5V 0ns 200ps 200ps 12ns 24ns
+VPulse@3 net@2 gnd DC=1V pulse 0 5V 0ns 200ps 200ps 24ns 48ns
+Xand4@0 net@0 net@6 net@4 net@2 and4@0_out SIPO_register__and4
+
+* Spice Code nodes in cell cell 'tb_and4{sch}'
+vdd vdd 0 DC 5  
+.tran 100n
+.END
