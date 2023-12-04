@@ -1,0 +1,76 @@
+*** SPICE deck for cell logic_S0R0_sim{sch} from library SIPO_register
+*** Created on Mon Dec 04, 2023 16:42:54
+*** Last revised on Mon Dec 04, 2023 17:30:35
+*** Written on Mon Dec 04, 2023 17:30:41 by Electric VLSI Design System, version 9.07
+*** Layout tech: mocmos, foundry MOSIS
+*** UC SPICE *** , MIN_RESIST 4.0, MIN_CAPAC 0.1FF
+* Model cards are described in this file:
+.include /home/miqueasgamero/my_files/VLSI/Models/models.txt
+
+*** SUBCIRCUIT SIPO_register__inv FROM CELL inv{sch}
+.SUBCKT SIPO_register__inv in out
+** GLOBAL gnd
+** GLOBAL vdd
+Mnmos@0 out in gnd gnd NMOS L=0.6U W=1.8U
+Mpmos@0 vdd in out vdd PMOS L=0.6U W=3U
+.ENDS SIPO_register__inv
+
+*** SUBCIRCUIT SIPO_register__nand FROM CELL nand{sch}
+.SUBCKT SIPO_register__nand A B out
+** GLOBAL gnd
+** GLOBAL vdd
+Mnmos@0 out A net@10 gnd NMOS L=0.6U W=1.8U
+Mnmos@1 net@10 B gnd gnd NMOS L=0.6U W=1.8U
+Mpmos@0 vdd A out vdd PMOS L=0.6U W=3U
+Mpmos@1 vdd B out vdd PMOS L=0.6U W=3U
+.ENDS SIPO_register__nand
+
+*** SUBCIRCUIT SIPO_register__and FROM CELL and{sch}
+.SUBCKT SIPO_register__and A B out
+** GLOBAL gnd
+** GLOBAL vdd
+Xinv@0 net@0 out SIPO_register__inv
+Xnand@0 A B net@0 SIPO_register__nand
+.ENDS SIPO_register__and
+
+*** SUBCIRCUIT SIPO_register__nor FROM CELL nor{sch}
+.SUBCKT SIPO_register__nor A B out
+** GLOBAL gnd
+** GLOBAL vdd
+Mnmos@0 out A gnd gnd NMOS L=0.6U W=1.8U
+Mnmos@1 out B gnd gnd NMOS L=0.6U W=1.8U
+Mpmos@0 vdd A net@20 vdd PMOS L=0.6U W=3U
+Mpmos@1 net@20 B out vdd PMOS L=0.6U W=3U
+.ENDS SIPO_register__nor
+
+*** SUBCIRCUIT SIPO_register__or FROM CELL or{sch}
+.SUBCKT SIPO_register__or A B out
+** GLOBAL gnd
+** GLOBAL vdd
+Xinv@0 net@0 out SIPO_register__inv
+Xnor@0 A B net@0 SIPO_register__nor
+.ENDS SIPO_register__or
+
+*** SUBCIRCUIT SIPO_register__logic_S0R0 FROM CELL logic_S0R0{sch}
+.SUBCKT SIPO_register__logic_S0R0 EN Q1 R0 S0 SYN
+** GLOBAL gnd
+** GLOBAL vdd
+Xand@12 EN net@114 net@129 SIPO_register__and
+Xand@13 EN Q1 net@127 SIPO_register__and
+Xinv@2 SYN net@114 SIPO_register__inv
+Xinv@3 EN R0 SIPO_register__inv
+Xor@3 net@127 net@129 S0 SIPO_register__or
+.ENDS SIPO_register__logic_S0R0
+
+.global gnd vdd
+
+*** TOP LEVEL CELL: logic_S0R0_sim{sch}
+VPulse@0 EN gnd DC=1V pulse 0 5V 0ns 200ps 200ps 2.5ns 10ns
+VPulse@1 SYN gnd DC=1V pulse 0 5V 0ns 200ps 200ps 1ns 10ns
+VPulse@2 Q1 gnd DC=1V pulse 0 5V 0ns 200ps 200ps 5ns 10ns
+Xlogic_S0@0 EN Q1 logic_S0@0_R0 logic_S0@0_S0 SYN SIPO_register__logic_S0R0
+
+* Spice Code nodes in cell cell 'logic_S0R0_sim{sch}'
+vdd vdd 0 DC 5 
+.tran 0 20n
+.END
