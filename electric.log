@@ -7880,4 +7880,3219 @@ ProcessKeyBinding 402 when=1702244188334 modifiers=0 code=11 char=ffff false fal
 ProcessKeyBinding 401 when=1702244188631 modifiers=80 code=11 char=ffff false false
 --------------- 795 --------------
   Sun Dec 10 18:36:29 ART 2023
-ProcessKeyBinding 402 when=1702244189099 modifiers=0
+ProcessKeyBinding 402 when=1702244189099 modifiers=0 code=11 char=ffff false false
+--------------- 796 --------------
+  Sun Dec 10 18:36:29 ART 2023
+Menu Activated: Edit | Move | Move Objects Left
+Currently highlighted: 
+    com.sun.electric.tool.user.HighlightEOBJ in cell 'logic_OUTPUTs{lay}': 'Metal-1-Metal-2-Con[contact@8].metal-1-metal-2'
+--------------- 797 --------------
+  Sun Dec 10 18:36:29 ART 2023
+Menu Activated: Edit | Move | Move Objects Left
+Currently highlighted: 
+    com.sun.electric.tool.user.HighlightEOBJ in cell 'logic_OUTPUTs{lay}': 'Metal-1-Metal-2-Con[contact@8].metal-1-metal-2'
+--------------- 798 --------------
+  Sun Dec 10 18:36:29 ART 2023
+Menu Activated: Edit | Move | Move Objects Left
+Currently highlighted: 
+    com.sun.electric.tool.user.HighlightEOBJ in cell 'logic_OUTPUTs{lay}': 'Metal-1-Metal-2-Con[contact@8].metal-1-metal-2'
+--------------- 799 --------------
+  Sun Dec 10 18:36:29 ART 2023
+Menu Activated: Edit | Move | Move Objects Left
+Currently highlighted: 
+    com.sun.electric.tool.user.HighlightEOBJ in cell 'logic_OUTPUTs{lay}': 'Metal-1-Metal-2-Con[contact@8].metal-1-metal-2'
+--------------- 800 --------------
+  Sun Dec 10 18:36:30 ART 2023
+Menu Activated: Edit | Move | Move Objects Left
+Currently highlighted: 
+    com.sun.electric.tool.user.HighlightEOBJ in cell 'logic_OUTPUTs{lay}': 'Metal-1-Metal-2-Con[contact@8].metal-1-metal-2'
+--------------- 801 --------------
+  Sun Dec 10 18:36:30 ART 2023
+Menu Activated: Edit | Move | Move Objects Left
+Currently highlighted: 
+    com.sun.electric.tool.user.HighlightEOBJ in cell 'logic_OUTPUTs{lay}': 'Metal-1-Metal-2-Con[contact@8].metal-1-metal-2'
+--------------- 802 --------------
+  Sun Dec 10 18:36:30 ART 2023
+Menu Activated: Edit | Move | Move Objects Left
+Currently highlighted: 
+    com.sun.electric.tool.user.HighlightEOBJ in cell 'logic_OUTPUTs{lay}': 'Metal-1-Metal-2-Con[contact@8].metal-1-metal-2'
+--------------- 803 --------------
+  Sun Dec 10 18:36:30 ART 2023
+Menu Activated: Edit | Move | Move Objects Right
+Currently highlighted: 
+    com.sun.electric.tool.user.HighlightEOBJ in cell 'logic_OUTPUTs{lay}': 'Metal-1-Metal-2-Con[contact@8].metal-1-metal-2'
+--------------- 804 --------------
+  Sun Dec 10 18:36:35 ART 2023
+Menu Activated: Edit | Move | Move Objects Left
+Currently highlighted: 
+    com.sun.electric.tool.user.HighlightEOBJ in cell 'logic_OUTPUTs{lay}': 'Metal-1-Pin[pin@15].metal-1'
+--------------- 805 --------------
+  Sun Dec 10 18:36:35 ART 2023
+Menu Activated: Edit | Move | Move Objects Left
+Currently highlighted: 
+    com.sun.electric.tool.user.HighlightEOBJ in cell 'logic_OUTPUTs{lay}': 'Metal-1-Pin[pin@15].metal-1'
+--------------- 806 --------------
+  Sun Dec 10 18:36:35 ART 2023
+Menu Activated: Edit | Move | Move Objects Left
+Currently highlighted: 
+    com.sun.electric.tool.user.HighlightEOBJ in cell 'logic_OUTPUTs{lay}': 'Metal-1-Pin[pin@15].metal-1'
+--------------- 807 --------------
+  Sun Dec 10 18:36:35 ART 2023
+Menu Activated: Edit | Move | Move Objects Left
+Currently highlighted: 
+    com.sun.electric.tool.user.HighlightEOBJ in cell 'logic_OUTPUTs{lay}': 'Metal-1-Pin[pin@15].metal-1'
+--------------- 808 --------------
+  Sun Dec 10 18:36:35 ART 2023
+Menu Activated: Edit | Move | Move Objects Left
+Currently highlighted: 
+    com.sun.electric.tool.user.HighlightEOBJ in cell 'logic_OUTPUTs{lay}': 'Metal-1-Pin[pin@15].metal-1'
+--------------- 809 --------------
+  Sun Dec 10 18:36:36 ART 2023
+Menu Activated: Edit | Move | Move Objects Right
+Currently highlighted: 
+    com.sun.electric.tool.user.HighlightEOBJ in cell 'logic_OUTPUTs{lay}': 'Metal-1-Pin[pin@15].metal-1'
+--------------- 810 --------------
+  Sun Dec 10 18:36:36 ART 2023
+ProcessKeyBinding 401 when=1702244196553 modifiers=80 code=11 char=ffff false false
+--------------- 811 --------------
+  Sun Dec 10 18:36:36 ART 2023
+Menu Activated: Export | Create Export...
+Currently highlighted: 
+    com.sun.electric.tool.user.HighlightEOBJ in cell 'logic_OUTPUTs{lay}': 'Metal-1-Pin[pin@15].metal-1'
+--------------- 812 --------------
+  Sun Dec 10 18:36:36 ART 2023
+ProcessKeyBinding 400 when=1702244196709 modifiers=80 code=0 char=5 false false
+--------------- 813 --------------
+  Sun Dec 10 18:36:44 ART 2023
+ProcessKeyBinding 401 when=1702244204834 modifiers=80 code=11 char=ffff false false
+--------------- 814 --------------
+  Sun Dec 10 18:36:45 ART 2023
+ProcessKeyBinding 402 when=1702244205537 modifiers=0 code=11 char=ffff false false
+--------------- 815 --------------
+  Sun Dec 10 18:36:47 ART 2023
+ProcessKeyBinding 401 when=1702244207146 modifiers=80 code=11 char=ffff false false
+--------------- 816 --------------
+  Sun Dec 10 18:36:47 ART 2023
+Menu Activated: File | Save All Libraries
+--------------- 817 --------------
+  Sun Dec 10 18:36:47 ART 2023
+ProcessKeyBinding 400 when=1702244207240 modifiers=80 code=0 char=13 false false
+--------------- 818 --------------
+  Sun Dec 10 18:36:47 ART 2023
+ProcessKeyBinding 402 when=1702244207318 modifiers=0 code=11 char=ffff false false
+--------------- 819 --------------
+  Sun Dec 10 18:36:47 ART 2023
+ProcessKeyBinding 401 when=1702244207740 modifiers=80 code=11 char=ffff false false
+--------------- 820 --------------
+  Sun Dec 10 18:36:47 ART 2023
+ProcessKeyBinding 402 when=1702244207896 modifiers=0 code=11 char=ffff false false
+--------------- 821 --------------
+  Sun Dec 10 18:36:48 ART 2023
+ProcessKeyBinding 401 when=1702244208443 modifiers=80 code=11 char=ffff false false
+--------------- 822 --------------
+  Sun Dec 10 18:36:48 ART 2023
+Menu Activated: Export | Create Export...
+Currently highlighted: 
+    com.sun.electric.tool.user.HighlightEOBJ in cell 'logic_OUTPUTs{lay}': 'and{lay}[and@0].vdd'
+--------------- 823 --------------
+  Sun Dec 10 18:36:48 ART 2023
+ProcessKeyBinding 400 when=1702244208771 modifiers=80 code=0 char=5 false false
+--------------- 824 --------------
+  Sun Dec 10 18:36:51 ART 2023
+ProcessKeyBinding 401 when=1702244211521 modifiers=80 code=11 char=ffff false false
+--------------- 825 --------------
+  Sun Dec 10 18:36:51 ART 2023
+Menu Activated: Export | Create Export...
+Currently highlighted: 
+    com.sun.electric.tool.user.HighlightEOBJ in cell 'logic_OUTPUTs{lay}': 'and{lay}[and@0].gnd'
+--------------- 826 --------------
+  Sun Dec 10 18:36:51 ART 2023
+ProcessKeyBinding 400 when=1702244211818 modifiers=80 code=0 char=5 false false
+--------------- 827 --------------
+  Sun Dec 10 18:36:53 ART 2023
+ProcessKeyBinding 401 when=1702244213428 modifiers=80 code=11 char=ffff false false
+--------------- 828 --------------
+  Sun Dec 10 18:36:53 ART 2023
+Menu Activated: File | Save All Libraries
+--------------- 829 --------------
+  Sun Dec 10 18:36:53 ART 2023
+ProcessKeyBinding 400 when=1702244213568 modifiers=80 code=0 char=13 false false
+--------------- 830 --------------
+  Sun Dec 10 18:36:54 ART 2023
+ProcessKeyBinding 402 when=1702244214365 modifiers=0 code=11 char=ffff false false
+--------------- 831 --------------
+  Sun Dec 10 18:36:54 ART 2023
+Menu Activated: Tools | DRC | Check Hierarchically
+--------------- 832 --------------
+  Sun Dec 10 18:36:55 ART 2023
+Menu Activated: Tools | DRC | Check Hierarchically
+--------------- 833 --------------
+  Sun Dec 10 18:36:55 ART 2023
+Menu Activated: Tools | DRC | Check Hierarchically
+--------------- 834 --------------
+  Sun Dec 10 18:36:55 ART 2023
+Menu Activated: Tools | DRC | Check Hierarchically
+--------------- 835 --------------
+  Sun Dec 10 18:36:56 ART 2023
+Menu Activated: Tools | DRC | Check Hierarchically
+--------------- 836 --------------
+  Sun Dec 10 18:37:00 ART 2023
+ProcessKeyBinding 401 when=1702244220740 modifiers=80 code=11 char=ffff false false
+--------------- 837 --------------
+  Sun Dec 10 18:37:00 ART 2023
+Menu Activated: File | Save All Libraries
+--------------- 838 --------------
+  Sun Dec 10 18:37:00 ART 2023
+ProcessKeyBinding 400 when=1702244220943 modifiers=80 code=0 char=13 false false
+--------------- 839 --------------
+  Sun Dec 10 18:37:01 ART 2023
+ProcessKeyBinding 402 when=1702244221037 modifiers=0 code=11 char=ffff false false
+--------------- 840 --------------
+  Sun Dec 10 18:37:03 ART 2023
+Menu Activated: Tools | NCC | Schematic and Layout Views of Cell in Current Window
+--------------- 841 --------------
+  Sun Dec 10 18:37:47 ART 2023
+ProcessKeyBinding 401 when=1702244267459 modifiers=80 code=11 char=ffff false false
+--------------- 842 --------------
+  Sun Dec 10 18:37:48 ART 2023
+ProcessKeyBinding 402 when=1702244268084 modifiers=0 code=11 char=ffff false false
+--------------- 843 --------------
+  Sun Dec 10 18:37:53 ART 2023
+ProcessKeyBinding 401 when=1702244273006 modifiers=80 code=11 char=ffff false false
+--------------- 844 --------------
+  Sun Dec 10 18:37:53 ART 2023
+ProcessKeyBinding 402 when=1702244273474 modifiers=0 code=11 char=ffff false false
+--------------- 845 --------------
+  Sun Dec 10 18:37:54 ART 2023
+Menu Activated: Edit | Erase | Selected
+Currently highlighted: 
+    com.sun.electric.tool.user.HighlightEOBJ in cell 'logic_OUTPUTs{lay}': Metal-1['net@8']
+--------------- 846 --------------
+  Sun Dec 10 18:37:54 ART 2023
+ProcessKeyBinding 400 when=1702244274115 modifiers=0 code=0 char=7f false false
+--------------- 847 --------------
+  Sun Dec 10 18:37:56 ART 2023
+Menu Activated: Edit | Erase | Selected
+Currently highlighted: 
+    com.sun.electric.tool.user.HighlightEOBJ in cell 'logic_OUTPUTs{lay}': 'Metal-1-Polysilicon-1-Con[contact@0].metal-1-polysilicon-1'
+--------------- 848 --------------
+  Sun Dec 10 18:37:56 ART 2023
+ProcessKeyBinding 400 when=1702244276084 modifiers=0 code=0 char=7f false false
+--------------- 849 --------------
+  Sun Dec 10 18:38:00 ART 2023
+ProcessKeyBinding 401 when=1702244280146 modifiers=80 code=11 char=ffff false false
+--------------- 850 --------------
+  Sun Dec 10 18:38:01 ART 2023
+ProcessKeyBinding 402 when=1702244281084 modifiers=0 code=11 char=ffff false false
+--------------- 851 --------------
+  Sun Dec 10 18:38:03 ART 2023
+Menu Activated: Edit | Erase | Selected
+Currently highlighted: 
+    com.sun.electric.tool.user.HighlightEOBJ in cell 'logic_OUTPUTs{lay}': 'Metal-1-Polysilicon-1-Con[contact@1].metal-1-polysilicon-1'
+--------------- 852 --------------
+  Sun Dec 10 18:38:03 ART 2023
+ProcessKeyBinding 400 when=1702244283131 modifiers=0 code=0 char=7f false false
+--------------- 853 --------------
+  Sun Dec 10 18:38:08 ART 2023
+ProcessKeyBinding 401 when=1702244288631 modifiers=40 code=10 char=ffff false false
+--------------- 854 --------------
+  Sun Dec 10 18:38:08 ART 2023
+ProcessKeyBinding 401 when=1702244288646 modifiers=c0 code=11 char=ffff false false
+--------------- 855 --------------
+  Sun Dec 10 18:38:08 ART 2023
+ProcessKeyBinding 402 when=1702244288803 modifiers=80 code=10 char=ffff false false
+--------------- 856 --------------
+  Sun Dec 10 18:38:09 ART 2023
+ProcessKeyBinding 402 when=1702244289349 modifiers=0 code=11 char=ffff false false
+--------------- 857 --------------
+  Sun Dec 10 18:38:12 ART 2023
+Menu Activated: Tools | DRC | Check Hierarchically
+Currently highlighted: 
+    com.sun.electric.tool.user.HighlightEOBJ in cell 'logic_OUTPUTs{lay}': 'and{lay}[and@0].A'
+--------------- 858 --------------
+  Sun Dec 10 18:38:13 ART 2023
+Menu Activated: Tools | DRC | Check Hierarchically
+--------------- 859 --------------
+  Sun Dec 10 18:38:14 ART 2023
+Menu Activated: Tools | DRC | Check Hierarchically
+--------------- 860 --------------
+  Sun Dec 10 18:38:22 ART 2023
+Menu Activated: Tools | NCC | Schematic and Layout Views of Cell in Current Window
+--------------- 861 --------------
+  Sun Dec 10 18:38:22 ART 2023
+ProcessKeyBinding 401 when=1702244302553 modifiers=200 code=12 char=ffff false false
+--------------- 862 --------------
+  Sun Dec 10 18:38:22 ART 2023
+ProcessKeyBinding 402 when=1702244302615 modifiers=0 code=12 char=ffff false false
+--------------- 863 --------------
+  Sun Dec 10 18:38:28 ART 2023
+ProcessKeyBinding 401 when=1702244308662 modifiers=80 code=11 char=ffff false false
+--------------- 864 --------------
+  Sun Dec 10 18:38:29 ART 2023
+ProcessKeyBinding 402 when=1702244309256 modifiers=0 code=11 char=ffff false false
+--------------- 865 --------------
+  Sun Dec 10 18:38:37 ART 2023
+ProcessKeyBinding 401 when=1702244317631 modifiers=80 code=11 char=ffff false false
+--------------- 866 --------------
+  Sun Dec 10 18:38:37 ART 2023
+Menu Activated: File | Save All Libraries
+--------------- 867 --------------
+  Sun Dec 10 18:38:37 ART 2023
+ProcessKeyBinding 400 when=1702244317771 modifiers=80 code=0 char=13 false false
+--------------- 868 --------------
+  Sun Dec 10 18:38:37 ART 2023
+ProcessKeyBinding 402 when=1702244317881 modifiers=0 code=11 char=ffff false false
+--------------- 869 --------------
+  Sun Dec 10 18:38:38 ART 2023
+ProcessKeyBinding 401 when=1702244318506 modifiers=200 code=12 char=ffff false false
+--------------- 870 --------------
+  Sun Dec 10 18:38:38 ART 2023
+ProcessKeyBinding 402 when=1702244318568 modifiers=0 code=12 char=ffff false false
+--------------- 871 --------------
+  Sun Dec 10 18:39:14 ART 2023
+ProcessKeyBinding 401 when=1702244354209 modifiers=80 code=11 char=ffff false false
+--------------- 872 --------------
+  Sun Dec 10 18:39:14 ART 2023
+ProcessKeyBinding 402 when=1702244354803 modifiers=0 code=11 char=ffff false false
+--------------- 873 --------------
+  Sun Dec 10 18:39:34 ART 2023
+ProcessKeyBinding 401 when=1702244374756 modifiers=200 code=12 char=ffff false false
+--------------- 874 --------------
+  Sun Dec 10 18:39:34 ART 2023
+ProcessKeyBinding 402 when=1702244374834 modifiers=0 code=12 char=ffff false false
+--------------- 875 --------------
+  Sun Dec 10 18:39:52 ART 2023
+ProcessKeyBinding 401 when=1702244392349 modifiers=200 code=12 char=ffff false false
+--------------- 876 --------------
+  Sun Dec 10 18:39:52 ART 2023
+ProcessKeyBinding 402 when=1702244392396 modifiers=0 code=12 char=ffff false false
+--------------- 877 --------------
+  Sun Dec 10 18:40:06 ART 2023
+ProcessKeyBinding 401 when=1702244406521 modifiers=200 code=12 char=ffff false false
+--------------- 878 --------------
+  Sun Dec 10 18:40:06 ART 2023
+ProcessKeyBinding 402 when=1702244406568 modifiers=0 code=12 char=ffff false false
+--------------- 879 --------------
+  Sun Dec 10 18:40:09 ART 2023
+ProcessKeyBinding 401 when=1702244409365 modifiers=200 code=12 char=ffff false false
+--------------- 880 --------------
+  Sun Dec 10 18:40:09 ART 2023
+ProcessKeyBinding 402 when=1702244409428 modifiers=0 code=12 char=ffff false false
+--------------- 881 --------------
+  Sun Dec 10 18:40:11 ART 2023
+ProcessKeyBinding 401 when=1702244411287 modifiers=200 code=12 char=ffff false false
+--------------- 882 --------------
+  Sun Dec 10 18:40:11 ART 2023
+ProcessKeyBinding 402 when=1702244411334 modifiers=0 code=12 char=ffff false false
+--------------- 883 --------------
+  Sun Dec 10 18:40:18 ART 2023
+ProcessKeyBinding 401 when=1702244418428 modifiers=200 code=12 char=ffff false false
+--------------- 884 --------------
+  Sun Dec 10 18:40:18 ART 2023
+ProcessKeyBinding 402 when=1702244418506 modifiers=0 code=12 char=ffff false false
+--------------- 885 --------------
+  Sun Dec 10 18:40:35 ART 2023
+ProcessKeyBinding 401 when=1702244435537 modifiers=200 code=12 char=ffff false false
+--------------- 886 --------------
+  Sun Dec 10 18:40:35 ART 2023
+ProcessKeyBinding 402 when=1702244435537 modifiers=0 code=12 char=ffff false false
+--------------- 887 --------------
+  Sun Dec 10 18:40:35 ART 2023
+ProcessKeyBinding 401 when=1702244435584 modifiers=200 code=12 char=ffff false false
+--------------- 888 --------------
+  Sun Dec 10 18:40:35 ART 2023
+ProcessKeyBinding 402 when=1702244435646 modifiers=0 code=12 char=ffff false false
+--------------- 889 --------------
+  Sun Dec 10 18:40:36 ART 2023
+ProcessKeyBinding 401 when=1702244436053 modifiers=200 code=12 char=ffff false false
+--------------- 890 --------------
+  Sun Dec 10 18:40:36 ART 2023
+ProcessKeyBinding 402 when=1702244436068 modifiers=0 code=12 char=ffff false false
+--------------- 891 --------------
+  Sun Dec 10 18:40:36 ART 2023
+ProcessKeyBinding 401 when=1702244436099 modifiers=200 code=12 char=ffff false false
+--------------- 892 --------------
+  Sun Dec 10 18:40:36 ART 2023
+ProcessKeyBinding 402 when=1702244436131 modifiers=0 code=12 char=ffff false false
+--------------- 893 --------------
+  Sun Dec 10 18:41:07 ART 2023
+ProcessKeyBinding 401 when=1702244467584 modifiers=200 code=12 char=ffff false false
+--------------- 894 --------------
+  Sun Dec 10 18:41:07 ART 2023
+ProcessKeyBinding 402 when=1702244467678 modifiers=0 code=12 char=ffff false false
+--------------- 895 --------------
+  Sun Dec 10 18:41:24 ART 2023
+ProcessKeyBinding 401 when=1702244484756 modifiers=200 code=12 char=ffff false false
+--------------- 896 --------------
+  Sun Dec 10 18:41:24 ART 2023
+ProcessKeyBinding 402 when=1702244484818 modifiers=0 code=12 char=ffff false false
+--------------- 897 --------------
+  Sun Dec 10 18:42:08 ART 2023
+Menu Activated: Cell | New Cell...
+--------------- 898 --------------
+  Sun Dec 10 18:42:15 ART 2023
+ProcessKeyBinding 401 when=1702244535803 modifiers=200 code=12 char=ffff false false
+--------------- 899 --------------
+  Sun Dec 10 18:42:15 ART 2023
+ProcessKeyBinding 402 when=1702244535865 modifiers=0 code=12 char=ffff false false
+--------------- 900 --------------
+  Sun Dec 10 18:42:24 ART 2023
+ProcessKeyBinding 401 when=1702244544474 modifiers=80 code=11 char=ffff false false
+--------------- 901 --------------
+  Sun Dec 10 18:42:24 ART 2023
+Menu Activated: File | Save All Libraries
+--------------- 902 --------------
+  Sun Dec 10 18:42:24 ART 2023
+ProcessKeyBinding 400 when=1702244544678 modifiers=80 code=0 char=13 false false
+--------------- 903 --------------
+  Sun Dec 10 18:42:24 ART 2023
+ProcessKeyBinding 402 when=1702244544849 modifiers=0 code=11 char=ffff false false
+--------------- 904 --------------
+  Sun Dec 10 18:43:40 ART 2023
+Menu Activated: Edit | Move | Move Objects Down
+Currently highlighted: 
+    com.sun.electric.tool.user.HighlightEOBJ in cell 'logic_CONTROL{sch}': ffsr_s{ic}['ffsr_s@0']
+    com.sun.electric.tool.user.HighlightEOBJ in cell 'logic_CONTROL{sch}': ffsr_s{ic}['ffsr_s@1']
+--------------- 905 --------------
+  Sun Dec 10 18:43:41 ART 2023
+Menu Activated: Edit | Move | Move Objects Down
+Currently highlighted: 
+    com.sun.electric.tool.user.HighlightEOBJ in cell 'logic_CONTROL{sch}': ffsr_s{ic}['ffsr_s@0']
+    com.sun.electric.tool.user.HighlightEOBJ in cell 'logic_CONTROL{sch}': ffsr_s{ic}['ffsr_s@1']
+--------------- 906 --------------
+  Sun Dec 10 18:43:41 ART 2023
+Menu Activated: Edit | Move | Move Objects Down
+Currently highlighted: 
+    com.sun.electric.tool.user.HighlightEOBJ in cell 'logic_CONTROL{sch}': ffsr_s{ic}['ffsr_s@0']
+    com.sun.electric.tool.user.HighlightEOBJ in cell 'logic_CONTROL{sch}': ffsr_s{ic}['ffsr_s@1']
+--------------- 907 --------------
+  Sun Dec 10 18:43:41 ART 2023
+Menu Activated: Edit | Move | Move Objects Down
+Currently highlighted: 
+    com.sun.electric.tool.user.HighlightEOBJ in cell 'logic_CONTROL{sch}': ffsr_s{ic}['ffsr_s@0']
+    com.sun.electric.tool.user.HighlightEOBJ in cell 'logic_CONTROL{sch}': ffsr_s{ic}['ffsr_s@1']
+--------------- 908 --------------
+  Sun Dec 10 18:43:41 ART 2023
+Menu Activated: Edit | Move | Move Objects Down
+Currently highlighted: 
+    com.sun.electric.tool.user.HighlightEOBJ in cell 'logic_CONTROL{sch}': ffsr_s{ic}['ffsr_s@0']
+    com.sun.electric.tool.user.HighlightEOBJ in cell 'logic_CONTROL{sch}': ffsr_s{ic}['ffsr_s@1']
+--------------- 909 --------------
+  Sun Dec 10 18:43:41 ART 2023
+Menu Activated: Edit | Move | Move Objects Down
+Currently highlighted: 
+    com.sun.electric.tool.user.HighlightEOBJ in cell 'logic_CONTROL{sch}': ffsr_s{ic}['ffsr_s@0']
+    com.sun.electric.tool.user.HighlightEOBJ in cell 'logic_CONTROL{sch}': ffsr_s{ic}['ffsr_s@1']
+--------------- 910 --------------
+  Sun Dec 10 18:43:48 ART 2023
+Menu Activated: Edit | Move | Move Objects Up
+Currently highlighted: 
+    com.sun.electric.tool.user.HighlightEOBJ in cell 'logic_CONTROL{sch}': ffsr_s{ic}['ffsr_s@0']
+    com.sun.electric.tool.user.HighlightEOBJ in cell 'logic_CONTROL{sch}': ffsr_s{ic}['ffsr_s@1']
+    com.sun.electric.tool.user.HighlightEOBJ in cell 'logic_CONTROL{sch}': logic_OUTPUTs{ic}['logic_OU@0']
+    com.sun.electric.tool.user.HighlightEOBJ in cell 'logic_CONTROL{sch}': logic_R1{ic}['logic_R1@0']
+    com.sun.electric.tool.user.HighlightEOBJ in cell 'logic_CONTROL{sch}': logic_S0R0{ic}['logic_S0@0']
+    com.sun.electric.tool.user.HighlightEOBJ in cell 'logic_CONTROL{sch}': logic_S1{ic}['logic_S1@0']
+--------------- 911 --------------
+  Sun Dec 10 18:43:48 ART 2023
+Menu Activated: Edit | Move | Move Objects Up
+Currently highlighted: 
+    com.sun.electric.tool.user.HighlightEOBJ in cell 'logic_CONTROL{sch}': ffsr_s{ic}['ffsr_s@0']
+    com.sun.electric.tool.user.HighlightEOBJ in cell 'logic_CONTROL{sch}': ffsr_s{ic}['ffsr_s@1']
+    com.sun.electric.tool.user.HighlightEOBJ in cell 'logic_CONTROL{sch}': logic_OUTPUTs{ic}['logic_OU@0']
+    com.sun.electric.tool.user.HighlightEOBJ in cell 'logic_CONTROL{sch}': logic_R1{ic}['logic_R1@0']
+    com.sun.electric.tool.user.HighlightEOBJ in cell 'logic_CONTROL{sch}': logic_S0R0{ic}['logic_S0@0']
+    com.sun.electric.tool.user.HighlightEOBJ in cell 'logic_CONTROL{sch}': logic_S1{ic}['logic_S1@0']
+--------------- 912 --------------
+  Sun Dec 10 18:43:48 ART 2023
+Menu Activated: Edit | Move | Move Objects Up
+Currently highlighted: 
+    com.sun.electric.tool.user.HighlightEOBJ in cell 'logic_CONTROL{sch}': ffsr_s{ic}['ffsr_s@0']
+    com.sun.electric.tool.user.HighlightEOBJ in cell 'logic_CONTROL{sch}': ffsr_s{ic}['ffsr_s@1']
+    com.sun.electric.tool.user.HighlightEOBJ in cell 'logic_CONTROL{sch}': logic_OUTPUTs{ic}['logic_OU@0']
+    com.sun.electric.tool.user.HighlightEOBJ in cell 'logic_CONTROL{sch}': logic_R1{ic}['logic_R1@0']
+    com.sun.electric.tool.user.HighlightEOBJ in cell 'logic_CONTROL{sch}': logic_S0R0{ic}['logic_S0@0']
+    com.sun.electric.tool.user.HighlightEOBJ in cell 'logic_CONTROL{sch}': logic_S1{ic}['logic_S1@0']
+--------------- 913 --------------
+  Sun Dec 10 18:43:48 ART 2023
+Menu Activated: Edit | Move | Move Objects Up
+Currently highlighted: 
+    com.sun.electric.tool.user.HighlightEOBJ in cell 'logic_CONTROL{sch}': ffsr_s{ic}['ffsr_s@0']
+    com.sun.electric.tool.user.HighlightEOBJ in cell 'logic_CONTROL{sch}': ffsr_s{ic}['ffsr_s@1']
+    com.sun.electric.tool.user.HighlightEOBJ in cell 'logic_CONTROL{sch}': logic_OUTPUTs{ic}['logic_OU@0']
+    com.sun.electric.tool.user.HighlightEOBJ in cell 'logic_CONTROL{sch}': logic_R1{ic}['logic_R1@0']
+    com.sun.electric.tool.user.HighlightEOBJ in cell 'logic_CONTROL{sch}': logic_S0R0{ic}['logic_S0@0']
+    com.sun.electric.tool.user.HighlightEOBJ in cell 'logic_CONTROL{sch}': logic_S1{ic}['logic_S1@0']
+--------------- 914 --------------
+  Sun Dec 10 18:43:48 ART 2023
+Menu Activated: Edit | Move | Move Objects Up
+Currently highlighted: 
+    com.sun.electric.tool.user.HighlightEOBJ in cell 'logic_CONTROL{sch}': ffsr_s{ic}['ffsr_s@0']
+    com.sun.electric.tool.user.HighlightEOBJ in cell 'logic_CONTROL{sch}': ffsr_s{ic}['ffsr_s@1']
+    com.sun.electric.tool.user.HighlightEOBJ in cell 'logic_CONTROL{sch}': logic_OUTPUTs{ic}['logic_OU@0']
+    com.sun.electric.tool.user.HighlightEOBJ in cell 'logic_CONTROL{sch}': logic_R1{ic}['logic_R1@0']
+    com.sun.electric.tool.user.HighlightEOBJ in cell 'logic_CONTROL{sch}': logic_S0R0{ic}['logic_S0@0']
+    com.sun.electric.tool.user.HighlightEOBJ in cell 'logic_CONTROL{sch}': logic_S1{ic}['logic_S1@0']
+--------------- 915 --------------
+  Sun Dec 10 18:43:49 ART 2023
+Menu Activated: Edit | Move | Move Objects Up
+Currently highlighted: 
+    com.sun.electric.tool.user.HighlightEOBJ in cell 'logic_CONTROL{sch}': ffsr_s{ic}['ffsr_s@0']
+    com.sun.electric.tool.user.HighlightEOBJ in cell 'logic_CONTROL{sch}': ffsr_s{ic}['ffsr_s@1']
+    com.sun.electric.tool.user.HighlightEOBJ in cell 'logic_CONTROL{sch}': logic_OUTPUTs{ic}['logic_OU@0']
+    com.sun.electric.tool.user.HighlightEOBJ in cell 'logic_CONTROL{sch}': logic_R1{ic}['logic_R1@0']
+    com.sun.electric.tool.user.HighlightEOBJ in cell 'logic_CONTROL{sch}': logic_S0R0{ic}['logic_S0@0']
+    com.sun.electric.tool.user.HighlightEOBJ in cell 'logic_CONTROL{sch}': logic_S1{ic}['logic_S1@0']
+--------------- 916 --------------
+  Sun Dec 10 18:43:49 ART 2023
+Menu Activated: Edit | Move | Move Objects Up
+Currently highlighted: 
+    com.sun.electric.tool.user.HighlightEOBJ in cell 'logic_CONTROL{sch}': ffsr_s{ic}['ffsr_s@0']
+    com.sun.electric.tool.user.HighlightEOBJ in cell 'logic_CONTROL{sch}': ffsr_s{ic}['ffsr_s@1']
+    com.sun.electric.tool.user.HighlightEOBJ in cell 'logic_CONTROL{sch}': logic_OUTPUTs{ic}['logic_OU@0']
+    com.sun.electric.tool.user.HighlightEOBJ in cell 'logic_CONTROL{sch}': logic_R1{ic}['logic_R1@0']
+    com.sun.electric.tool.user.HighlightEOBJ in cell 'logic_CONTROL{sch}': logic_S0R0{ic}['logic_S0@0']
+    com.sun.electric.tool.user.HighlightEOBJ in cell 'logic_CONTROL{sch}': logic_S1{ic}['logic_S1@0']
+--------------- 917 --------------
+  Sun Dec 10 18:43:50 ART 2023
+Menu Activated: Edit | Move | Move Objects Down
+Currently highlighted: 
+    com.sun.electric.tool.user.HighlightEOBJ in cell 'logic_CONTROL{sch}': 'logic_OUTPUTs{ic}[logic_OU@0].Q1''
+--------------- 918 --------------
+  Sun Dec 10 18:43:50 ART 2023
+Menu Activated: Edit | Move | Move Objects Down
+Currently highlighted: 
+    com.sun.electric.tool.user.HighlightEOBJ in cell 'logic_CONTROL{sch}': 'logic_OUTPUTs{ic}[logic_OU@0].Q1''
+--------------- 919 --------------
+  Sun Dec 10 18:43:51 ART 2023
+Menu Activated: Edit | Move | Move Objects Down
+Currently highlighted: 
+    com.sun.electric.tool.user.HighlightEOBJ in cell 'logic_CONTROL{sch}': 'logic_OUTPUTs{ic}[logic_OU@0].Q1''
+--------------- 920 --------------
+  Sun Dec 10 18:43:52 ART 2023
+ProcessKeyBinding 401 when=1702244632240 modifiers=80 code=11 char=ffff false false
+--------------- 921 --------------
+  Sun Dec 10 18:43:52 ART 2023
+Menu Activated: File | Save All Libraries
+--------------- 922 --------------
+  Sun Dec 10 18:43:52 ART 2023
+ProcessKeyBinding 400 when=1702244632381 modifiers=80 code=0 char=13 false false
+--------------- 923 --------------
+  Sun Dec 10 18:43:52 ART 2023
+ProcessKeyBinding 402 when=1702244632459 modifiers=0 code=11 char=ffff false false
+--------------- 924 --------------
+  Sun Dec 10 18:44:12 ART 2023
+ProcessKeyBinding 401 when=1702244652303 modifiers=40 code=10 char=ffff false true
+--------------- 925 --------------
+  Sun Dec 10 18:44:13 ART 2023
+ProcessKeyBinding 401 when=1702244653303 modifiers=40 code=46 char=46(F) false true
+--------------- 926 --------------
+  Sun Dec 10 18:44:13 ART 2023
+ProcessKeyBinding 402 when=1702244653381 modifiers=40 code=46 char=46(F) false true
+--------------- 927 --------------
+  Sun Dec 10 18:44:13 ART 2023
+ProcessKeyBinding 402 when=1702244653396 modifiers=0 code=10 char=ffff false true
+--------------- 928 --------------
+  Sun Dec 10 18:44:13 ART 2023
+ProcessKeyBinding 401 when=1702244653428 modifiers=0 code=4c char=6c(l) false true
+--------------- 929 --------------
+  Sun Dec 10 18:44:13 ART 2023
+ProcessKeyBinding 402 when=1702244653521 modifiers=0 code=4c char=6c(l) false true
+--------------- 930 --------------
+  Sun Dec 10 18:44:13 ART 2023
+ProcessKeyBinding 401 when=1702244653599 modifiers=0 code=49 char=69(i) false true
+--------------- 931 --------------
+  Sun Dec 10 18:44:13 ART 2023
+ProcessKeyBinding 402 when=1702244653709 modifiers=0 code=49 char=69(i) false true
+--------------- 932 --------------
+  Sun Dec 10 18:44:14 ART 2023
+ProcessKeyBinding 402 when=1702244654037 modifiers=0 code=8 char=8 false true
+--------------- 933 --------------
+  Sun Dec 10 18:44:14 ART 2023
+ProcessKeyBinding 401 when=1702244654053 modifiers=40 code=10 char=ffff false true
+--------------- 934 --------------
+  Sun Dec 10 18:44:14 ART 2023
+ProcessKeyBinding 402 when=1702244654193 modifiers=40 code=8 char=8 false true
+--------------- 935 --------------
+  Sun Dec 10 18:44:14 ART 2023
+ProcessKeyBinding 402 when=1702244654584 modifiers=40 code=8 char=8 false true
+--------------- 936 --------------
+  Sun Dec 10 18:44:14 ART 2023
+ProcessKeyBinding 401 when=1702244654912 modifiers=40 code=52 char=52(R) false true
+--------------- 937 --------------
+  Sun Dec 10 18:44:15 ART 2023
+ProcessKeyBinding 402 when=1702244655021 modifiers=40 code=52 char=52(R) false true
+--------------- 938 --------------
+  Sun Dec 10 18:44:15 ART 2023
+ProcessKeyBinding 402 when=1702244655349 modifiers=40 code=8 char=8 false true
+--------------- 939 --------------
+  Sun Dec 10 18:44:15 ART 2023
+ProcessKeyBinding 401 when=1702244655521 modifiers=40 code=53 char=53(S) false true
+--------------- 940 --------------
+  Sun Dec 10 18:44:15 ART 2023
+ProcessKeyBinding 402 when=1702244655537 modifiers=40 code=8 char=8 false true
+--------------- 941 --------------
+  Sun Dec 10 18:44:15 ART 2023
+ProcessKeyBinding 402 when=1702244655599 modifiers=40 code=53 char=53(S) false true
+--------------- 942 --------------
+  Sun Dec 10 18:44:15 ART 2023
+ProcessKeyBinding 401 when=1702244655740 modifiers=40 code=52 char=52(R) false true
+--------------- 943 --------------
+  Sun Dec 10 18:44:15 ART 2023
+ProcessKeyBinding 402 when=1702244655803 modifiers=40 code=52 char=52(R) false true
+--------------- 944 --------------
+  Sun Dec 10 18:44:15 ART 2023
+ProcessKeyBinding 402 when=1702244655928 modifiers=0 code=10 char=ffff false true
+--------------- 945 --------------
+  Sun Dec 10 18:44:16 ART 2023
+ProcessKeyBinding 401 when=1702244656115 modifiers=0 code=30 char=30(0) false true
+--------------- 946 --------------
+  Sun Dec 10 18:44:16 ART 2023
+ProcessKeyBinding 402 when=1702244656178 modifiers=0 code=30 char=30(0) false true
+--------------- 947 --------------
+  Sun Dec 10 18:44:19 ART 2023
+ProcessKeyBinding 401 when=1702244659553 modifiers=80 code=11 char=ffff false false
+--------------- 948 --------------
+  Sun Dec 10 18:44:19 ART 2023
+Menu Activated: Edit | Properties | Object Properties...
+Currently highlighted: 
+    Annotation text
+--------------- 949 --------------
+  Sun Dec 10 18:44:19 ART 2023
+ProcessKeyBinding 400 when=1702244659849 modifiers=80 code=0 char=9 false false
+--------------- 950 --------------
+  Sun Dec 10 18:44:19 ART 2023
+ProcessKeyBinding 402 when=1702244659943 modifiers=0 code=11 char=ffff false false
+--------------- 951 --------------
+  Sun Dec 10 18:44:40 ART 2023
+ProcessKeyBinding 401 when=1702244680881 modifiers=80 code=11 char=ffff false false
+--------------- 952 --------------
+  Sun Dec 10 18:44:41 ART 2023
+Menu Activated: Edit | Properties | Object Properties...
+Currently highlighted: 
+    Annotation text
+--------------- 953 --------------
+  Sun Dec 10 18:44:41 ART 2023
+ProcessKeyBinding 400 when=1702244681162 modifiers=80 code=0 char=9 false false
+--------------- 954 --------------
+  Sun Dec 10 18:44:41 ART 2023
+ProcessKeyBinding 402 when=1702244681256 modifiers=0 code=11 char=ffff false false
+--------------- 955 --------------
+  Sun Dec 10 18:44:45 ART 2023
+ProcessKeyBinding 401 when=1702244685943 modifiers=80 code=11 char=ffff false false
+--------------- 956 --------------
+  Sun Dec 10 18:44:46 ART 2023
+Menu Activated: Edit | Properties | Object Properties...
+Currently highlighted: 
+    Annotation text
+--------------- 957 --------------
+  Sun Dec 10 18:44:46 ART 2023
+ProcessKeyBinding 400 when=1702244686224 modifiers=80 code=0 char=9 false false
+--------------- 958 --------------
+  Sun Dec 10 18:44:46 ART 2023
+ProcessKeyBinding 402 when=1702244686318 modifiers=0 code=11 char=ffff false false
+--------------- 959 --------------
+  Sun Dec 10 18:45:17 ART 2023
+Menu Activated: Edit | Erase | Selected
+--------------- 960 --------------
+  Sun Dec 10 18:45:17 ART 2023
+ProcessKeyBinding 400 when=1702244717928 modifiers=0 code=0 char=7f false false
+--------------- 961 --------------
+  Sun Dec 10 18:45:23 ART 2023
+ProcessKeyBinding 401 when=1702244723771 modifiers=80 code=11 char=ffff false false
+--------------- 962 --------------
+  Sun Dec 10 18:45:25 ART 2023
+ProcessKeyBinding 402 when=1702244725709 modifiers=0 code=11 char=ffff false false
+--------------- 963 --------------
+  Sun Dec 10 18:45:27 ART 2023
+Menu Activated: Edit | Erase | Selected
+Currently highlighted: 
+    Annotation text
+--------------- 964 --------------
+  Sun Dec 10 18:45:27 ART 2023
+ProcessKeyBinding 400 when=1702244727865 modifiers=0 code=0 char=7f false false
+--------------- 965 --------------
+  Sun Dec 10 18:45:36 ART 2023
+ProcessKeyBinding 401 when=1702244736349 modifiers=80 code=11 char=ffff false false
+--------------- 966 --------------
+  Sun Dec 10 18:45:36 ART 2023
+Menu Activated: Edit | Properties | Object Properties...
+Currently highlighted: 
+    Annotation text
+--------------- 967 --------------
+  Sun Dec 10 18:45:36 ART 2023
+ProcessKeyBinding 400 when=1702244736646 modifiers=80 code=0 char=9 false false
+--------------- 968 --------------
+  Sun Dec 10 18:45:36 ART 2023
+ProcessKeyBinding 402 when=1702244736709 modifiers=0 code=11 char=ffff false false
+--------------- 969 --------------
+  Sun Dec 10 18:45:58 ART 2023
+ProcessKeyBinding 401 when=1702244758365 modifiers=80 code=11 char=ffff false false
+--------------- 970 --------------
+  Sun Dec 10 18:45:59 ART 2023
+Menu Activated: Edit | Properties | Object Properties...
+Currently highlighted: 
+    Annotation text
+--------------- 971 --------------
+  Sun Dec 10 18:45:59 ART 2023
+ProcessKeyBinding 400 when=1702244759115 modifiers=80 code=0 char=9 false false
+--------------- 972 --------------
+  Sun Dec 10 18:45:59 ART 2023
+ProcessKeyBinding 402 when=1702244759209 modifiers=0 code=11 char=ffff false false
+--------------- 973 --------------
+  Sun Dec 10 18:45:59 ART 2023
+ProcessKeyBinding 401 when=1702244759209 modifiers=80 code=11 char=ffff false false
+--------------- 974 --------------
+  Sun Dec 10 18:46:03 ART 2023
+ProcessKeyBinding 401 when=1702244763724 modifiers=80 code=11 char=ffff false false
+--------------- 975 --------------
+  Sun Dec 10 18:46:03 ART 2023
+Menu Activated: Edit | Copy
+Currently highlighted: 
+    Annotation text
+--------------- 976 --------------
+  Sun Dec 10 18:46:03 ART 2023
+ProcessKeyBinding 400 when=1702244763896 modifiers=80 code=0 char=3 false false
+--------------- 977 --------------
+  Sun Dec 10 18:46:04 ART 2023
+ProcessKeyBinding 402 when=1702244763990 modifiers=0 code=11 char=ffff false false
+--------------- 978 --------------
+  Sun Dec 10 18:46:06 ART 2023
+Menu Activated: Edit | Move | Move Objects Down
+Currently highlighted: 
+    com.sun.electric.tool.user.HighlightEOBJ in cell 'logic_CONTROL{sch}': 'ffsr_s{ic}[ffsr_s@1].S'
+--------------- 979 --------------
+  Sun Dec 10 18:46:06 ART 2023
+Menu Activated: Edit | Move | Move Objects Down
+Currently highlighted: 
+    com.sun.electric.tool.user.HighlightEOBJ in cell 'logic_CONTROL{sch}': 'ffsr_s{ic}[ffsr_s@1].S'
+--------------- 980 --------------
+  Sun Dec 10 18:46:06 ART 2023
+Menu Activated: Edit | Move | Move Objects Down
+Currently highlighted: 
+    com.sun.electric.tool.user.HighlightEOBJ in cell 'logic_CONTROL{sch}': 'ffsr_s{ic}[ffsr_s@1].S'
+--------------- 981 --------------
+  Sun Dec 10 18:46:06 ART 2023
+Menu Activated: Edit | Move | Move Objects Down
+Currently highlighted: 
+    com.sun.electric.tool.user.HighlightEOBJ in cell 'logic_CONTROL{sch}': 'ffsr_s{ic}[ffsr_s@1].S'
+--------------- 982 --------------
+  Sun Dec 10 18:46:08 ART 2023
+ProcessKeyBinding 401 when=1702244768287 modifiers=80 code=11 char=ffff false false
+--------------- 983 --------------
+  Sun Dec 10 18:46:08 ART 2023
+Menu Activated: Edit | Paste
+--------------- 984 --------------
+  Sun Dec 10 18:46:08 ART 2023
+ProcessKeyBinding 400 when=1702244768349 modifiers=80 code=0 char=16 false false
+--------------- 985 --------------
+  Sun Dec 10 18:46:08 ART 2023
+ProcessKeyBinding 402 when=1702244768443 modifiers=0 code=11 char=ffff false false
+--------------- 986 --------------
+  Sun Dec 10 18:46:11 ART 2023
+ProcessKeyBinding 402 when=1702244771849 modifiers=0 code=23 char=ffff false true
+--------------- 987 --------------
+  Sun Dec 10 18:46:12 ART 2023
+ProcessKeyBinding 402 when=1702244772287 modifiers=0 code=8 char=8 false true
+--------------- 988 --------------
+  Sun Dec 10 18:46:12 ART 2023
+ProcessKeyBinding 401 when=1702244772381 modifiers=0 code=31 char=31(1) false true
+--------------- 989 --------------
+  Sun Dec 10 18:46:12 ART 2023
+ProcessKeyBinding 402 when=1702244772459 modifiers=0 code=31 char=31(1) false true
+--------------- 990 --------------
+  Sun Dec 10 18:46:12 ART 2023
+ProcessKeyBinding 402 when=1702244772646 modifiers=0 code=25 char=ffff false true
+--------------- 991 --------------
+  Sun Dec 10 18:46:12 ART 2023
+ProcessKeyBinding 402 when=1702244772818 modifiers=0 code=25 char=ffff false true
+--------------- 992 --------------
+  Sun Dec 10 18:46:13 ART 2023
+ProcessKeyBinding 402 when=1702244773271 modifiers=0 code=8 char=8 false true
+--------------- 993 --------------
+  Sun Dec 10 18:46:13 ART 2023
+ProcessKeyBinding 401 when=1702244773318 modifiers=0 code=31 char=31(1) false true
+--------------- 994 --------------
+  Sun Dec 10 18:46:13 ART 2023
+ProcessKeyBinding 402 when=1702244773396 modifiers=0 code=31 char=31(1) false true
+--------------- 995 --------------
+  Sun Dec 10 18:46:13 ART 2023
+ProcessKeyBinding 402 when=1702244773693 modifiers=0 code=a char=a false true
+--------------- 996 --------------
+  Sun Dec 10 18:46:14 ART 2023
+ProcessKeyBinding 402 when=1702244774912 modifiers=0 code=8 char=8 false true
+--------------- 997 --------------
+  Sun Dec 10 18:46:18 ART 2023
+Menu Activated: Edit | Move | Move Objects Up
+Currently highlighted: 
+    Annotation text
+    Annotation text
+    com.sun.electric.tool.user.HighlightEOBJ in cell 'logic_CONTROL{sch}': ffsr_s{ic}['ffsr_s@1']
+    com.sun.electric.tool.user.HighlightEOBJ in cell 'logic_CONTROL{sch}': ffsr_s{ic}['ffsr_s@0']
+--------------- 998 --------------
+  Sun Dec 10 18:46:56 ART 2023
+ProcessKeyBinding 401 when=1702244816506 modifiers=80 code=11 char=ffff false false
+--------------- 999 --------------
+  Sun Dec 10 18:46:56 ART 2023
+Menu Activated: File | Save All Libraries
+--------------- 1000 --------------
+  Sun Dec 10 18:46:56 ART 2023
+ProcessKeyBinding 400 when=1702244816615 modifiers=80 code=0 char=13 false false
+--------------- 1001 --------------
+  Sun Dec 10 18:46:56 ART 2023
+ProcessKeyBinding 402 when=1702244816740 modifiers=0 code=11 char=ffff false false
+--------------- 1002 --------------
+  Sun Dec 10 18:46:58 ART 2023
+Menu Activated: Edit | Erase | Selected
+Currently highlighted: 
+    com.sun.electric.tool.user.HighlightEOBJ in cell 'logic_CONTROL{sch}': Wire_Pin['pin@4']
+    com.sun.electric.tool.user.HighlightEOBJ in cell 'logic_CONTROL{sch}': Wire_Pin['pin@5']
+    com.sun.electric.tool.user.HighlightEOBJ in cell 'logic_CONTROL{sch}': Wire_Pin['pin@3']
+    com.sun.electric.tool.user.HighlightEOBJ in cell 'logic_CONTROL{sch}': Wire_Pin['pin@6']
+    com.sun.electric.tool.user.HighlightEOBJ in cell 'logic_CONTROL{sch}': wire['net@2']
+    com.sun.electric.tool.user.HighlightEOBJ in cell 'logic_CONTROL{sch}': wire['net@5']
+    com.sun.electric.tool.user.HighlightEOBJ in cell 'logic_CONTROL{sch}': wire['net@0']
+    com.sun.electric.tool.user.HighlightEOBJ in cell 'logic_CONTROL{sch}': wire['net@1']
+    com.sun.electric.tool.user.HighlightEOBJ in cell 'logic_CONTROL{sch}': wire['net@3']
+    com.sun.electric.tool.user.HighlightEOBJ in cell 'logic_CONTROL{sch}': wire['net@4']
+--------------- 1003 --------------
+  Sun Dec 10 18:46:58 ART 2023
+ProcessKeyBinding 400 when=1702244818881 modifiers=0 code=0 char=7f false false
+--------------- 1004 --------------
+  Sun Dec 10 18:47:10 ART 2023
+Menu Activated: Edit | Move | Move Objects Up
+Currently highlighted: 
+    Export 'R0'
+    Export 'S0'
+    com.sun.electric.tool.user.HighlightEOBJ in cell 'logic_S0R0{ic}': schematic:Bus_Pin['pin@10']
+    com.sun.electric.tool.user.HighlightEOBJ in cell 'logic_S0R0{ic}': schematic:Bus_Pin['pin@14']
+    com.sun.electric.tool.user.HighlightEOBJ in cell 'logic_S0R0{ic}': schematic:wire['net@5']
+    com.sun.electric.tool.user.HighlightEOBJ in cell 'logic_S0R0{ic}': schematic:wire['net@7']
+--------------- 1005 --------------
+  Sun Dec 10 18:47:10 ART 2023
+Menu Activated: Edit | Move | Move Objects Up
+Currently highlighted: 
+    Export 'R0'
+    Export 'S0'
+    com.sun.electric.tool.user.HighlightEOBJ in cell 'logic_S0R0{ic}': schematic:Bus_Pin['pin@10']
+    com.sun.electric.tool.user.HighlightEOBJ in cell 'logic_S0R0{ic}': schematic:Bus_Pin['pin@14']
+    com.sun.electric.tool.user.HighlightEOBJ in cell 'logic_S0R0{ic}': schematic:wire['net@5']
+    com.sun.electric.tool.user.HighlightEOBJ in cell 'logic_S0R0{ic}': schematic:wire['net@7']
+--------------- 1006 --------------
+  Sun Dec 10 18:47:10 ART 2023
+Menu Activated: Edit | Move | Move Objects Up
+Currently highlighted: 
+    Export 'R0'
+    Export 'S0'
+    com.sun.electric.tool.user.HighlightEOBJ in cell 'logic_S0R0{ic}': schematic:Bus_Pin['pin@10']
+    com.sun.electric.tool.user.HighlightEOBJ in cell 'logic_S0R0{ic}': schematic:Bus_Pin['pin@14']
+    com.sun.electric.tool.user.HighlightEOBJ in cell 'logic_S0R0{ic}': schematic:wire['net@5']
+    com.sun.electric.tool.user.HighlightEOBJ in cell 'logic_S0R0{ic}': schematic:wire['net@7']
+--------------- 1007 --------------
+  Sun Dec 10 18:47:10 ART 2023
+Menu Activated: Edit | Move | Move Objects Up
+Currently highlighted: 
+    Export 'R0'
+    Export 'S0'
+    com.sun.electric.tool.user.HighlightEOBJ in cell 'logic_S0R0{ic}': schematic:Bus_Pin['pin@10']
+    com.sun.electric.tool.user.HighlightEOBJ in cell 'logic_S0R0{ic}': schematic:Bus_Pin['pin@14']
+    com.sun.electric.tool.user.HighlightEOBJ in cell 'logic_S0R0{ic}': schematic:wire['net@5']
+    com.sun.electric.tool.user.HighlightEOBJ in cell 'logic_S0R0{ic}': schematic:wire['net@7']
+--------------- 1008 --------------
+  Sun Dec 10 18:47:10 ART 2023
+Menu Activated: Edit | Move | Move Objects Up
+Currently highlighted: 
+    Export 'R0'
+    Export 'S0'
+    com.sun.electric.tool.user.HighlightEOBJ in cell 'logic_S0R0{ic}': schematic:Bus_Pin['pin@10']
+    com.sun.electric.tool.user.HighlightEOBJ in cell 'logic_S0R0{ic}': schematic:Bus_Pin['pin@14']
+    com.sun.electric.tool.user.HighlightEOBJ in cell 'logic_S0R0{ic}': schematic:wire['net@5']
+    com.sun.electric.tool.user.HighlightEOBJ in cell 'logic_S0R0{ic}': schematic:wire['net@7']
+--------------- 1009 --------------
+  Sun Dec 10 18:47:11 ART 2023
+Menu Activated: Edit | Move | Move Objects Down
+Currently highlighted: 
+    Export 'R0'
+    Export 'S0'
+    com.sun.electric.tool.user.HighlightEOBJ in cell 'logic_S0R0{ic}': schematic:Bus_Pin['pin@10']
+    com.sun.electric.tool.user.HighlightEOBJ in cell 'logic_S0R0{ic}': schematic:Bus_Pin['pin@14']
+    com.sun.electric.tool.user.HighlightEOBJ in cell 'logic_S0R0{ic}': schematic:wire['net@5']
+    com.sun.electric.tool.user.HighlightEOBJ in cell 'logic_S0R0{ic}': schematic:wire['net@7']
+--------------- 1010 --------------
+  Sun Dec 10 18:47:11 ART 2023
+Menu Activated: Edit | Move | Move Objects Up
+Currently highlighted: 
+    Export 'R0'
+    Export 'S0'
+    com.sun.electric.tool.user.HighlightEOBJ in cell 'logic_S0R0{ic}': schematic:Bus_Pin['pin@10']
+    com.sun.electric.tool.user.HighlightEOBJ in cell 'logic_S0R0{ic}': schematic:Bus_Pin['pin@14']
+    com.sun.electric.tool.user.HighlightEOBJ in cell 'logic_S0R0{ic}': schematic:wire['net@5']
+    com.sun.electric.tool.user.HighlightEOBJ in cell 'logic_S0R0{ic}': schematic:wire['net@7']
+--------------- 1011 --------------
+  Sun Dec 10 18:47:13 ART 2023
+Menu Activated: Edit | Move | Move Objects Down
+Currently highlighted: 
+    Export 'R0'
+    com.sun.electric.tool.user.HighlightEOBJ in cell 'logic_S0R0{ic}': schematic:Bus_Pin['pin@10']
+--------------- 1012 --------------
+  Sun Dec 10 18:47:13 ART 2023
+Menu Activated: Edit | Move | Move Objects Down
+Currently highlighted: 
+    Export 'R0'
+    com.sun.electric.tool.user.HighlightEOBJ in cell 'logic_S0R0{ic}': schematic:Bus_Pin['pin@10']
+--------------- 1013 --------------
+  Sun Dec 10 18:47:14 ART 2023
+ProcessKeyBinding 401 when=1702244834771 modifiers=80 code=11 char=ffff false false
+--------------- 1014 --------------
+  Sun Dec 10 18:47:14 ART 2023
+Menu Activated: File | Save All Libraries
+Currently highlighted: 
+    Export 'R0'
+    com.sun.electric.tool.user.HighlightEOBJ in cell 'logic_S0R0{ic}': schematic:Bus_Pin['pin@10']
+--------------- 1015 --------------
+  Sun Dec 10 18:47:14 ART 2023
+ProcessKeyBinding 400 when=1702244834912 modifiers=80 code=0 char=13 false false
+--------------- 1016 --------------
+  Sun Dec 10 18:47:15 ART 2023
+ProcessKeyBinding 402 when=1702244835053 modifiers=0 code=11 char=ffff false false
+--------------- 1017 --------------
+  Sun Dec 10 18:47:20 ART 2023
+ProcessKeyBinding 401 when=1702244840224 modifiers=80 code=11 char=ffff false false
+--------------- 1018 --------------
+  Sun Dec 10 18:47:20 ART 2023
+ProcessKeyBinding 402 when=1702244840631 modifiers=0 code=11 char=ffff false false
+--------------- 1019 --------------
+  Sun Dec 10 18:47:28 ART 2023
+ProcessKeyBinding 401 when=1702244848553 modifiers=80 code=11 char=ffff false false
+--------------- 1020 --------------
+  Sun Dec 10 18:47:28 ART 2023
+ProcessKeyBinding 402 when=1702244848974 modifiers=0 code=11 char=ffff false false
+--------------- 1021 --------------
+  Sun Dec 10 18:47:29 ART 2023
+ProcessKeyBinding 401 when=1702244849099 modifiers=80 code=11 char=ffff false false
+--------------- 1022 --------------
+  Sun Dec 10 18:47:29 ART 2023
+Menu Activated: File | Save All Libraries
+--------------- 1023 --------------
+  Sun Dec 10 18:47:29 ART 2023
+ProcessKeyBinding 400 when=1702244849381 modifiers=80 code=0 char=13 false false
+--------------- 1024 --------------
+  Sun Dec 10 18:47:29 ART 2023
+ProcessKeyBinding 402 when=1702244849506 modifiers=0 code=11 char=ffff false false
+--------------- 1025 --------------
+  Sun Dec 10 18:47:43 ART 2023
+ProcessKeyBinding 401 when=1702244863099 modifiers=80 code=11 char=ffff false false
+--------------- 1026 --------------
+  Sun Dec 10 18:47:43 ART 2023
+Menu Activated: File | Save All Libraries
+--------------- 1027 --------------
+  Sun Dec 10 18:47:43 ART 2023
+ProcessKeyBinding 400 when=1702244863537 modifiers=80 code=0 char=13 false false
+--------------- 1028 --------------
+  Sun Dec 10 18:47:43 ART 2023
+ProcessKeyBinding 402 when=1702244863662 modifiers=0 code=11 char=ffff false false
+--------------- 1029 --------------
+  Sun Dec 10 18:47:58 ART 2023
+ProcessKeyBinding 401 when=1702244878756 modifiers=80 code=11 char=ffff false false
+--------------- 1030 --------------
+  Sun Dec 10 18:47:59 ART 2023
+Menu Activated: File | Save All Libraries
+--------------- 1031 --------------
+  Sun Dec 10 18:47:59 ART 2023
+ProcessKeyBinding 400 when=1702244879256 modifiers=80 code=0 char=13 false false
+--------------- 1032 --------------
+  Sun Dec 10 18:47:59 ART 2023
+ProcessKeyBinding 402 when=1702244879303 modifiers=0 code=11 char=ffff false false
+--------------- 1033 --------------
+  Sun Dec 10 18:48:08 ART 2023
+ProcessKeyBinding 401 when=1702244888474 modifiers=80 code=11 char=ffff false false
+--------------- 1034 --------------
+  Sun Dec 10 18:48:08 ART 2023
+Menu Activated: File | Save All Libraries
+--------------- 1035 --------------
+  Sun Dec 10 18:48:08 ART 2023
+ProcessKeyBinding 400 when=1702244888615 modifiers=80 code=0 char=13 false false
+--------------- 1036 --------------
+  Sun Dec 10 18:48:08 ART 2023
+ProcessKeyBinding 402 when=1702244888740 modifiers=0 code=11 char=ffff false false
+--------------- 1037 --------------
+  Sun Dec 10 18:48:22 ART 2023
+ProcessKeyBinding 401 when=1702244902521 modifiers=80 code=11 char=ffff false false
+--------------- 1038 --------------
+  Sun Dec 10 18:48:22 ART 2023
+Menu Activated: File | Save All Libraries
+--------------- 1039 --------------
+  Sun Dec 10 18:48:22 ART 2023
+ProcessKeyBinding 400 when=1702244902693 modifiers=80 code=0 char=13 false false
+--------------- 1040 --------------
+  Sun Dec 10 18:48:22 ART 2023
+ProcessKeyBinding 402 when=1702244902787 modifiers=0 code=11 char=ffff false false
+--------------- 1041 --------------
+  Sun Dec 10 18:48:39 ART 2023
+ProcessKeyBinding 401 when=1702244919709 modifiers=80 code=11 char=ffff false false
+--------------- 1042 --------------
+  Sun Dec 10 18:48:39 ART 2023
+Menu Activated: File | Save All Libraries
+--------------- 1043 --------------
+  Sun Dec 10 18:48:39 ART 2023
+ProcessKeyBinding 400 when=1702244919912 modifiers=80 code=0 char=13 false false
+--------------- 1044 --------------
+  Sun Dec 10 18:48:40 ART 2023
+ProcessKeyBinding 402 when=1702244920037 modifiers=0 code=11 char=ffff false false
+--------------- 1045 --------------
+  Sun Dec 10 18:48:52 ART 2023
+ProcessKeyBinding 401 when=1702244932490 modifiers=80 code=11 char=ffff false false
+--------------- 1046 --------------
+  Sun Dec 10 18:48:52 ART 2023
+Menu Activated: File | Save All Libraries
+--------------- 1047 --------------
+  Sun Dec 10 18:48:52 ART 2023
+ProcessKeyBinding 400 when=1702244932631 modifiers=80 code=0 char=13 false false
+--------------- 1048 --------------
+  Sun Dec 10 18:48:52 ART 2023
+ProcessKeyBinding 402 when=1702244932740 modifiers=0 code=11 char=ffff false false
+--------------- 1049 --------------
+  Sun Dec 10 18:49:08 ART 2023
+Menu Activated: Edit | Move | Move Objects Up
+Currently highlighted: 
+    com.sun.electric.tool.user.HighlightEOBJ in cell 'logic_CONTROL{sch}': wire['net@24']
+    com.sun.electric.tool.user.HighlightEOBJ in cell 'logic_CONTROL{sch}': wire['net@30']
+--------------- 1050 --------------
+  Sun Dec 10 18:49:09 ART 2023
+Menu Activated: Edit | Move | Move Objects Down
+Currently highlighted: 
+    com.sun.electric.tool.user.HighlightEOBJ in cell 'logic_CONTROL{sch}': wire['net@24']
+    com.sun.electric.tool.user.HighlightEOBJ in cell 'logic_CONTROL{sch}': wire['net@30']
+--------------- 1051 --------------
+  Sun Dec 10 18:49:09 ART 2023
+Menu Activated: Edit | Move | Move Objects Down
+Currently highlighted: 
+    com.sun.electric.tool.user.HighlightEOBJ in cell 'logic_CONTROL{sch}': wire['net@24']
+    com.sun.electric.tool.user.HighlightEOBJ in cell 'logic_CONTROL{sch}': wire['net@30']
+--------------- 1052 --------------
+  Sun Dec 10 18:49:13 ART 2023
+Menu Activated: Edit | Move | Move Objects Right
+Currently highlighted: 
+    com.sun.electric.tool.user.HighlightEOBJ in cell 'logic_CONTROL{sch}': wire['net@23']
+--------------- 1053 --------------
+  Sun Dec 10 18:49:14 ART 2023
+Menu Activated: Edit | Move | Move Objects Right
+Currently highlighted: 
+    com.sun.electric.tool.user.HighlightEOBJ in cell 'logic_CONTROL{sch}': wire['net@23']
+--------------- 1054 --------------
+  Sun Dec 10 18:49:14 ART 2023
+Menu Activated: Edit | Move | Move Objects Right
+Currently highlighted: 
+    com.sun.electric.tool.user.HighlightEOBJ in cell 'logic_CONTROL{sch}': wire['net@23']
+--------------- 1055 --------------
+  Sun Dec 10 18:49:16 ART 2023
+Menu Activated: Edit | Move | Move Objects Left
+Currently highlighted: 
+    com.sun.electric.tool.user.HighlightEOBJ in cell 'logic_CONTROL{sch}': wire['net@23']
+    com.sun.electric.tool.user.HighlightEOBJ in cell 'logic_CONTROL{sch}': wire['net@29']
+--------------- 1056 --------------
+  Sun Dec 10 18:49:17 ART 2023
+Menu Activated: Edit | Move | Move Objects Left
+Currently highlighted: 
+    com.sun.electric.tool.user.HighlightEOBJ in cell 'logic_CONTROL{sch}': wire['net@23']
+    com.sun.electric.tool.user.HighlightEOBJ in cell 'logic_CONTROL{sch}': wire['net@29']
+--------------- 1057 --------------
+  Sun Dec 10 18:49:17 ART 2023
+Menu Activated: Edit | Move | Move Objects Left
+Currently highlighted: 
+    com.sun.electric.tool.user.HighlightEOBJ in cell 'logic_CONTROL{sch}': wire['net@23']
+    com.sun.electric.tool.user.HighlightEOBJ in cell 'logic_CONTROL{sch}': wire['net@29']
+--------------- 1058 --------------
+  Sun Dec 10 18:49:29 ART 2023
+Menu Activated: Edit | Move | Move Objects Right
+Currently highlighted: 
+    com.sun.electric.tool.user.HighlightEOBJ in cell 'logic_CONTROL{sch}': wire['net@40']
+--------------- 1059 --------------
+  Sun Dec 10 18:49:30 ART 2023
+Menu Activated: Edit | Move | Move Objects Left
+Currently highlighted: 
+    com.sun.electric.tool.user.HighlightEOBJ in cell 'logic_CONTROL{sch}': wire['net@40']
+--------------- 1060 --------------
+  Sun Dec 10 18:49:32 ART 2023
+Menu Activated: Edit | Erase | Selected
+Currently highlighted: 
+    com.sun.electric.tool.user.HighlightEOBJ in cell 'logic_CONTROL{sch}': wire['net@40']
+--------------- 1061 --------------
+  Sun Dec 10 18:49:32 ART 2023
+ProcessKeyBinding 400 when=1702244972881 modifiers=0 code=0 char=7f false false
+--------------- 1062 --------------
+  Sun Dec 10 18:49:34 ART 2023
+Menu Activated: Edit | Move | Move Objects Right
+Currently highlighted: 
+    com.sun.electric.tool.user.HighlightEOBJ in cell 'logic_CONTROL{sch}': 'Wire_Pin[pin@32].wire'
+--------------- 1063 --------------
+  Sun Dec 10 18:49:34 ART 2023
+Menu Activated: Edit | Move | Move Objects Right
+Currently highlighted: 
+    com.sun.electric.tool.user.HighlightEOBJ in cell 'logic_CONTROL{sch}': 'Wire_Pin[pin@32].wire'
+--------------- 1064 --------------
+  Sun Dec 10 18:49:35 ART 2023
+Menu Activated: Edit | Move | Move Objects Left
+Currently highlighted: 
+    com.sun.electric.tool.user.HighlightEOBJ in cell 'logic_CONTROL{sch}': 'Wire_Pin[pin@32].wire'
+--------------- 1065 --------------
+  Sun Dec 10 18:49:36 ART 2023
+Menu Activated: Edit | Move | Move Objects Right
+Currently highlighted: 
+    com.sun.electric.tool.user.HighlightEOBJ in cell 'logic_CONTROL{sch}': 'Wire_Pin[pin@32].wire'
+--------------- 1066 --------------
+  Sun Dec 10 18:49:37 ART 2023
+ProcessKeyBinding 401 when=1702244977365 modifiers=80 code=11 char=ffff false false
+--------------- 1067 --------------
+  Sun Dec 10 18:49:37 ART 2023
+ProcessKeyBinding 402 when=1702244977662 modifiers=0 code=11 char=ffff false false
+--------------- 1068 --------------
+  Sun Dec 10 18:49:39 ART 2023
+Menu Activated: Edit | Move | Move Objects Left
+Currently highlighted: 
+    com.sun.electric.tool.user.HighlightEOBJ in cell 'logic_CONTROL{sch}': 'Wire_Pin[pin@32].wire'
+--------------- 1069 --------------
+  Sun Dec 10 18:49:44 ART 2023
+Menu Activated: Edit | Move | Move Objects Right
+Currently highlighted: 
+    com.sun.electric.tool.user.HighlightEOBJ in cell 'logic_CONTROL{sch}': wire['net@44']
+--------------- 1070 --------------
+  Sun Dec 10 18:49:45 ART 2023
+Menu Activated: Edit | Move | Move Objects Left
+Currently highlighted: 
+    com.sun.electric.tool.user.HighlightEOBJ in cell 'logic_CONTROL{sch}': wire['net@44']
+--------------- 1071 --------------
+  Sun Dec 10 18:49:47 ART 2023
+ProcessKeyBinding 401 when=1702244987209 modifiers=80 code=11 char=ffff false false
+--------------- 1072 --------------
+  Sun Dec 10 18:49:47 ART 2023
+ProcessKeyBinding 402 when=1702244987740 modifiers=0 code=11 char=ffff false false
+--------------- 1073 --------------
+  Sun Dec 10 18:49:56 ART 2023
+ProcessKeyBinding 401 when=1702244996537 modifiers=80 code=11 char=ffff false false
+--------------- 1074 --------------
+  Sun Dec 10 18:49:56 ART 2023
+Menu Activated: File | Save All Libraries
+--------------- 1075 --------------
+  Sun Dec 10 18:49:56 ART 2023
+ProcessKeyBinding 400 when=1702244996693 modifiers=80 code=0 char=13 false false
+--------------- 1076 --------------
+  Sun Dec 10 18:49:56 ART 2023
+ProcessKeyBinding 402 when=1702244996803 modifiers=0 code=11 char=ffff false false
+--------------- 1077 --------------
+  Sun Dec 10 18:50:23 ART 2023
+ProcessKeyBinding 401 when=1702245023240 modifiers=80 code=11 char=ffff false false
+--------------- 1078 --------------
+  Sun Dec 10 18:50:23 ART 2023
+Menu Activated: File | Save All Libraries
+--------------- 1079 --------------
+  Sun Dec 10 18:50:23 ART 2023
+ProcessKeyBinding 400 when=1702245023662 modifiers=80 code=0 char=13 false false
+--------------- 1080 --------------
+  Sun Dec 10 18:50:23 ART 2023
+ProcessKeyBinding 402 when=1702245023756 modifiers=0 code=11 char=ffff false false
+--------------- 1081 --------------
+  Sun Dec 10 18:50:28 ART 2023
+Menu Activated: Edit | Move | Move Objects Left
+Currently highlighted: 
+    com.sun.electric.tool.user.HighlightEOBJ in cell 'logic_CONTROL{sch}': wire['net@53']
+--------------- 1082 --------------
+  Sun Dec 10 18:50:28 ART 2023
+Menu Activated: Edit | Move | Move Objects Left
+Currently highlighted: 
+    com.sun.electric.tool.user.HighlightEOBJ in cell 'logic_CONTROL{sch}': wire['net@53']
+--------------- 1083 --------------
+  Sun Dec 10 18:50:30 ART 2023
+Menu Activated: Edit | Move | Move Objects Left
+Currently highlighted: 
+    com.sun.electric.tool.user.HighlightEOBJ in cell 'logic_CONTROL{sch}': wire['net@56']
+--------------- 1084 --------------
+  Sun Dec 10 18:50:31 ART 2023
+Menu Activated: Edit | Move | Move Objects Left
+Currently highlighted: 
+    com.sun.electric.tool.user.HighlightEOBJ in cell 'logic_CONTROL{sch}': wire['net@56']
+--------------- 1085 --------------
+  Sun Dec 10 19:06:43 ART 2023
+ProcessKeyBinding 401 when=1702246003818 modifiers=80 code=11 char=ffff false false
+--------------- 1086 --------------
+  Sun Dec 10 19:06:44 ART 2023
+Menu Activated: Export | Create Export...
+Currently highlighted: 
+    com.sun.electric.tool.user.HighlightEOBJ in cell 'logic_CONTROL{sch}': 'Off-Page[conn@0].y'
+--------------- 1087 --------------
+  Sun Dec 10 19:06:44 ART 2023
+ProcessKeyBinding 400 when=1702246004037 modifiers=80 code=0 char=5 false false
+--------------- 1088 --------------
+  Sun Dec 10 19:06:49 ART 2023
+ProcessKeyBinding 401 when=1702246009881 modifiers=80 code=11 char=ffff false false
+--------------- 1089 --------------
+  Sun Dec 10 19:06:49 ART 2023
+Menu Activated: Edit | Copy
+Currently highlighted: 
+    Export 'EN'
+    com.sun.electric.tool.user.HighlightEOBJ in cell 'logic_CONTROL{sch}': Off-Page['conn@0']
+--------------- 1090 --------------
+  Sun Dec 10 19:06:49 ART 2023
+ProcessKeyBinding 400 when=1702246009959 modifiers=80 code=0 char=3 false false
+--------------- 1091 --------------
+  Sun Dec 10 19:06:50 ART 2023
+ProcessKeyBinding 402 when=1702246010021 modifiers=0 code=11 char=ffff false false
+--------------- 1092 --------------
+  Sun Dec 10 19:06:50 ART 2023
+ProcessKeyBinding 401 when=1702246010303 modifiers=80 code=11 char=ffff false false
+--------------- 1093 --------------
+  Sun Dec 10 19:06:50 ART 2023
+Menu Activated: Edit | Paste
+--------------- 1094 --------------
+  Sun Dec 10 19:06:50 ART 2023
+ProcessKeyBinding 400 when=1702246010303 modifiers=80 code=0 char=16 false false
+--------------- 1095 --------------
+  Sun Dec 10 19:06:50 ART 2023
+ProcessKeyBinding 402 when=1702246010381 modifiers=0 code=11 char=ffff false false
+--------------- 1096 --------------
+  Sun Dec 10 19:06:52 ART 2023
+ProcessKeyBinding 401 when=1702246012787 modifiers=80 code=11 char=ffff false false
+--------------- 1097 --------------
+  Sun Dec 10 19:06:53 ART 2023
+Menu Activated: Export | Create Export...
+Currently highlighted: 
+    com.sun.electric.tool.user.HighlightEOBJ in cell 'logic_CONTROL{sch}': 'Off-Page[conn@1].a'
+--------------- 1098 --------------
+  Sun Dec 10 19:06:53 ART 2023
+ProcessKeyBinding 400 when=1702246012990 modifiers=80 code=0 char=5 false false
+--------------- 1099 --------------
+  Sun Dec 10 19:07:06 ART 2023
+Menu Activated: Edit | Erase | Selected
+Currently highlighted: 
+    com.sun.electric.tool.user.HighlightEOBJ in cell 'logic_CONTROL{sch}': 'Wire_Pin[pin@46].wire'
+--------------- 1100 --------------
+  Sun Dec 10 19:07:06 ART 2023
+ProcessKeyBinding 400 when=1702246026709 modifiers=0 code=0 char=7f false false
+--------------- 1101 --------------
+  Sun Dec 10 19:07:47 ART 2023
+ProcessKeyBinding 401 when=1702246067240 modifiers=80 code=11 char=ffff false false
+--------------- 1102 --------------
+  Sun Dec 10 19:07:47 ART 2023
+Menu Activated: File | Save All Libraries
+--------------- 1103 --------------
+  Sun Dec 10 19:07:47 ART 2023
+ProcessKeyBinding 400 when=1702246067537 modifiers=80 code=0 char=13 false false
+--------------- 1104 --------------
+  Sun Dec 10 19:07:47 ART 2023
+ProcessKeyBinding 402 when=1702246067662 modifiers=0 code=11 char=ffff false false
+--------------- 1105 --------------
+  Sun Dec 10 19:08:09 ART 2023
+ProcessKeyBinding 401 when=1702246089553 modifiers=40 code=10 char=ffff false true
+--------------- 1106 --------------
+  Sun Dec 10 19:08:10 ART 2023
+ProcessKeyBinding 401 when=1702246090224 modifiers=40 code=53 char=53(S) false true
+--------------- 1107 --------------
+  Sun Dec 10 19:08:10 ART 2023
+ProcessKeyBinding 402 when=1702246090334 modifiers=40 code=53 char=53(S) false true
+--------------- 1108 --------------
+  Sun Dec 10 19:08:10 ART 2023
+ProcessKeyBinding 402 when=1702246090428 modifiers=0 code=10 char=ffff false true
+--------------- 1109 --------------
+  Sun Dec 10 19:08:10 ART 2023
+ProcessKeyBinding 401 when=1702246090771 modifiers=0 code=30 char=30(0) false true
+--------------- 1110 --------------
+  Sun Dec 10 19:08:10 ART 2023
+ProcessKeyBinding 402 when=1702246090834 modifiers=0 code=30 char=30(0) false true
+--------------- 1111 --------------
+  Sun Dec 10 19:08:10 ART 2023
+ProcessKeyBinding 401 when=1702246090974 modifiers=0 code=20 char=20 false true
+--------------- 1112 --------------
+  Sun Dec 10 19:08:11 ART 2023
+ProcessKeyBinding 402 when=1702246091053 modifiers=0 code=20 char=20 false true
+--------------- 1113 --------------
+  Sun Dec 10 19:08:11 ART 2023
+ProcessKeyBinding 401 when=1702246091334 modifiers=0 code=41 char=61(a) false true
+--------------- 1114 --------------
+  Sun Dec 10 19:08:11 ART 2023
+ProcessKeyBinding 401 when=1702246091428 modifiers=0 code=4e char=6e(n) false true
+--------------- 1115 --------------
+  Sun Dec 10 19:08:11 ART 2023
+ProcessKeyBinding 402 when=1702246091443 modifiers=0 code=41 char=61(a) false true
+--------------- 1116 --------------
+  Sun Dec 10 19:08:11 ART 2023
+ProcessKeyBinding 402 when=1702246091521 modifiers=0 code=4e char=6e(n) false true
+--------------- 1117 --------------
+  Sun Dec 10 19:08:11 ART 2023
+ProcessKeyBinding 401 when=1702246091709 modifiers=0 code=44 char=64(d) false true
+--------------- 1118 --------------
+  Sun Dec 10 19:08:11 ART 2023
+ProcessKeyBinding 402 when=1702246091818 modifiers=0 code=44 char=64(d) false true
+--------------- 1119 --------------
+  Sun Dec 10 19:08:11 ART 2023
+ProcessKeyBinding 401 when=1702246091881 modifiers=0 code=20 char=20 false true
+--------------- 1120 --------------
+  Sun Dec 10 19:08:11 ART 2023
+ProcessKeyBinding 402 when=1702246091928 modifiers=0 code=20 char=20 false true
+--------------- 1121 --------------
+  Sun Dec 10 19:08:12 ART 2023
+ProcessKeyBinding 402 when=1702246092240 modifiers=0 code=8 char=8 false true
+--------------- 1122 --------------
+  Sun Dec 10 19:08:12 ART 2023
+ProcessKeyBinding 402 when=1702246092381 modifiers=0 code=8 char=8 false true
+--------------- 1123 --------------
+  Sun Dec 10 19:08:12 ART 2023
+ProcessKeyBinding 402 when=1702246092537 modifiers=0 code=8 char=8 false true
+--------------- 1124 --------------
+  Sun Dec 10 19:08:12 ART 2023
+ProcessKeyBinding 402 when=1702246092693 modifiers=0 code=8 char=8 false true
+--------------- 1125 --------------
+  Sun Dec 10 19:08:12 ART 2023
+ProcessKeyBinding 401 when=1702246092849 modifiers=40 code=10 char=ffff false true
+--------------- 1126 --------------
+  Sun Dec 10 19:08:14 ART 2023
+ProcessKeyBinding 401 when=1702246094443 modifiers=40 code=37 char=26(&) false true
+--------------- 1127 --------------
+  Sun Dec 10 19:08:14 ART 2023
+ProcessKeyBinding 402 when=1702246094521 modifiers=40 code=37 char=26(&) false true
+--------------- 1128 --------------
+  Sun Dec 10 19:08:15 ART 2023
+ProcessKeyBinding 401 when=1702246095490 modifiers=40 code=20 char=20 false true
+--------------- 1129 --------------
+  Sun Dec 10 19:08:15 ART 2023
+ProcessKeyBinding 402 when=1702246095568 modifiers=40 code=20 char=20 false true
+--------------- 1130 --------------
+  Sun Dec 10 19:08:15 ART 2023
+ProcessKeyBinding 401 when=1702246095662 modifiers=40 code=52 char=52(R) false true
+--------------- 1131 --------------
+  Sun Dec 10 19:08:15 ART 2023
+ProcessKeyBinding 401 when=1702246095740 modifiers=40 code=4f char=4f(O) false true
+--------------- 1132 --------------
+  Sun Dec 10 19:08:15 ART 2023
+ProcessKeyBinding 402 when=1702246095756 modifiers=40 code=52 char=52(R) false true
+--------------- 1133 --------------
+  Sun Dec 10 19:08:15 ART 2023
+ProcessKeyBinding 402 when=1702246095818 modifiers=40 code=4f char=4f(O) false true
+--------------- 1134 --------------
+  Sun Dec 10 19:08:16 ART 2023
+ProcessKeyBinding 402 when=1702246096381 modifiers=0 code=10 char=ffff false true
+--------------- 1135 --------------
+  Sun Dec 10 19:08:16 ART 2023
+ProcessKeyBinding 402 when=1702246096521 modifiers=0 code=8 char=8 false true
+--------------- 1136 --------------
+  Sun Dec 10 19:08:16 ART 2023
+ProcessKeyBinding 401 when=1702246096646 modifiers=0 code=30 char=30(0) false true
+--------------- 1137 --------------
+  Sun Dec 10 19:08:16 ART 2023
+ProcessKeyBinding 402 when=1702246096724 modifiers=0 code=30 char=30(0) false true
+--------------- 1138 --------------
+  Sun Dec 10 19:08:16 ART 2023
+ProcessKeyBinding 401 when=1702246096756 modifiers=0 code=20 char=20 false true
+--------------- 1139 --------------
+  Sun Dec 10 19:08:16 ART 2023
+ProcessKeyBinding 402 when=1702246096834 modifiers=0 code=20 char=20 false true
+--------------- 1140 --------------
+  Sun Dec 10 19:08:16 ART 2023
+ProcessKeyBinding 401 when=1702246096896 modifiers=40 code=10 char=ffff false true
+--------------- 1141 --------------
+  Sun Dec 10 19:08:17 ART 2023
+ProcessKeyBinding 402 when=1702246097193 modifiers=0 code=10 char=ffff false true
+--------------- 1142 --------------
+  Sun Dec 10 19:08:17 ART 2023
+ProcessKeyBinding 401 when=1702246097240 modifiers=0 code=4c char=6c(l) false true
+--------------- 1143 --------------
+  Sun Dec 10 19:08:17 ART 2023
+ProcessKeyBinding 402 when=1702246097318 modifiers=0 code=4c char=6c(l) false true
+--------------- 1144 --------------
+  Sun Dec 10 19:08:17 ART 2023
+ProcessKeyBinding 401 when=1702246097428 modifiers=0 code=4f char=6f(o) false true
+--------------- 1145 --------------
+  Sun Dec 10 19:08:17 ART 2023
+ProcessKeyBinding 402 when=1702246097490 modifiers=0 code=4f char=6f(o) false true
+--------------- 1146 --------------
+  Sun Dec 10 19:08:17 ART 2023
+ProcessKeyBinding 401 when=1702246097490 modifiers=0 code=47 char=67(g) false true
+--------------- 1147 --------------
+  Sun Dec 10 19:08:17 ART 2023
+ProcessKeyBinding 402 when=1702246097537 modifiers=0 code=47 char=67(g) false true
+--------------- 1148 --------------
+  Sun Dec 10 19:08:17 ART 2023
+ProcessKeyBinding 401 when=1702246097584 modifiers=0 code=49 char=69(i) false true
+--------------- 1149 --------------
+  Sun Dec 10 19:08:17 ART 2023
+ProcessKeyBinding 402 when=1702246097662 modifiers=0 code=49 char=69(i) false true
+--------------- 1150 --------------
+  Sun Dec 10 19:08:17 ART 2023
+ProcessKeyBinding 401 when=1702246097693 modifiers=0 code=43 char=63(c) false true
+--------------- 1151 --------------
+  Sun Dec 10 19:08:17 ART 2023
+ProcessKeyBinding 402 when=1702246097771 modifiers=0 code=43 char=63(c) false true
+--------------- 1152 --------------
+  Sun Dec 10 19:08:19 ART 2023
+ProcessKeyBinding 401 when=1702246099146 modifiers=80 code=11 char=ffff false false
+--------------- 1153 --------------
+  Sun Dec 10 19:08:19 ART 2023
+ProcessKeyBinding 402 when=1702246099490 modifiers=0 code=11 char=ffff false false
+--------------- 1154 --------------
+  Sun Dec 10 19:08:21 ART 2023
+ProcessKeyBinding 401 when=1702246101834 modifiers=80 code=11 char=ffff false false
+--------------- 1155 --------------
+  Sun Dec 10 19:08:22 ART 2023
+Menu Activated: Edit | Properties | Object Properties...
+Currently highlighted: 
+    Annotation text
+--------------- 1156 --------------
+  Sun Dec 10 19:08:22 ART 2023
+ProcessKeyBinding 400 when=1702246102178 modifiers=80 code=0 char=9 false false
+--------------- 1157 --------------
+  Sun Dec 10 19:08:22 ART 2023
+ProcessKeyBinding 402 when=1702246102209 modifiers=0 code=11 char=ffff false false
+--------------- 1158 --------------
+  Sun Dec 10 19:08:27 ART 2023
+ProcessKeyBinding 401 when=1702246107459 modifiers=80 code=11 char=ffff false false
+--------------- 1159 --------------
+  Sun Dec 10 19:08:27 ART 2023
+Menu Activated: Edit | Properties | Object Properties...
+Currently highlighted: 
+    Annotation text
+--------------- 1160 --------------
+  Sun Dec 10 19:08:27 ART 2023
+ProcessKeyBinding 400 when=1702246107709 modifiers=80 code=0 char=9 false false
+--------------- 1161 --------------
+  Sun Dec 10 19:08:27 ART 2023
+ProcessKeyBinding 402 when=1702246107740 modifiers=0 code=11 char=ffff false false
+--------------- 1162 --------------
+  Sun Dec 10 19:08:27 ART 2023
+ProcessKeyBinding 401 when=1702246107756 modifiers=80 code=11 char=ffff false false
+--------------- 1163 --------------
+  Sun Dec 10 19:08:45 ART 2023
+ProcessKeyBinding 401 when=1702246125209 modifiers=80 code=11 char=ffff false false
+--------------- 1164 --------------
+  Sun Dec 10 19:08:45 ART 2023
+Menu Activated: Edit | Copy
+Currently highlighted: 
+    Annotation text
+    com.sun.electric.tool.user.HighlightEOBJ in cell 'logic_S0R0{ic}': Box['art@2']
+--------------- 1165 --------------
+  Sun Dec 10 19:08:45 ART 2023
+ProcessKeyBinding 400 when=1702246125303 modifiers=80 code=0 char=3 false false
+--------------- 1166 --------------
+  Sun Dec 10 19:08:45 ART 2023
+ProcessKeyBinding 402 when=1702246125412 modifiers=0 code=11 char=ffff false false
+--------------- 1167 --------------
+  Sun Dec 10 19:08:46 ART 2023
+ProcessKeyBinding 401 when=1702246126178 modifiers=80 code=11 char=ffff false false
+--------------- 1168 --------------
+  Sun Dec 10 19:08:46 ART 2023
+Menu Activated: File | Save All Libraries
+--------------- 1169 --------------
+  Sun Dec 10 19:08:46 ART 2023
+ProcessKeyBinding 400 when=1702246126443 modifiers=80 code=0 char=13 false false
+--------------- 1170 --------------
+  Sun Dec 10 19:08:46 ART 2023
+ProcessKeyBinding 402 when=1702246126553 modifiers=0 code=11 char=ffff false false
+--------------- 1171 --------------
+  Sun Dec 10 19:08:51 ART 2023
+ProcessKeyBinding 401 when=1702246131599 modifiers=80 code=11 char=ffff false false
+--------------- 1172 --------------
+  Sun Dec 10 19:08:51 ART 2023
+Menu Activated: Edit | Paste
+--------------- 1173 --------------
+  Sun Dec 10 19:08:51 ART 2023
+ProcessKeyBinding 400 when=1702246131709 modifiers=80 code=0 char=16 false false
+--------------- 1174 --------------
+  Sun Dec 10 19:08:51 ART 2023
+ProcessKeyBinding 402 when=1702246131787 modifiers=0 code=11 char=ffff false false
+--------------- 1175 --------------
+  Sun Dec 10 19:08:53 ART 2023
+ProcessKeyBinding 401 when=1702246133724 modifiers=80 code=11 char=ffff false false
+--------------- 1176 --------------
+  Sun Dec 10 19:08:54 ART 2023
+ProcessKeyBinding 402 when=1702246134178 modifiers=0 code=11 char=ffff false false
+--------------- 1177 --------------
+  Sun Dec 10 19:08:54 ART 2023
+ProcessKeyBinding 401 when=1702246134881 modifiers=80 code=11 char=ffff false false
+--------------- 1178 --------------
+  Sun Dec 10 19:08:55 ART 2023
+ProcessKeyBinding 402 when=1702246135303 modifiers=0 code=11 char=ffff false false
+--------------- 1179 --------------
+  Sun Dec 10 19:08:57 ART 2023
+Menu Activated: Edit | Erase | Selected
+Currently highlighted: 
+    com.sun.electric.tool.user.HighlightEOBJ in cell 'logic_R1{ic}': 'Box[art@3].box'
+--------------- 1180 --------------
+  Sun Dec 10 19:08:57 ART 2023
+ProcessKeyBinding 400 when=1702246137537 modifiers=0 code=0 char=7f false false
+--------------- 1181 --------------
+  Sun Dec 10 19:09:01 ART 2023
+ProcessKeyBinding 401 when=1702246141099 modifiers=40 code=10 char=ffff false true
+--------------- 1182 --------------
+  Sun Dec 10 19:09:01 ART 2023
+ProcessKeyBinding 402 when=1702246141318 modifiers=40 code=27 char=ffff false true
+--------------- 1183 --------------
+  Sun Dec 10 19:09:01 ART 2023
+ProcessKeyBinding 402 when=1702246141459 modifiers=40 code=27 char=ffff false true
+--------------- 1184 --------------
+  Sun Dec 10 19:09:01 ART 2023
+ProcessKeyBinding 402 when=1702246141615 modifiers=40 code=27 char=ffff false true
+--------------- 1185 --------------
+  Sun Dec 10 19:09:01 ART 2023
+ProcessKeyBinding 402 when=1702246141756 modifiers=40 code=27 char=ffff false true
+--------------- 1186 --------------
+  Sun Dec 10 19:09:01 ART 2023
+ProcessKeyBinding 402 when=1702246141896 modifiers=40 code=27 char=ffff false true
+--------------- 1187 --------------
+  Sun Dec 10 19:09:02 ART 2023
+ProcessKeyBinding 402 when=1702246142068 modifiers=40 code=27 char=ffff false true
+--------------- 1188 --------------
+  Sun Dec 10 19:09:02 ART 2023
+ProcessKeyBinding 402 when=1702246142318 modifiers=0 code=10 char=ffff false true
+--------------- 1189 --------------
+  Sun Dec 10 19:09:02 ART 2023
+ProcessKeyBinding 401 when=1702246142865 modifiers=40 code=10 char=ffff false true
+--------------- 1190 --------------
+  Sun Dec 10 19:09:03 ART 2023
+ProcessKeyBinding 401 when=1702246142990 modifiers=40 code=52 char=52(R) false true
+--------------- 1191 --------------
+  Sun Dec 10 19:09:03 ART 2023
+ProcessKeyBinding 402 when=1702246143068 modifiers=0 code=10 char=ffff false true
+--------------- 1192 --------------
+  Sun Dec 10 19:09:03 ART 2023
+ProcessKeyBinding 402 when=1702246143084 modifiers=0 code=52 char=72(r) false true
+--------------- 1193 --------------
+  Sun Dec 10 19:09:03 ART 2023
+ProcessKeyBinding 402 when=1702246143443 modifiers=0 code=8 char=8 false true
+--------------- 1194 --------------
+  Sun Dec 10 19:09:03 ART 2023
+ProcessKeyBinding 402 when=1702246143568 modifiers=0 code=8 char=8 false true
+--------------- 1195 --------------
+  Sun Dec 10 19:09:03 ART 2023
+ProcessKeyBinding 401 when=1702246143568 modifiers=40 code=10 char=ffff false true
+--------------- 1196 --------------
+  Sun Dec 10 19:09:03 ART 2023
+ProcessKeyBinding 401 when=1702246143662 modifiers=40 code=52 char=52(R) false true
+--------------- 1197 --------------
+  Sun Dec 10 19:09:03 ART 2023
+ProcessKeyBinding 402 when=1702246143709 modifiers=0 code=10 char=ffff false true
+--------------- 1198 --------------
+  Sun Dec 10 19:09:03 ART 2023
+ProcessKeyBinding 402 when=1702246143740 modifiers=0 code=52 char=72(r) false true
+--------------- 1199 --------------
+  Sun Dec 10 19:09:03 ART 2023
+ProcessKeyBinding 401 when=1702246143849 modifiers=0 code=31 char=31(1) false true
+--------------- 1200 --------------
+  Sun Dec 10 19:09:03 ART 2023
+ProcessKeyBinding 402 when=1702246143928 modifiers=0 code=31 char=31(1) false true
+--------------- 1201 --------------
+  Sun Dec 10 19:09:06 ART 2023
+ProcessKeyBinding 401 when=1702246146459 modifiers=80 code=11 char=ffff false false
+--------------- 1202 --------------
+  Sun Dec 10 19:09:06 ART 2023
+Menu Activated: File | Save All Libraries
+--------------- 1203 --------------
+  Sun Dec 10 19:09:06 ART 2023
+ProcessKeyBinding 400 when=1702246146771 modifiers=80 code=0 char=13 false false
+--------------- 1204 --------------
+  Sun Dec 10 19:09:06 ART 2023
+ProcessKeyBinding 402 when=1702246146865 modifiers=0 code=11 char=ffff false false
+--------------- 1205 --------------
+  Sun Dec 10 19:09:09 ART 2023
+ProcessKeyBinding 401 when=1702246149006 modifiers=80 code=11 char=ffff false false
+--------------- 1206 --------------
+  Sun Dec 10 19:09:09 ART 2023
+Menu Activated: Edit | Copy
+Currently highlighted: 
+    Annotation text
+--------------- 1207 --------------
+  Sun Dec 10 19:09:09 ART 2023
+ProcessKeyBinding 400 when=1702246149115 modifiers=80 code=0 char=3 false false
+--------------- 1208 --------------
+  Sun Dec 10 19:09:09 ART 2023
+ProcessKeyBinding 402 when=1702246149178 modifiers=0 code=11 char=ffff false false
+--------------- 1209 --------------
+  Sun Dec 10 19:09:13 ART 2023
+ProcessKeyBinding 401 when=1702246153599 modifiers=80 code=11 char=ffff false false
+--------------- 1210 --------------
+  Sun Dec 10 19:09:14 ART 2023
+ProcessKeyBinding 402 when=1702246154178 modifiers=0 code=11 char=ffff false false
+--------------- 1211 --------------
+  Sun Dec 10 19:09:14 ART 2023
+ProcessKeyBinding 401 when=1702246154443 modifiers=80 code=11 char=ffff false false
+--------------- 1212 --------------
+  Sun Dec 10 19:09:14 ART 2023
+Menu Activated: Edit | Paste
+--------------- 1213 --------------
+  Sun Dec 10 19:09:14 ART 2023
+ProcessKeyBinding 400 when=1702246154537 modifiers=80 code=0 char=16 false false
+--------------- 1214 --------------
+  Sun Dec 10 19:09:14 ART 2023
+ProcessKeyBinding 402 when=1702246154615 modifiers=0 code=11 char=ffff false false
+--------------- 1215 --------------
+  Sun Dec 10 19:09:18 ART 2023
+ProcessKeyBinding 402 when=1702246158318 modifiers=0 code=27 char=ffff false true
+--------------- 1216 --------------
+  Sun Dec 10 19:09:18 ART 2023
+ProcessKeyBinding 402 when=1702246158568 modifiers=0 code=8 char=8 false true
+--------------- 1217 --------------
+  Sun Dec 10 19:09:18 ART 2023
+ProcessKeyBinding 401 when=1702246158709 modifiers=40 code=10 char=ffff false true
+--------------- 1218 --------------
+  Sun Dec 10 19:09:18 ART 2023
+ProcessKeyBinding 401 when=1702246158928 modifiers=40 code=53 char=53(S) false true
+--------------- 1219 --------------
+  Sun Dec 10 19:09:19 ART 2023
+ProcessKeyBinding 402 when=1702246159006 modifiers=0 code=10 char=ffff false true
+--------------- 1220 --------------
+  Sun Dec 10 19:09:19 ART 2023
+ProcessKeyBinding 402 when=1702246159021 modifiers=0 code=53 char=73(s) false true
+--------------- 1221 --------------
+  Sun Dec 10 19:09:20 ART 2023
+ProcessKeyBinding 401 when=1702246160256 modifiers=80 code=11 char=ffff false false
+--------------- 1222 --------------
+  Sun Dec 10 19:09:20 ART 2023
+Menu Activated: File | Save All Libraries
+Currently highlighted: 
+    Annotation text
+--------------- 1223 --------------
+  Sun Dec 10 19:09:20 ART 2023
+ProcessKeyBinding 400 when=1702246160474 modifiers=80 code=0 char=13 false false
+--------------- 1224 --------------
+  Sun Dec 10 19:09:20 ART 2023
+ProcessKeyBinding 402 when=1702246160646 modifiers=0 code=11 char=ffff false false
+--------------- 1225 --------------
+  Sun Dec 10 19:09:38 ART 2023
+ProcessKeyBinding 401 when=1702246178568 modifiers=40 code=10 char=ffff false true
+--------------- 1226 --------------
+  Sun Dec 10 19:09:38 ART 2023
+ProcessKeyBinding 401 when=1702246178943 modifiers=40 code=4f char=4f(O) false true
+--------------- 1227 --------------
+  Sun Dec 10 19:09:39 ART 2023
+ProcessKeyBinding 402 when=1702246179021 modifiers=40 code=4f char=4f(O) false true
+--------------- 1228 --------------
+  Sun Dec 10 19:09:39 ART 2023
+ProcessKeyBinding 402 when=1702246179053 modifiers=0 code=10 char=ffff false true
+--------------- 1229 --------------
+  Sun Dec 10 19:09:39 ART 2023
+ProcessKeyBinding 401 when=1702246179099 modifiers=0 code=55 char=75(u) false true
+--------------- 1230 --------------
+  Sun Dec 10 19:09:39 ART 2023
+ProcessKeyBinding 402 when=1702246179178 modifiers=0 code=55 char=75(u) false true
+--------------- 1231 --------------
+  Sun Dec 10 19:09:39 ART 2023
+ProcessKeyBinding 401 when=1702246179193 modifiers=0 code=54 char=74(t) false true
+--------------- 1232 --------------
+  Sun Dec 10 19:09:39 ART 2023
+ProcessKeyBinding 402 when=1702246179303 modifiers=0 code=54 char=74(t) false true
+--------------- 1233 --------------
+  Sun Dec 10 19:09:40 ART 2023
+ProcessKeyBinding 401 when=1702246179990 modifiers=0 code=50 char=70(p) false true
+--------------- 1234 --------------
+  Sun Dec 10 19:09:40 ART 2023
+ProcessKeyBinding 402 when=1702246180068 modifiers=0 code=50 char=70(p) false true
+--------------- 1235 --------------
+  Sun Dec 10 19:09:40 ART 2023
+ProcessKeyBinding 401 when=1702246180146 modifiers=0 code=55 char=75(u) false true
+--------------- 1236 --------------
+  Sun Dec 10 19:09:40 ART 2023
+ProcessKeyBinding 401 when=1702246180240 modifiers=0 code=54 char=74(t) false true
+--------------- 1237 --------------
+  Sun Dec 10 19:09:40 ART 2023
+ProcessKeyBinding 402 when=1702246180240 modifiers=0 code=55 char=75(u) false true
+--------------- 1238 --------------
+  Sun Dec 10 19:09:40 ART 2023
+ProcessKeyBinding 402 when=1702246180287 modifiers=0 code=54 char=74(t) false true
+--------------- 1239 --------------
+  Sun Dec 10 19:09:40 ART 2023
+ProcessKeyBinding 401 when=1702246180412 modifiers=0 code=53 char=73(s) false true
+--------------- 1240 --------------
+  Sun Dec 10 19:09:40 ART 2023
+ProcessKeyBinding 402 when=1702246180474 modifiers=0 code=53 char=73(s) false true
+--------------- 1241 --------------
+  Sun Dec 10 19:09:40 ART 2023
+ProcessKeyBinding 401 when=1702246180599 modifiers=0 code=20 char=20 false true
+--------------- 1242 --------------
+  Sun Dec 10 19:09:40 ART 2023
+ProcessKeyBinding 402 when=1702246180678 modifiers=0 code=20 char=20 false true
+--------------- 1243 --------------
+  Sun Dec 10 19:09:41 ART 2023
+ProcessKeyBinding 402 when=1702246181162 modifiers=0 code=a char=a false true
+--------------- 1244 --------------
+  Sun Dec 10 19:09:41 ART 2023
+ProcessKeyBinding 401 when=1702246181459 modifiers=40 code=10 char=ffff false true
+--------------- 1245 --------------
+  Sun Dec 10 19:09:41 ART 2023
+ProcessKeyBinding 401 when=1702246181912 modifiers=40 code=4c char=4c(L) false true
+--------------- 1246 --------------
+  Sun Dec 10 19:09:42 ART 2023
+ProcessKeyBinding 402 when=1702246181990 modifiers=40 code=4c char=4c(L) false true
+--------------- 1247 --------------
+  Sun Dec 10 19:09:42 ART 2023
+ProcessKeyBinding 402 when=1702246182006 modifiers=0 code=10 char=ffff false true
+--------------- 1248 --------------
+  Sun Dec 10 19:09:42 ART 2023
+ProcessKeyBinding 402 when=1702246182443 modifiers=0 code=8 char=8 false true
+--------------- 1249 --------------
+  Sun Dec 10 19:09:42 ART 2023
+ProcessKeyBinding 401 when=1702246182553 modifiers=0 code=4c char=6c(l) false true
+--------------- 1250 --------------
+  Sun Dec 10 19:09:42 ART 2023
+ProcessKeyBinding 402 when=1702246182646 modifiers=0 code=4c char=6c(l) false true
+--------------- 1251 --------------
+  Sun Dec 10 19:09:42 ART 2023
+ProcessKeyBinding 401 when=1702246182709 modifiers=0 code=4f char=6f(o) false true
+--------------- 1252 --------------
+  Sun Dec 10 19:09:42 ART 2023
+ProcessKeyBinding 402 when=1702246182787 modifiers=0 code=4f char=6f(o) false true
+--------------- 1253 --------------
+  Sun Dec 10 19:09:42 ART 2023
+ProcessKeyBinding 401 when=1702246182818 modifiers=0 code=47 char=67(g) false true
+--------------- 1254 --------------
+  Sun Dec 10 19:09:42 ART 2023
+ProcessKeyBinding 402 when=1702246182912 modifiers=0 code=47 char=67(g) false true
+--------------- 1255 --------------
+  Sun Dec 10 19:09:42 ART 2023
+ProcessKeyBinding 401 when=1702246182943 modifiers=0 code=49 char=69(i) false true
+--------------- 1256 --------------
+  Sun Dec 10 19:09:43 ART 2023
+ProcessKeyBinding 402 when=1702246183006 modifiers=0 code=49 char=69(i) false true
+--------------- 1257 --------------
+  Sun Dec 10 19:09:43 ART 2023
+ProcessKeyBinding 401 when=1702246183037 modifiers=0 code=43 char=63(c) false true
+--------------- 1258 --------------
+  Sun Dec 10 19:09:43 ART 2023
+ProcessKeyBinding 402 when=1702246183131 modifiers=0 code=43 char=63(c) false true
+--------------- 1259 --------------
+  Sun Dec 10 19:09:45 ART 2023
+ProcessKeyBinding 401 when=1702246185006 modifiers=80 code=11 char=ffff false false
+--------------- 1260 --------------
+  Sun Dec 10 19:09:45 ART 2023
+Menu Activated: Edit | Properties | Object Properties...
+Currently highlighted: 
+    Annotation text
+--------------- 1261 --------------
+  Sun Dec 10 19:09:45 ART 2023
+ProcessKeyBinding 400 when=1702246185287 modifiers=80 code=0 char=9 false false
+--------------- 1262 --------------
+  Sun Dec 10 19:09:45 ART 2023
+ProcessKeyBinding 402 when=1702246185334 modifiers=0 code=11 char=ffff false false
+--------------- 1263 --------------
+  Sun Dec 10 19:09:45 ART 2023
+ProcessKeyBinding 401 when=1702246185334 modifiers=80 code=11 char=ffff false false
+--------------- 1264 --------------
+  Sun Dec 10 19:10:03 ART 2023
+ProcessKeyBinding 401 when=1702246203631 modifiers=80 code=11 char=ffff false false
+--------------- 1265 --------------
+  Sun Dec 10 19:10:04 ART 2023
+Menu Activated: File | Save All Libraries
+--------------- 1266 --------------
+  Sun Dec 10 19:10:04 ART 2023
+ProcessKeyBinding 400 when=1702246204068 modifiers=80 code=0 char=13 false false
+--------------- 1267 --------------
+  Sun Dec 10 19:10:04 ART 2023
+ProcessKeyBinding 402 when=1702246204209 modifiers=0 code=11 char=ffff false false
+--------------- 1268 --------------
+  Sun Dec 10 19:10:10 ART 2023
+ProcessKeyBinding 401 when=1702246210334 modifiers=80 code=11 char=ffff false false
+--------------- 1269 --------------
+  Sun Dec 10 19:10:11 ART 2023
+ProcessKeyBinding 402 when=1702246211678 modifiers=0 code=11 char=ffff false false
+--------------- 1270 --------------
+  Sun Dec 10 19:10:11 ART 2023
+ProcessKeyBinding 401 when=1702246211803 modifiers=80 code=11 char=ffff false false
+--------------- 1271 --------------
+  Sun Dec 10 19:10:12 ART 2023
+ProcessKeyBinding 402 when=1702246212662 modifiers=0 code=11 char=ffff false false
+--------------- 1272 --------------
+  Sun Dec 10 19:10:23 ART 2023
+ProcessKeyBinding 401 when=1702246223709 modifiers=80 code=11 char=ffff false false
+--------------- 1273 --------------
+  Sun Dec 10 19:10:24 ART 2023
+Menu Activated: Edit | Properties | Object Properties...
+Currently highlighted: 
+    Annotation text
+--------------- 1274 --------------
+  Sun Dec 10 19:10:24 ART 2023
+ProcessKeyBinding 400 when=1702246224162 modifiers=80 code=0 char=9 false false
+--------------- 1275 --------------
+  Sun Dec 10 19:10:24 ART 2023
+ProcessKeyBinding 402 when=1702246224209 modifiers=0 code=11 char=ffff false false
+--------------- 1276 --------------
+  Sun Dec 10 19:10:24 ART 2023
+ProcessKeyBinding 401 when=1702246224209 modifiers=80 code=11 char=ffff false false
+--------------- 1277 --------------
+  Sun Dec 10 19:10:28 ART 2023
+ProcessKeyBinding 401 when=1702246228568 modifiers=80 code=11 char=ffff false false
+--------------- 1278 --------------
+  Sun Dec 10 19:10:28 ART 2023
+Menu Activated: File | Save All Libraries
+Currently highlighted: 
+    Annotation text
+--------------- 1279 --------------
+  Sun Dec 10 19:10:28 ART 2023
+ProcessKeyBinding 400 when=1702246228709 modifiers=80 code=0 char=13 false false
+--------------- 1280 --------------
+  Sun Dec 10 19:10:28 ART 2023
+ProcessKeyBinding 402 when=1702246228803 modifiers=0 code=11 char=ffff false false
+--------------- 1281 --------------
+  Sun Dec 10 19:10:31 ART 2023
+ProcessKeyBinding 401 when=1702246231474 modifiers=80 code=11 char=ffff false false
+--------------- 1282 --------------
+  Sun Dec 10 19:10:31 ART 2023
+Menu Activated: Edit | Properties | Object Properties...
+Currently highlighted: 
+    Annotation text
+--------------- 1283 --------------
+  Sun Dec 10 19:10:31 ART 2023
+ProcessKeyBinding 400 when=1702246231787 modifiers=80 code=0 char=9 false false
+--------------- 1284 --------------
+  Sun Dec 10 19:10:31 ART 2023
+ProcessKeyBinding 402 when=1702246231818 modifiers=0 code=11 char=ffff false false
+--------------- 1285 --------------
+  Sun Dec 10 19:10:35 ART 2023
+ProcessKeyBinding 401 when=1702246235349 modifiers=80 code=11 char=ffff false false
+--------------- 1286 --------------
+  Sun Dec 10 19:10:35 ART 2023
+Menu Activated: File | Save All Libraries
+Currently highlighted: 
+    Annotation text
+--------------- 1287 --------------
+  Sun Dec 10 19:10:35 ART 2023
+ProcessKeyBinding 400 when=1702246235521 modifiers=80 code=0 char=13 false false
+--------------- 1288 --------------
+  Sun Dec 10 19:10:35 ART 2023
+ProcessKeyBinding 402 when=1702246235646 modifiers=0 code=11 char=ffff false false
+--------------- 1289 --------------
+  Sun Dec 10 19:10:39 ART 2023
+ProcessKeyBinding 401 when=1702246239553 modifiers=80 code=11 char=ffff false false
+--------------- 1290 --------------
+  Sun Dec 10 19:10:39 ART 2023
+Menu Activated: Edit | Properties | Object Properties...
+Currently highlighted: 
+    Annotation text
+--------------- 1291 --------------
+  Sun Dec 10 19:10:39 ART 2023
+ProcessKeyBinding 400 when=1702246239865 modifiers=80 code=0 char=9 false false
+--------------- 1292 --------------
+  Sun Dec 10 19:10:39 ART 2023
+ProcessKeyBinding 402 when=1702246239912 modifiers=0 code=11 char=ffff false false
+--------------- 1293 --------------
+  Sun Dec 10 19:10:39 ART 2023
+ProcessKeyBinding 401 when=1702246239912 modifiers=80 code=11 char=ffff false false
+--------------- 1294 --------------
+  Sun Dec 10 19:10:46 ART 2023
+ProcessKeyBinding 401 when=1702246246709 modifiers=80 code=11 char=ffff false false
+--------------- 1295 --------------
+  Sun Dec 10 19:10:46 ART 2023
+Menu Activated: File | Save All Libraries
+--------------- 1296 --------------
+  Sun Dec 10 19:10:46 ART 2023
+ProcessKeyBinding 400 when=1702246246849 modifiers=80 code=0 char=13 false false
+--------------- 1297 --------------
+  Sun Dec 10 19:10:46 ART 2023
+ProcessKeyBinding 402 when=1702246246928 modifiers=0 code=11 char=ffff false false
+--------------- 1298 --------------
+  Sun Dec 10 19:10:55 ART 2023
+ProcessKeyBinding 401 when=1702246255693 modifiers=80 code=11 char=ffff false false
+--------------- 1299 --------------
+  Sun Dec 10 19:10:56 ART 2023
+Menu Activated: Edit | Properties | Object Properties...
+Currently highlighted: 
+    Annotation text
+--------------- 1300 --------------
+  Sun Dec 10 19:10:56 ART 2023
+ProcessKeyBinding 400 when=1702246256053 modifiers=80 code=0 char=9 false false
+--------------- 1301 --------------
+  Sun Dec 10 19:10:56 ART 2023
+ProcessKeyBinding 402 when=1702246256115 modifiers=0 code=11 char=ffff false false
+--------------- 1302 --------------
+  Sun Dec 10 19:10:56 ART 2023
+ProcessKeyBinding 401 when=1702246256115 modifiers=80 code=11 char=ffff false false
+--------------- 1303 --------------
+  Sun Dec 10 19:11:00 ART 2023
+ProcessKeyBinding 401 when=1702246260678 modifiers=80 code=11 char=ffff false false
+--------------- 1304 --------------
+  Sun Dec 10 19:11:00 ART 2023
+Menu Activated: File | Save All Libraries
+--------------- 1305 --------------
+  Sun Dec 10 19:11:00 ART 2023
+ProcessKeyBinding 400 when=1702246260787 modifiers=80 code=0 char=13 false false
+--------------- 1306 --------------
+  Sun Dec 10 19:11:00 ART 2023
+ProcessKeyBinding 402 when=1702246260881 modifiers=0 code=11 char=ffff false false
+--------------- 1307 --------------
+  Sun Dec 10 19:11:33 ART 2023
+ProcessKeyBinding 401 when=1702246293553 modifiers=80 code=11 char=ffff false false
+--------------- 1308 --------------
+  Sun Dec 10 19:11:33 ART 2023
+Menu Activated: Edit | Copy
+Currently highlighted: 
+    Export 'EN'
+    Export 'SYN'
+    com.sun.electric.tool.user.HighlightEOBJ in cell 'logic_CONTROL{sch}': Off-Page['conn@1']
+    com.sun.electric.tool.user.HighlightEOBJ in cell 'logic_CONTROL{sch}': Off-Page['conn@0']
+--------------- 1309 --------------
+  Sun Dec 10 19:11:33 ART 2023
+ProcessKeyBinding 400 when=1702246293771 modifiers=80 code=0 char=3 false false
+--------------- 1310 --------------
+  Sun Dec 10 19:11:33 ART 2023
+ProcessKeyBinding 402 when=1702246293849 modifiers=0 code=11 char=ffff false false
+--------------- 1311 --------------
+  Sun Dec 10 19:11:35 ART 2023
+ProcessKeyBinding 401 when=1702246295256 modifiers=80 code=11 char=ffff false false
+--------------- 1312 --------------
+  Sun Dec 10 19:11:35 ART 2023
+Menu Activated: Edit | Paste
+--------------- 1313 --------------
+  Sun Dec 10 19:11:35 ART 2023
+ProcessKeyBinding 400 when=1702246295349 modifiers=80 code=0 char=16 false false
+--------------- 1314 --------------
+  Sun Dec 10 19:11:35 ART 2023
+ProcessKeyBinding 402 when=1702246295412 modifiers=0 code=11 char=ffff false false
+--------------- 1315 --------------
+  Sun Dec 10 19:11:37 ART 2023
+ProcessKeyBinding 401 when=1702246297803 modifiers=80 code=11 char=ffff false false
+--------------- 1316 --------------
+  Sun Dec 10 19:11:38 ART 2023
+Menu Activated: Export | Create Export...
+Currently highlighted: 
+    com.sun.electric.tool.user.HighlightEOBJ in cell 'logic_CONTROL{sch}': 'Off-Page[conn@2].y'
+--------------- 1317 --------------
+  Sun Dec 10 19:11:38 ART 2023
+ProcessKeyBinding 400 when=1702246298178 modifiers=80 code=0 char=5 false false
+--------------- 1318 --------------
+  Sun Dec 10 19:11:41 ART 2023
+ProcessKeyBinding 401 when=1702246301256 modifiers=80 code=11 char=ffff false false
+--------------- 1319 --------------
+  Sun Dec 10 19:11:42 ART 2023
+ProcessKeyBinding 402 when=1702246302099 modifiers=0 code=11 char=ffff false false
+--------------- 1320 --------------
+  Sun Dec 10 19:11:42 ART 2023
+ProcessKeyBinding 401 when=1702246302615 modifiers=80 code=11 char=ffff false false
+--------------- 1321 --------------
+  Sun Dec 10 19:11:43 ART 2023
+Menu Activated: Edit | Rotate | 90 Degrees Counterclockwise
+Currently highlighted: 
+    com.sun.electric.tool.user.HighlightEOBJ in cell 'logic_CONTROL{sch}': 'Off-Page[conn@2].a'
+--------------- 1322 --------------
+  Sun Dec 10 19:11:43 ART 2023
+ProcessKeyBinding 400 when=1702246303131 modifiers=80 code=0 char=a false false
+--------------- 1323 --------------
+  Sun Dec 10 19:11:43 ART 2023
+Menu Activated: Edit | Rotate | 90 Degrees Counterclockwise
+Currently highlighted: 
+    com.sun.electric.tool.user.HighlightEOBJ in cell 'logic_CONTROL{sch}': 'Off-Page[conn@2].a'
+--------------- 1324 --------------
+  Sun Dec 10 19:11:43 ART 2023
+ProcessKeyBinding 400 when=1702246303428 modifiers=80 code=0 char=a false false
+--------------- 1325 --------------
+  Sun Dec 10 19:11:43 ART 2023
+ProcessKeyBinding 402 when=1702246303693 modifiers=0 code=11 char=ffff false false
+--------------- 1326 --------------
+  Sun Dec 10 19:11:48 ART 2023
+ProcessKeyBinding 401 when=1702246308678 modifiers=80 code=11 char=ffff false false
+--------------- 1327 --------------
+  Sun Dec 10 19:11:49 ART 2023
+Menu Activated: Edit | Rotate | 90 Degrees Counterclockwise
+Currently highlighted: 
+    com.sun.electric.tool.user.HighlightEOBJ in cell 'logic_CONTROL{sch}': Off-Page['conn@3']
+--------------- 1328 --------------
+  Sun Dec 10 19:11:49 ART 2023
+ProcessKeyBinding 400 when=1702246309303 modifiers=80 code=0 char=a false false
+--------------- 1329 --------------
+  Sun Dec 10 19:11:49 ART 2023
+Menu Activated: Edit | Rotate | 90 Degrees Counterclockwise
+Currently highlighted: 
+    com.sun.electric.tool.user.HighlightEOBJ in cell 'logic_CONTROL{sch}': Off-Page['conn@3']
+--------------- 1330 --------------
+  Sun Dec 10 19:11:49 ART 2023
+ProcessKeyBinding 400 when=1702246309443 modifiers=80 code=0 char=a false false
+--------------- 1331 --------------
+  Sun Dec 10 19:11:49 ART 2023
+ProcessKeyBinding 402 when=1702246309662 modifiers=0 code=11 char=ffff false false
+--------------- 1332 --------------
+  Sun Dec 10 19:11:54 ART 2023
+ProcessKeyBinding 401 when=1702246313990 modifiers=80 code=11 char=ffff false false
+--------------- 1333 --------------
+  Sun Dec 10 19:11:54 ART 2023
+Menu Activated: Export | Create Export...
+Currently highlighted: 
+    com.sun.electric.tool.user.HighlightEOBJ in cell 'logic_CONTROL{sch}': 'Off-Page[conn@3].a'
+--------------- 1334 --------------
+  Sun Dec 10 19:11:54 ART 2023
+ProcessKeyBinding 400 when=1702246314303 modifiers=80 code=0 char=5 false false
+--------------- 1335 --------------
+  Sun Dec 10 19:12:00 ART 2023
+ProcessKeyBinding 401 when=1702246320709 modifiers=80 code=11 char=ffff false false
+--------------- 1336 --------------
+  Sun Dec 10 19:12:00 ART 2023
+Menu Activated: Edit | Copy
+Currently highlighted: 
+    com.sun.electric.tool.user.HighlightEOBJ in cell 'logic_CONTROL{sch}': 'Off-Page[conn@3].a'
+--------------- 1337 --------------
+  Sun Dec 10 19:12:00 ART 2023
+ProcessKeyBinding 400 when=1702246320803 modifiers=80 code=0 char=3 false false
+--------------- 1338 --------------
+  Sun Dec 10 19:12:00 ART 2023
+ProcessKeyBinding 402 when=1702246320896 modifiers=0 code=11 char=ffff false false
+--------------- 1339 --------------
+  Sun Dec 10 19:12:01 ART 2023
+ProcessKeyBinding 401 when=1702246321146 modifiers=80 code=11 char=ffff false false
+--------------- 1340 --------------
+  Sun Dec 10 19:12:01 ART 2023
+Menu Activated: Edit | Paste
+--------------- 1341 --------------
+  Sun Dec 10 19:12:01 ART 2023
+ProcessKeyBinding 400 when=1702246321271 modifiers=80 code=0 char=16 false false
+--------------- 1342 --------------
+  Sun Dec 10 19:12:01 ART 2023
+ProcessKeyBinding 402 when=1702246321334 modifiers=0 code=11 char=ffff false false
+--------------- 1343 --------------
+  Sun Dec 10 19:12:05 ART 2023
+ProcessKeyBinding 401 when=1702246325256 modifiers=80 code=11 char=ffff false false
+--------------- 1344 --------------
+  Sun Dec 10 19:12:05 ART 2023
+Menu Activated: Export | Create Export...
+Currently highlighted: 
+    com.sun.electric.tool.user.HighlightEOBJ in cell 'logic_CONTROL{sch}': 'Off-Page[conn@4].a'
+--------------- 1345 --------------
+  Sun Dec 10 19:12:05 ART 2023
+ProcessKeyBinding 400 when=1702246325459 modifiers=80 code=0 char=5 false false
+--------------- 1346 --------------
+  Sun Dec 10 19:12:10 ART 2023
+ProcessKeyBinding 401 when=1702246330803 modifiers=40 code=10 char=ffff false true
+--------------- 1347 --------------
+  Sun Dec 10 19:12:10 ART 2023
+ProcessKeyBinding 401 when=1702246330959 modifiers=40 code=43 char=43(C) false true
+--------------- 1348 --------------
+  Sun Dec 10 19:12:11 ART 2023
+ProcessKeyBinding 402 when=1702246331037 modifiers=40 code=43 char=43(C) false true
+--------------- 1349 --------------
+  Sun Dec 10 19:12:11 ART 2023
+ProcessKeyBinding 401 when=1702246331334 modifiers=40 code=4b char=4b(K) false true
+--------------- 1350 --------------
+  Sun Dec 10 19:12:11 ART 2023
+ProcessKeyBinding 402 when=1702246331396 modifiers=40 code=4b char=4b(K) false true
+--------------- 1351 --------------
+  Sun Dec 10 19:12:11 ART 2023
+ProcessKeyBinding 402 when=1702246331459 modifiers=0 code=10 char=ffff false true
+--------------- 1352 --------------
+  Sun Dec 10 19:12:11 ART 2023
+ProcessKeyBinding 402 when=1702246331662 modifiers=0 code=a char=a false false
+--------------- 1353 --------------
+  Sun Dec 10 19:12:16 ART 2023
+ProcessKeyBinding 401 when=1702246336474 modifiers=80 code=11 char=ffff false false
+--------------- 1354 --------------
+  Sun Dec 10 19:12:16 ART 2023
+Menu Activated: File | Save All Libraries
+Currently highlighted: 
+    Export 'CK'
+--------------- 1355 --------------
+  Sun Dec 10 19:12:16 ART 2023
+ProcessKeyBinding 400 when=1702246336615 modifiers=80 code=0 char=13 false false
+--------------- 1356 --------------
+  Sun Dec 10 19:12:16 ART 2023
+ProcessKeyBinding 402 when=1702246336787 modifiers=0 code=11 char=ffff false false
+--------------- 1357 --------------
+  Sun Dec 10 19:12:19 ART 2023
+ProcessKeyBinding 401 when=1702246339990 modifiers=80 code=11 char=ffff false false
+--------------- 1358 --------------
+  Sun Dec 10 19:12:21 ART 2023
+ProcessKeyBinding 402 when=1702246341240 modifiers=400 code=11 char=ffff false false
+--------------- 1359 --------------
+  Sun Dec 10 19:12:22 ART 2023
+ProcessKeyBinding 401 when=1702246342021 modifiers=80 code=11 char=ffff false false
+--------------- 1360 --------------
+  Sun Dec 10 19:12:22 ART 2023
+ProcessKeyBinding 402 when=1702246342709 modifiers=0 code=11 char=ffff false false
+--------------- 1361 --------------
+  Sun Dec 10 19:12:34 ART 2023
+ProcessKeyBinding 401 when=1702246354974 modifiers=80 code=11 char=ffff false false
+--------------- 1362 --------------
+  Sun Dec 10 19:12:35 ART 2023
+ProcessKeyBinding 402 when=1702246355381 modifiers=0 code=11 char=ffff false false
+--------------- 1363 --------------
+  Sun Dec 10 19:12:35 ART 2023
+ProcessKeyBinding 401 when=1702246355553 modifiers=80 code=11 char=ffff false false
+--------------- 1364 --------------
+  Sun Dec 10 19:12:36 ART 2023
+ProcessKeyBinding 402 when=1702246356068 modifiers=0 code=11 char=ffff false false
+--------------- 1365 --------------
+  Sun Dec 10 19:12:54 ART 2023
+ProcessKeyBinding 401 when=1702246374521 modifiers=200 code=12 char=ffff false false
+--------------- 1366 --------------
+  Sun Dec 10 19:12:54 ART 2023
+ProcessKeyBinding 402 when=1702246374599 modifiers=0 code=12 char=ffff false false
+--------------- 1367 --------------
+  Sun Dec 10 19:13:16 ART 2023
+ProcessKeyBinding 401 when=1702246396584 modifiers=80 code=11 char=ffff false false
+--------------- 1368 --------------
+  Sun Dec 10 19:13:16 ART 2023
+ProcessKeyBinding 402 when=1702246396974 modifiers=0 code=11 char=ffff false false
+--------------- 1369 --------------
+  Sun Dec 10 19:13:31 ART 2023
+ProcessKeyBinding 401 when=1702246411771 modifiers=80 code=11 char=ffff false false
+--------------- 1370 --------------
+  Sun Dec 10 19:13:32 ART 2023
+Menu Activated: Edit | Rotate | 90 Degrees Counterclockwise
+Currently highlighted: 
+    com.sun.electric.tool.user.HighlightEOBJ in cell 'logic_CONTROL{sch}': Off-Page['conn@5']
+--------------- 1371 --------------
+  Sun Dec 10 19:13:32 ART 2023
+ProcessKeyBinding 400 when=1702246412209 modifiers=80 code=0 char=a false false
+--------------- 1372 --------------
+  Sun Dec 10 19:13:32 ART 2023
+ProcessKeyBinding 402 when=1702246412349 modifiers=0 code=11 char=ffff false false
+--------------- 1373 --------------
+  Sun Dec 10 19:13:37 ART 2023
+ProcessKeyBinding 401 when=1702246417412 modifiers=80 code=11 char=ffff false false
+--------------- 1374 --------------
+  Sun Dec 10 19:13:37 ART 2023
+Menu Activated: Export | Create Export...
+Currently highlighted: 
+    com.sun.electric.tool.user.HighlightEOBJ in cell 'logic_CONTROL{sch}': 'Off-Page[conn@5].a'
+--------------- 1375 --------------
+  Sun Dec 10 19:13:37 ART 2023
+ProcessKeyBinding 400 when=1702246417584 modifiers=80 code=0 char=5 false false
+--------------- 1376 --------------
+  Sun Dec 10 19:13:46 ART 2023
+ProcessKeyBinding 401 when=1702246426162 modifiers=80 code=11 char=ffff false false
+--------------- 1377 --------------
+  Sun Dec 10 19:13:46 ART 2023
+Menu Activated: File | Save All Libraries
+--------------- 1378 --------------
+  Sun Dec 10 19:13:46 ART 2023
+ProcessKeyBinding 400 when=1702246426271 modifiers=80 code=0 char=13 false false
+--------------- 1379 --------------
+  Sun Dec 10 19:13:47 ART 2023
+ProcessKeyBinding 402 when=1702246427178 modifiers=0 code=11 char=ffff false false
+--------------- 1380 --------------
+  Sun Dec 10 19:13:47 ART 2023
+ProcessKeyBinding 401 when=1702246427818 modifiers=80 code=11 char=ffff false false
+--------------- 1381 --------------
+  Sun Dec 10 19:13:48 ART 2023
+ProcessKeyBinding 402 when=1702246428474 modifiers=0 code=11 char=ffff false false
+--------------- 1382 --------------
+  Sun Dec 10 19:13:49 ART 2023
+ProcessKeyBinding 401 when=1702246429240 modifiers=80 code=11 char=ffff false false
+--------------- 1383 --------------
+  Sun Dec 10 19:13:49 ART 2023
+Menu Activated: File | Save All Libraries
+--------------- 1384 --------------
+  Sun Dec 10 19:13:49 ART 2023
+ProcessKeyBinding 400 when=1702246429381 modifiers=80 code=0 char=13 false false
+--------------- 1385 --------------
+  Sun Dec 10 19:13:49 ART 2023
+ProcessKeyBinding 402 when=1702246429506 modifiers=0 code=11 char=ffff false false
+--------------- 1386 --------------
+  Sun Dec 10 19:14:01 ART 2023
+Menu Activated: View | Make Icon View
+--------------- 1387 --------------
+  Sun Dec 10 19:14:03 ART 2023
+ProcessKeyBinding 401 when=1702246443334 modifiers=80 code=11 char=ffff false false
+--------------- 1388 --------------
+  Sun Dec 10 19:14:03 ART 2023
+Menu Activated: Cell | Down Hierarchy | Down Hierarchy
+Currently highlighted: 
+    com.sun.electric.tool.user.HighlightEOBJ in cell 'logic_CONTROL{sch}': logic_CONTROL{ic}['logic_CO@0']
+--------------- 1389 --------------
+  Sun Dec 10 19:14:03 ART 2023
+ProcessKeyBinding 400 when=1702246443553 modifiers=80 code=0 char=4 false false
+--------------- 1390 --------------
+  Sun Dec 10 19:14:03 ART 2023
+ProcessKeyBinding 402 when=1702246443678 modifiers=0 code=11 char=ffff false false
+--------------- 1391 --------------
+  Sun Dec 10 19:14:05 ART 2023
+ProcessKeyBinding 401 when=1702246445146 modifiers=80 code=11 char=ffff false false
+--------------- 1392 --------------
+  Sun Dec 10 19:14:05 ART 2023
+ProcessKeyBinding 402 when=1702246445615 modifiers=0 code=11 char=ffff false false
+--------------- 1393 --------------
+  Sun Dec 10 19:14:06 ART 2023
+Menu Activated: Edit | Erase | Selected
+Currently highlighted: 
+    Variable 'SCHEM_function' on node Opened-Thicker-Polygon['art@1']
+--------------- 1394 --------------
+  Sun Dec 10 19:14:06 ART 2023
+ProcessKeyBinding 400 when=1702246446303 modifiers=0 code=0 char=7f false false
+--------------- 1395 --------------
+  Sun Dec 10 19:14:07 ART 2023
+ProcessKeyBinding 401 when=1702246447396 modifiers=80 code=11 char=ffff false false
+--------------- 1396 --------------
+  Sun Dec 10 19:14:07 ART 2023
+ProcessKeyBinding 402 when=1702246447771 modifiers=0 code=11 char=ffff false false
+--------------- 1397 --------------
+  Sun Dec 10 19:14:48 ART 2023
+Menu Activated: Edit | Move | Move Objects Up
+Currently highlighted: 
+    Export 'CK'
+    com.sun.electric.tool.user.HighlightEOBJ in cell 'logic_CONTROL{ic}': schematic:Bus_Pin['pin@2']
+    com.sun.electric.tool.user.HighlightEOBJ in cell 'logic_CONTROL{ic}': schematic:wire['net@1']
+--------------- 1398 --------------
+  Sun Dec 10 19:14:50 ART 2023
+Menu Activated: Edit | Move | Move Objects Down
+Currently highlighted: 
+    Export 'CK'
+    com.sun.electric.tool.user.HighlightEOBJ in cell 'logic_CONTROL{ic}': schematic:Bus_Pin['pin@2']
+    com.sun.electric.tool.user.HighlightEOBJ in cell 'logic_CONTROL{ic}': schematic:wire['net@1']
+--------------- 1399 --------------
+  Sun Dec 10 19:15:01 ART 2023
+ProcessKeyBinding 401 when=1702246501553 modifiers=80 code=11 char=ffff false false
+--------------- 1400 --------------
+  Sun Dec 10 19:15:01 ART 2023
+Menu Activated: File | Save All Libraries
+--------------- 1401 --------------
+  Sun Dec 10 19:15:01 ART 2023
+ProcessKeyBinding 400 when=1702246501756 modifiers=80 code=0 char=13 false false
+--------------- 1402 --------------
+  Sun Dec 10 19:15:01 ART 2023
+ProcessKeyBinding 402 when=1702246501849 modifiers=0 code=11 char=ffff false false
+--------------- 1403 --------------
+  Sun Dec 10 19:15:18 ART 2023
+Menu Activated: Edit | Move | Move Objects Up
+Currently highlighted: 
+    com.sun.electric.tool.user.HighlightEOBJ in cell 'logic_CONTROL{ic}': schematic:wire['net@5']
+--------------- 1404 --------------
+  Sun Dec 10 19:15:18 ART 2023
+ProcessKeyBinding 401 when=1702246518928 modifiers=80 code=11 char=ffff false false
+--------------- 1405 --------------
+  Sun Dec 10 19:15:19 ART 2023
+ProcessKeyBinding 402 when=1702246519334 modifiers=0 code=11 char=ffff false false
+--------------- 1406 --------------
+  Sun Dec 10 19:15:19 ART 2023
+ProcessKeyBinding 401 when=1702246519599 modifiers=80 code=11 char=ffff false false
+--------------- 1407 --------------
+  Sun Dec 10 19:15:20 ART 2023
+Menu Activated: File | Save All Libraries
+Currently highlighted: 
+    com.sun.electric.tool.user.HighlightEOBJ in cell 'logic_CONTROL{ic}': schematic:wire['net@5']
+--------------- 1408 --------------
+  Sun Dec 10 19:15:20 ART 2023
+ProcessKeyBinding 400 when=1702246520162 modifiers=80 code=0 char=13 false false
+--------------- 1409 --------------
+  Sun Dec 10 19:15:20 ART 2023
+ProcessKeyBinding 402 when=1702246520256 modifiers=0 code=11 char=ffff false false
+--------------- 1410 --------------
+  Sun Dec 10 19:15:25 ART 2023
+Menu Activated: Edit | Move | Move Objects Left
+Currently highlighted: 
+    com.sun.electric.tool.user.HighlightEOBJ in cell 'logic_CONTROL{ic}': 'schematic:Bus_Pin[pin@4].bus'
+--------------- 1411 --------------
+  Sun Dec 10 19:15:25 ART 2023
+Menu Activated: Edit | Move | Move Objects Left
+Currently highlighted: 
+    com.sun.electric.tool.user.HighlightEOBJ in cell 'logic_CONTROL{ic}': 'schematic:Bus_Pin[pin@4].bus'
+--------------- 1412 --------------
+  Sun Dec 10 19:15:25 ART 2023
+Menu Activated: Edit | Move | Move Objects Left
+Currently highlighted: 
+    com.sun.electric.tool.user.HighlightEOBJ in cell 'logic_CONTROL{ic}': 'schematic:Bus_Pin[pin@4].bus'
+--------------- 1413 --------------
+  Sun Dec 10 19:15:25 ART 2023
+Menu Activated: Edit | Move | Move Objects Left
+Currently highlighted: 
+    com.sun.electric.tool.user.HighlightEOBJ in cell 'logic_CONTROL{ic}': 'schematic:Bus_Pin[pin@4].bus'
+--------------- 1414 --------------
+  Sun Dec 10 19:15:25 ART 2023
+Menu Activated: Edit | Move | Move Objects Left
+Currently highlighted: 
+    com.sun.electric.tool.user.HighlightEOBJ in cell 'logic_CONTROL{ic}': 'schematic:Bus_Pin[pin@4].bus'
+--------------- 1415 --------------
+  Sun Dec 10 19:15:25 ART 2023
+Menu Activated: Edit | Move | Move Objects Left
+Currently highlighted: 
+    com.sun.electric.tool.user.HighlightEOBJ in cell 'logic_CONTROL{ic}': 'schematic:Bus_Pin[pin@4].bus'
+--------------- 1416 --------------
+  Sun Dec 10 19:15:25 ART 2023
+Menu Activated: Edit | Move | Move Objects Left
+Currently highlighted: 
+    com.sun.electric.tool.user.HighlightEOBJ in cell 'logic_CONTROL{ic}': 'schematic:Bus_Pin[pin@4].bus'
+--------------- 1417 --------------
+  Sun Dec 10 19:15:26 ART 2023
+Menu Activated: Edit | Move | Move Objects Left
+Currently highlighted: 
+    com.sun.electric.tool.user.HighlightEOBJ in cell 'logic_CONTROL{ic}': 'schematic:Bus_Pin[pin@4].bus'
+--------------- 1418 --------------
+  Sun Dec 10 19:15:26 ART 2023
+Menu Activated: Edit | Move | Move Objects Left
+Currently highlighted: 
+    com.sun.electric.tool.user.HighlightEOBJ in cell 'logic_CONTROL{ic}': 'schematic:Bus_Pin[pin@4].bus'
+--------------- 1419 --------------
+  Sun Dec 10 19:15:26 ART 2023
+Menu Activated: Edit | Move | Move Objects Left
+Currently highlighted: 
+    com.sun.electric.tool.user.HighlightEOBJ in cell 'logic_CONTROL{ic}': 'schematic:Bus_Pin[pin@4].bus'
+--------------- 1420 --------------
+  Sun Dec 10 19:15:26 ART 2023
+Menu Activated: Edit | Move | Move Objects Left
+Currently highlighted: 
+    com.sun.electric.tool.user.HighlightEOBJ in cell 'logic_CONTROL{ic}': 'schematic:Bus_Pin[pin@4].bus'
+--------------- 1421 --------------
+  Sun Dec 10 19:15:28 ART 2023
+Menu Activated: Edit | Move | Move Objects Left
+Currently highlighted: 
+    com.sun.electric.tool.user.HighlightEOBJ in cell 'logic_CONTROL{ic}': 'schematic:Wire_Pin[pin@5].wire'
+--------------- 1422 --------------
+  Sun Dec 10 19:15:28 ART 2023
+Menu Activated: Edit | Move | Move Objects Left
+Currently highlighted: 
+    com.sun.electric.tool.user.HighlightEOBJ in cell 'logic_CONTROL{ic}': 'schematic:Wire_Pin[pin@5].wire'
+--------------- 1423 --------------
+  Sun Dec 10 19:15:28 ART 2023
+Menu Activated: Edit | Move | Move Objects Left
+Currently highlighted: 
+    com.sun.electric.tool.user.HighlightEOBJ in cell 'logic_CONTROL{ic}': 'schematic:Wire_Pin[pin@5].wire'
+--------------- 1424 --------------
+  Sun Dec 10 19:15:28 ART 2023
+Menu Activated: Edit | Move | Move Objects Left
+Currently highlighted: 
+    com.sun.electric.tool.user.HighlightEOBJ in cell 'logic_CONTROL{ic}': 'schematic:Wire_Pin[pin@5].wire'
+--------------- 1425 --------------
+  Sun Dec 10 19:15:28 ART 2023
+Menu Activated: Edit | Move | Move Objects Left
+Currently highlighted: 
+    com.sun.electric.tool.user.HighlightEOBJ in cell 'logic_CONTROL{ic}': 'schematic:Wire_Pin[pin@5].wire'
+--------------- 1426 --------------
+  Sun Dec 10 19:15:28 ART 2023
+Menu Activated: Edit | Move | Move Objects Left
+Currently highlighted: 
+    com.sun.electric.tool.user.HighlightEOBJ in cell 'logic_CONTROL{ic}': 'schematic:Wire_Pin[pin@5].wire'
+--------------- 1427 --------------
+  Sun Dec 10 19:15:28 ART 2023
+Menu Activated: Edit | Move | Move Objects Left
+Currently highlighted: 
+    com.sun.electric.tool.user.HighlightEOBJ in cell 'logic_CONTROL{ic}': 'schematic:Wire_Pin[pin@5].wire'
+--------------- 1428 --------------
+  Sun Dec 10 19:15:31 ART 2023
+Menu Activated: Edit | Move | Move Objects Left
+Currently highlighted: 
+    Export 'SR_CLK'
+--------------- 1429 --------------
+  Sun Dec 10 19:15:31 ART 2023
+Menu Activated: Edit | Move | Move Objects Left
+Currently highlighted: 
+    Export 'SR_CLK'
+--------------- 1430 --------------
+  Sun Dec 10 19:15:31 ART 2023
+Menu Activated: Edit | Move | Move Objects Left
+Currently highlighted: 
+    Export 'SR_CLK'
+--------------- 1431 --------------
+  Sun Dec 10 19:15:31 ART 2023
+Menu Activated: Edit | Move | Move Objects Left
+Currently highlighted: 
+    Export 'SR_CLK'
+--------------- 1432 --------------
+  Sun Dec 10 19:15:31 ART 2023
+Menu Activated: Edit | Move | Move Objects Left
+Currently highlighted: 
+    Export 'SR_CLK'
+--------------- 1433 --------------
+  Sun Dec 10 19:15:31 ART 2023
+Menu Activated: Edit | Move | Move Objects Left
+Currently highlighted: 
+    Export 'SR_CLK'
+--------------- 1434 --------------
+  Sun Dec 10 19:15:31 ART 2023
+Menu Activated: Edit | Move | Move Objects Left
+Currently highlighted: 
+    Export 'SR_CLK'
+--------------- 1435 --------------
+  Sun Dec 10 19:15:32 ART 2023
+Menu Activated: Edit | Move | Move Objects Left
+Currently highlighted: 
+    Export 'SR_CLK'
+--------------- 1436 --------------
+  Sun Dec 10 19:15:32 ART 2023
+Menu Activated: Edit | Move | Move Objects Left
+Currently highlighted: 
+    Export 'SR_CLK'
+--------------- 1437 --------------
+  Sun Dec 10 19:15:32 ART 2023
+Menu Activated: Edit | Move | Move Objects Left
+Currently highlighted: 
+    Export 'SR_CLK'
+--------------- 1438 --------------
+  Sun Dec 10 19:15:32 ART 2023
+ProcessKeyBinding 401 when=1702246532974 modifiers=80 code=11 char=ffff false false
+--------------- 1439 --------------
+  Sun Dec 10 19:15:33 ART 2023
+ProcessKeyBinding 402 when=1702246533084 modifiers=0 code=11 char=ffff false false
+--------------- 1440 --------------
+  Sun Dec 10 19:15:33 ART 2023
+ProcessKeyBinding 401 when=1702246533256 modifiers=80 code=11 char=ffff false false
+--------------- 1441 --------------
+  Sun Dec 10 19:15:33 ART 2023
+Menu Activated: Edit | Undo
+Currently highlighted: 
+    Export 'SR_CLK'
+--------------- 1442 --------------
+  Sun Dec 10 19:15:33 ART 2023
+ProcessKeyBinding 400 when=1702246533428 modifiers=80 code=0 char=1a false false
+--------------- 1443 --------------
+  Sun Dec 10 19:15:33 ART 2023
+Menu Activated: Edit | Undo
+Currently highlighted: 
+    Export 'SR_CLK'
+--------------- 1444 --------------
+  Sun Dec 10 19:15:33 ART 2023
+ProcessKeyBinding 400 when=1702246533724 modifiers=80 code=0 char=1a false false
+--------------- 1445 --------------
+  Sun Dec 10 19:15:33 ART 2023
+Menu Activated: Edit | Undo
+Currently highlighted: 
+    Export 'SR_CLK'
+--------------- 1446 --------------
+  Sun Dec 10 19:15:33 ART 2023
+ProcessKeyBinding 400 when=1702246533928 modifiers=80 code=0 char=1a false false
+--------------- 1447 --------------
+  Sun Dec 10 19:15:34 ART 2023
+Menu Activated: Edit | Undo
+Currently highlighted: 
+    Export 'SR_CLK'
+--------------- 1448 --------------
+  Sun Dec 10 19:15:34 ART 2023
+ProcessKeyBinding 400 when=1702246534099 modifiers=80 code=0 char=1a false false
+--------------- 1449 --------------
+  Sun Dec 10 19:15:34 ART 2023
+Menu Activated: Edit | Undo
+Currently highlighted: 
+    Export 'SR_CLK'
+--------------- 1450 --------------
+  Sun Dec 10 19:15:34 ART 2023
+ProcessKeyBinding 400 when=1702246534271 modifiers=80 code=0 char=1a false false
+--------------- 1451 --------------
+  Sun Dec 10 19:15:34 ART 2023
+Menu Activated: Edit | Undo
+Currently highlighted: 
+    Export 'SR_CLK'
+--------------- 1452 --------------
+  Sun Dec 10 19:15:34 ART 2023
+ProcessKeyBinding 400 when=1702246534443 modifiers=80 code=0 char=1a false false
+--------------- 1453 --------------
+  Sun Dec 10 19:15:35 ART 2023
+Menu Activated: Edit | Undo
+Currently highlighted: 
+    Export 'SR_CLK'
+--------------- 1454 --------------
+  Sun Dec 10 19:15:35 ART 2023
+ProcessKeyBinding 400 when=1702246535037 modifiers=80 code=0 char=1a false false
+--------------- 1455 --------------
+  Sun Dec 10 19:15:35 ART 2023
+ProcessKeyBinding 402 when=1702246535162 modifiers=0 code=11 char=ffff false false
+--------------- 1456 --------------
+  Sun Dec 10 19:15:35 ART 2023
+Menu Activated: Edit | Move | Move Objects Left
+Currently highlighted: 
+    com.sun.electric.tool.user.HighlightEOBJ in cell 'logic_CONTROL{ic}': 'schematic:Wire_Pin[pin@7].wire'
+--------------- 1457 --------------
+  Sun Dec 10 19:15:36 ART 2023
+Menu Activated: Edit | Move | Move Objects Left
+Currently highlighted: 
+    com.sun.electric.tool.user.HighlightEOBJ in cell 'logic_CONTROL{ic}': 'schematic:Wire_Pin[pin@7].wire'
+--------------- 1458 --------------
+  Sun Dec 10 19:15:36 ART 2023
+Menu Activated: Edit | Move | Move Objects Left
+Currently highlighted: 
+    com.sun.electric.tool.user.HighlightEOBJ in cell 'logic_CONTROL{ic}': 'schematic:Wire_Pin[pin@7].wire'
+--------------- 1459 --------------
+  Sun Dec 10 19:15:36 ART 2023
+Menu Activated: Edit | Move | Move Objects Left
+Currently highlighted: 
+    com.sun.electric.tool.user.HighlightEOBJ in cell 'logic_CONTROL{ic}': 'schematic:Wire_Pin[pin@7].wire'
+--------------- 1460 --------------
+  Sun Dec 10 19:15:36 ART 2023
+Menu Activated: Edit | Move | Move Objects Left
+Currently highlighted: 
+    com.sun.electric.tool.user.HighlightEOBJ in cell 'logic_CONTROL{ic}': 'schematic:Wire_Pin[pin@7].wire'
+--------------- 1461 --------------
+  Sun Dec 10 19:15:36 ART 2023
+Menu Activated: Edit | Move | Move Objects Left
+Currently highlighted: 
+    com.sun.electric.tool.user.HighlightEOBJ in cell 'logic_CONTROL{ic}': 'schematic:Wire_Pin[pin@7].wire'
+--------------- 1462 --------------
+  Sun Dec 10 19:15:36 ART 2023
+Menu Activated: Edit | Move | Move Objects Left
+Currently highlighted: 
+    com.sun.electric.tool.user.HighlightEOBJ in cell 'logic_CONTROL{ic}': 'schematic:Wire_Pin[pin@7].wire'
+--------------- 1463 --------------
+  Sun Dec 10 19:15:36 ART 2023
+Menu Activated: Edit | Move | Move Objects Left
+Currently highlighted: 
+    com.sun.electric.tool.user.HighlightEOBJ in cell 'logic_CONTROL{ic}': 'schematic:Wire_Pin[pin@7].wire'
+--------------- 1464 --------------
+  Sun Dec 10 19:15:36 ART 2023
+Menu Activated: Edit | Move | Move Objects Left
+Currently highlighted: 
+    com.sun.electric.tool.user.HighlightEOBJ in cell 'logic_CONTROL{ic}': 'schematic:Wire_Pin[pin@7].wire'
+--------------- 1465 --------------
+  Sun Dec 10 19:15:36 ART 2023
+Menu Activated: Edit | Move | Move Objects Left
+Currently highlighted: 
+    com.sun.electric.tool.user.HighlightEOBJ in cell 'logic_CONTROL{ic}': 'schematic:Wire_Pin[pin@7].wire'
+--------------- 1466 --------------
+  Sun Dec 10 19:15:36 ART 2023
+Menu Activated: Edit | Move | Move Objects Right
+Currently highlighted: 
+    com.sun.electric.tool.user.HighlightEOBJ in cell 'logic_CONTROL{ic}': 'schematic:Wire_Pin[pin@7].wire'
+--------------- 1467 --------------
+  Sun Dec 10 19:15:37 ART 2023
+Menu Activated: Edit | Move | Move Objects Right
+Currently highlighted: 
+    com.sun.electric.tool.user.HighlightEOBJ in cell 'logic_CONTROL{ic}': 'schematic:Wire_Pin[pin@7].wire'
+--------------- 1468 --------------
+  Sun Dec 10 19:15:37 ART 2023
+Menu Activated: Edit | Move | Move Objects Right
+Currently highlighted: 
+    com.sun.electric.tool.user.HighlightEOBJ in cell 'logic_CONTROL{ic}': 'schematic:Wire_Pin[pin@7].wire'
+--------------- 1469 --------------
+  Sun Dec 10 19:15:38 ART 2023
+Menu Activated: Edit | Move | Move Objects Left
+Currently highlighted: 
+    com.sun.electric.tool.user.HighlightEOBJ in cell 'logic_CONTROL{ic}': 'schematic:Bus_Pin[pin@6].bus'
+--------------- 1470 --------------
+  Sun Dec 10 19:15:39 ART 2023
+Menu Activated: Edit | Move | Move Objects Left
+Currently highlighted: 
+    com.sun.electric.tool.user.HighlightEOBJ in cell 'logic_CONTROL{ic}': 'schematic:Bus_Pin[pin@6].bus'
+--------------- 1471 --------------
+  Sun Dec 10 19:15:39 ART 2023
+Menu Activated: Edit | Move | Move Objects Left
+Currently highlighted: 
+    com.sun.electric.tool.user.HighlightEOBJ in cell 'logic_CONTROL{ic}': 'schematic:Bus_Pin[pin@6].bus'
+--------------- 1472 --------------
+  Sun Dec 10 19:15:39 ART 2023
+Menu Activated: Edit | Move | Move Objects Left
+Currently highlighted: 
+    com.sun.electric.tool.user.HighlightEOBJ in cell 'logic_CONTROL{ic}': 'schematic:Bus_Pin[pin@6].bus'
+--------------- 1473 --------------
+  Sun Dec 10 19:15:39 ART 2023
+Menu Activated: Edit | Move | Move Objects Left
+Currently highlighted: 
+    com.sun.electric.tool.user.HighlightEOBJ in cell 'logic_CONTROL{ic}': 'schematic:Bus_Pin[pin@6].bus'
+--------------- 1474 --------------
+  Sun Dec 10 19:15:39 ART 2023
+Menu Activated: Edit | Move | Move Objects Left
+Currently highlighted: 
+    com.sun.electric.tool.user.HighlightEOBJ in cell 'logic_CONTROL{ic}': 'schematic:Bus_Pin[pin@6].bus'
+--------------- 1475 --------------
+  Sun Dec 10 19:15:39 ART 2023
+Menu Activated: Edit | Move | Move Objects Left
+Currently highlighted: 
+    com.sun.electric.tool.user.HighlightEOBJ in cell 'logic_CONTROL{ic}': 'schematic:Bus_Pin[pin@6].bus'
+--------------- 1476 --------------
+  Sun Dec 10 19:15:39 ART 2023
+Menu Activated: Edit | Move | Move Objects Left
+Currently highlighted: 
+    com.sun.electric.tool.user.HighlightEOBJ in cell 'logic_CONTROL{ic}': 'schematic:Bus_Pin[pin@6].bus'
+--------------- 1477 --------------
+  Sun Dec 10 19:15:39 ART 2023
+Menu Activated: Edit | Move | Move Objects Left
+Currently highlighted: 
+    com.sun.electric.tool.user.HighlightEOBJ in cell 'logic_CONTROL{ic}': 'schematic:Bus_Pin[pin@6].bus'
+--------------- 1478 --------------
+  Sun Dec 10 19:15:39 ART 2023
+Menu Activated: Edit | Move | Move Objects Left
+Currently highlighted: 
+    com.sun.electric.tool.user.HighlightEOBJ in cell 'logic_CONTROL{ic}': 'schematic:Bus_Pin[pin@6].bus'
+--------------- 1479 --------------
+  Sun Dec 10 19:15:39 ART 2023
+Menu Activated: Edit | Move | Move Objects Left
+Currently highlighted: 
+    com.sun.electric.tool.user.HighlightEOBJ in cell 'logic_CONTROL{ic}': 'schematic:Bus_Pin[pin@6].bus'
+--------------- 1480 --------------
+  Sun Dec 10 19:15:39 ART 2023
+Menu Activated: Edit | Move | Move Objects Left
+Currently highlighted: 
+    com.sun.electric.tool.user.HighlightEOBJ in cell 'logic_CONTROL{ic}': 'schematic:Bus_Pin[pin@6].bus'
+--------------- 1481 --------------
+  Sun Dec 10 19:15:39 ART 2023
+Menu Activated: Edit | Move | Move Objects Left
+Currently highlighted: 
+    com.sun.electric.tool.user.HighlightEOBJ in cell 'logic_CONTROL{ic}': 'schematic:Bus_Pin[pin@6].bus'
+--------------- 1482 --------------
+  Sun Dec 10 19:15:42 ART 2023
+Menu Activated: Edit | Move | Move Objects Down
+Currently highlighted: 
+    Export 'SR_CLK'
+    com.sun.electric.tool.user.HighlightEOBJ in cell 'logic_CONTROL{ic}': schematic:Bus_Pin['pin@6']
+    com.sun.electric.tool.user.HighlightEOBJ in cell 'logic_CONTROL{ic}': schematic:wire['net@3']
+--------------- 1483 --------------
+  Sun Dec 10 19:15:42 ART 2023
+Menu Activated: Edit | Move | Move Objects Down
+Currently highlighted: 
+    Export 'SR_CLK'
+    com.sun.electric.tool.user.HighlightEOBJ in cell 'logic_CONTROL{ic}': schematic:Bus_Pin['pin@6']
+    com.sun.electric.tool.user.HighlightEOBJ in cell 'logic_CONTROL{ic}': schematic:wire['net@3']
+--------------- 1484 --------------
+  Sun Dec 10 19:15:42 ART 2023
+Menu Activated: Edit | Move | Move Objects Down
+Currently highlighted: 
+    Export 'SR_CLK'
+    com.sun.electric.tool.user.HighlightEOBJ in cell 'logic_CONTROL{ic}': schematic:Bus_Pin['pin@6']
+    com.sun.electric.tool.user.HighlightEOBJ in cell 'logic_CONTROL{ic}': schematic:wire['net@3']
+--------------- 1485 --------------
+  Sun Dec 10 19:15:42 ART 2023
+Menu Activated: Edit | Move | Move Objects Down
+Currently highlighted: 
+    Export 'SR_CLK'
+    com.sun.electric.tool.user.HighlightEOBJ in cell 'logic_CONTROL{ic}': schematic:Bus_Pin['pin@6']
+    com.sun.electric.tool.user.HighlightEOBJ in cell 'logic_CONTROL{ic}': schematic:wire['net@3']
+--------------- 1486 --------------
+  Sun Dec 10 19:15:43 ART 2023
+Menu Activated: Edit | Move | Move Objects Down
+Currently highlighted: 
+    Export 'SR_CLK'
+    com.sun.electric.tool.user.HighlightEOBJ in cell 'logic_CONTROL{ic}': schematic:Bus_Pin['pin@6']
+    com.sun.electric.tool.user.HighlightEOBJ in cell 'logic_CONTROL{ic}': schematic:wire['net@3']
+--------------- 1487 --------------
+  Sun Dec 10 19:15:43 ART 2023
+Menu Activated: Edit | Move | Move Objects Down
+Currently highlighted: 
+    Export 'SR_CLK'
+    com.sun.electric.tool.user.HighlightEOBJ in cell 'logic_CONTROL{ic}': schematic:Bus_Pin['pin@6']
+    com.sun.electric.tool.user.HighlightEOBJ in cell 'logic_CONTROL{ic}': schematic:wire['net@3']
+--------------- 1488 --------------
+  Sun Dec 10 19:15:43 ART 2023
+Menu Activated: Edit | Move | Move Objects Down
+Currently highlighted: 
+    Export 'SR_CLK'
+    com.sun.electric.tool.user.HighlightEOBJ in cell 'logic_CONTROL{ic}': schematic:Bus_Pin['pin@6']
+    com.sun.electric.tool.user.HighlightEOBJ in cell 'logic_CONTROL{ic}': schematic:wire['net@3']
+--------------- 1489 --------------
+  Sun Dec 10 19:15:43 ART 2023
+Menu Activated: Edit | Move | Move Objects Down
+Currently highlighted: 
+    Export 'SR_CLK'
+    com.sun.electric.tool.user.HighlightEOBJ in cell 'logic_CONTROL{ic}': schematic:Bus_Pin['pin@6']
+    com.sun.electric.tool.user.HighlightEOBJ in cell 'logic_CONTROL{ic}': schematic:wire['net@3']
+--------------- 1490 --------------
+  Sun Dec 10 19:15:45 ART 2023
+Menu Activated: Edit | Move | Move Objects Left
+Currently highlighted: 
+    com.sun.electric.tool.user.HighlightEOBJ in cell 'logic_CONTROL{ic}': 'schematic:Bus_Pin[pin@8].bus'
+--------------- 1491 --------------
+  Sun Dec 10 19:15:45 ART 2023
+Menu Activated: Edit | Move | Move Objects Left
+Currently highlighted: 
+    com.sun.electric.tool.user.HighlightEOBJ in cell 'logic_CONTROL{ic}': 'schematic:Bus_Pin[pin@8].bus'
+--------------- 1492 --------------
+  Sun Dec 10 19:15:45 ART 2023
+Menu Activated: Edit | Move | Move Objects Left
+Currently highlighted: 
+    com.sun.electric.tool.user.HighlightEOBJ in cell 'logic_CONTROL{ic}': 'schematic:Bus_Pin[pin@8].bus'
+--------------- 1493 --------------
+  Sun Dec 10 19:15:45 ART 2023
+Menu Activated: Edit | Move | Move Objects Left
+Currently highlighted: 
+    com.sun.electric.tool.user.HighlightEOBJ in cell 'logic_CONTROL{ic}': 'schematic:Bus_Pin[pin@8].bus'
+--------------- 1494 --------------
+  Sun Dec 10 19:15:45 ART 2023
+Menu Activated: Edit | Move | Move Objects Left
+Currently highlighted: 
+    com.sun.electric.tool.user.HighlightEOBJ in cell 'logic_CONTROL{ic}': 'schematic:Bus_Pin[pin@8].bus'
+--------------- 1495 --------------
+  Sun Dec 10 19:15:45 ART 2023
+Menu Activated: Edit | Move | Move Objects Left
+Currently highlighted: 
+    com.sun.electric.tool.user.HighlightEOBJ in cell 'logic_CONTROL{ic}': 'schematic:Bus_Pin[pin@8].bus'
+--------------- 1496 --------------
+  Sun Dec 10 19:15:46 ART 2023
+Menu Activated: Edit | Move | Move Objects Left
+Currently highlighted: 
+    com.sun.electric.tool.user.HighlightEOBJ in cell 'logic_CONTROL{ic}': 'schematic:Bus_Pin[pin@8].bus'
+--------------- 1497 --------------
+  Sun Dec 10 19:15:46 ART 2023
+Menu Activated: Edit | Move | Move Objects Left
+Currently highlighted: 
+    com.sun.electric.tool.user.HighlightEOBJ in cell 'logic_CONTROL{ic}': 'schematic:Bus_Pin[pin@8].bus'
+--------------- 1498 --------------
+  Sun Dec 10 19:15:46 ART 2023
+Menu Activated: Edit | Move | Move Objects Left
+Currently highlighted: 
+    com.sun.electric.tool.user.HighlightEOBJ in cell 'logic_CONTROL{ic}': 'schematic:Bus_Pin[pin@8].bus'
+--------------- 1499 --------------
+  Sun Dec 10 19:15:46 ART 2023
+Menu Activated: Edit | Move | Move Objects Left
+Currently highlighted: 
+    com.sun.electric.tool.user.HighlightEOBJ in cell 'logic_CONTROL{ic}': 'schematic:Bus_Pin[pin@8].bus'
+--------------- 1500 --------------
+  Sun Dec 10 19:15:47 ART 2023
+Menu Activated: Edit | Move | Move Objects Right
+Currently highlighted: 
+    com.sun.electric.tool.user.HighlightEOBJ in cell 'logic_CONTROL{ic}': 'schematic:Bus_Pin[pin@8].bus'
+--------------- 1501 --------------
+  Sun Dec 10 19:15:54 ART 2023
+ProcessKeyBinding 401 when=1702246554646 modifiers=80 code=11 char=ffff false false
+--------------- 1502 --------------
+  Sun Dec 10 19:15:54 ART 2023
+ProcessKeyBinding 402 when=1702246554787 modifiers=0 code=11 char=ffff false false
+--------------- 1503 --------------
+  Sun Dec 10 19:16:11 ART 2023
+Menu Activated: Edit | Erase | Selected
+Currently highlighted: 
+    com.sun.electric.tool.user.HighlightEOBJ in cell 'logic_CONTROL{ic}': schematic:wire['net@3']
+--------------- 1504 --------------
+  Sun Dec 10 19:16:11 ART 2023
+ProcessKeyBinding 400 when=1702246571943 modifiers=0 code=0 char=7f false false
+--------------- 1505 --------------
+  Sun Dec 10 19:16:26 ART 2023
+ProcessKeyBinding 401 when=1702246586006 modifiers=40 code=10 char=ffff false true
+--------------- 1506 --------------
+  Sun Dec 10 19:16:26 ART 2023
+ProcessKeyBinding 401 when=1702246586381 modifiers=40 code=43 char=43(C) false true
+--------------- 1507 --------------
+  Sun Dec 10 19:16:26 ART 2023
+ProcessKeyBinding 402 when=1702246586459 modifiers=0 code=10 char=ffff false true
+--------------- 1508 --------------
+  Sun Dec 10 19:16:26 ART 2023
+ProcessKeyBinding 401 when=1702246586506 modifiers=0 code=4f char=6f(o) false true
+--------------- 1509 --------------
+  Sun Dec 10 19:16:26 ART 2023
+ProcessKeyBinding 402 when=1702246586521 modifiers=0 code=43 char=63(c) false true
+--------------- 1510 --------------
+  Sun Dec 10 19:16:26 ART 2023
+ProcessKeyBinding 402 when=1702246586553 modifiers=0 code=4f char=6f(o) false true
+--------------- 1511 --------------
+  Sun Dec 10 19:16:26 ART 2023
+ProcessKeyBinding 401 when=1702246586599 modifiers=0 code=4e char=6e(n) false true
+--------------- 1512 --------------
+  Sun Dec 10 19:16:26 ART 2023
+ProcessKeyBinding 402 when=1702246586678 modifiers=0 code=4e char=6e(n) false true
+--------------- 1513 --------------
+  Sun Dec 10 19:16:26 ART 2023
+ProcessKeyBinding 401 when=1702246586678 modifiers=0 code=54 char=74(t) false true
+--------------- 1514 --------------
+  Sun Dec 10 19:16:26 ART 2023
+ProcessKeyBinding 401 when=1702246586756 modifiers=0 code=52 char=72(r) false true
+--------------- 1515 --------------
+  Sun Dec 10 19:16:26 ART 2023
+ProcessKeyBinding 402 when=1702246586803 modifiers=0 code=54 char=74(t) false true
+--------------- 1516 --------------
+  Sun Dec 10 19:16:26 ART 2023
+ProcessKeyBinding 401 when=1702246586818 modifiers=0 code=4f char=6f(o) false true
+--------------- 1517 --------------
+  Sun Dec 10 19:16:26 ART 2023
+ProcessKeyBinding 402 when=1702246586849 modifiers=0 code=52 char=72(r) false true
+--------------- 1518 --------------
+  Sun Dec 10 19:16:26 ART 2023
+ProcessKeyBinding 402 when=1702246586896 modifiers=0 code=4f char=6f(o) false true
+--------------- 1519 --------------
+  Sun Dec 10 19:16:26 ART 2023
+ProcessKeyBinding 401 when=1702246586959 modifiers=0 code=4c char=6c(l) false true
+--------------- 1520 --------------
+  Sun Dec 10 19:16:27 ART 2023
+ProcessKeyBinding 401 when=1702246586990 modifiers=0 code=20 char=20 false true
+--------------- 1521 --------------
+  Sun Dec 10 19:16:27 ART 2023
+ProcessKeyBinding 402 when=1702246587021 modifiers=0 code=4c char=6c(l) false true
+--------------- 1522 --------------
+  Sun Dec 10 19:16:27 ART 2023
+ProcessKeyBinding 402 when=1702246587068 modifiers=0 code=20 char=20 false true
+--------------- 1523 --------------
+  Sun Dec 10 19:16:27 ART 2023
+ProcessKeyBinding 401 when=1702246587131 modifiers=0 code=4c char=6c(l) false true
+--------------- 1524 --------------
+  Sun Dec 10 19:16:27 ART 2023
+ProcessKeyBinding 402 when=1702246587193 modifiers=0 code=4c char=6c(l) false true
+--------------- 1525 --------------
+  Sun Dec 10 19:16:27 ART 2023
+ProcessKeyBinding 401 when=1702246587256 modifiers=0 code=4f char=6f(o) false true
+--------------- 1526 --------------
+  Sun Dec 10 19:16:27 ART 2023
+ProcessKeyBinding 402 when=1702246587303 modifiers=0 code=4f char=6f(o) false true
+--------------- 1527 --------------
+  Sun Dec 10 19:16:27 ART 2023
+ProcessKeyBinding 401 when=1702246587693 modifiers=0 code=47 char=67(g) false true
+--------------- 1528 --------------
+  Sun Dec 10 19:16:27 ART 2023
+ProcessKeyBinding 402 when=1702246587756 modifiers=0 code=47 char=67(g) false true
+--------------- 1529 --------------
+  Sun Dec 10 19:16:27 ART 2023
+ProcessKeyBinding 401 when=1702246587787 modifiers=0 code=49 char=69(i) false true
+--------------- 1530 --------------
+  Sun Dec 10 19:16:27 ART 2023
+ProcessKeyBinding 402 when=1702246587834 modifiers=0 code=49 char=69(i) false true
+--------------- 1531 --------------
+  Sun Dec 10 19:16:27 ART 2023
+ProcessKeyBinding 401 when=1702246587881 modifiers=0 code=43 char=63(c) false true
+--------------- 1532 --------------
+  Sun Dec 10 19:16:27 ART 2023
+ProcessKeyBinding 402 when=1702246587959 modifiers=0 code=43 char=63(c) false true
+--------------- 1533 --------------
+  Sun Dec 10 19:16:29 ART 2023
+ProcessKeyBinding 401 when=1702246589881 modifiers=80 code=11 char=ffff false false
+--------------- 1534 --------------
+  Sun Dec 10 19:16:30 ART 2023
+Menu Activated: Edit | Properties | Object Properties...
+Currently highlighted: 
+    Annotation text
+--------------- 1535 --------------
+  Sun Dec 10 19:16:30 ART 2023
+ProcessKeyBinding 400 when=1702246590068 modifiers=80 code=0 char=9 false false
+--------------- 1536 --------------
+  Sun Dec 10 19:16:30 ART 2023
+ProcessKeyBinding 402 when=1702246590115 modifiers=0 code=11 char=ffff false false
+--------------- 1537 --------------
+  Sun Dec 10 19:16:30 ART 2023
+ProcessKeyBinding 401 when=1702246590115 modifiers=80 code=11 char=ffff false false
+--------------- 1538 --------------
+  Sun Dec 10 19:16:41 ART 2023
+Menu Activated: Edit | Move | Move Objects Right
+Currently highlighted: 
+    Annotation text
+--------------- 1539 --------------
+  Sun Dec 10 19:16:41 ART 2023
+Menu Activated: Edit | Move | Move Objects Right
+Currently highlighted: 
+    Annotation text
+--------------- 1540 --------------
+  Sun Dec 10 19:16:42 ART 2023
+Menu Activated: Edit | Move | Move Objects Right
+Currently highlighted: 
+    Annotation text
+--------------- 1541 --------------
+  Sun Dec 10 19:16:42 ART 2023
+Menu Activated: Edit | Move | Move Objects Up
+Currently highlighted: 
+    Annotation text
+--------------- 1542 --------------
+  Sun Dec 10 19:16:42 ART 2023
+ProcessKeyBinding 401 when=1702246602881 modifiers=80 code=11 char=ffff false false
+--------------- 1543 --------------
+  Sun Dec 10 19:16:43 ART 2023
+Menu Activated: File | Save All Libraries
+Currently highlighted: 
+    Annotation text
+--------------- 1544 --------------
+  Sun Dec 10 19:16:43 ART 2023
+ProcessKeyBinding 400 when=1702246603021 modifiers=80 code=0 char=13 false false
+--------------- 1545 --------------
+  Sun Dec 10 19:16:43 ART 2023
+ProcessKeyBinding 402 when=1702246603162 modifiers=0 code=11 char=ffff false false
+--------------- 1546 --------------
+  Sun Dec 10 19:16:43 ART 2023
+ProcessKeyBinding 401 when=1702246603678 modifiers=80 code=11 char=ffff false false
+--------------- 1547 --------------
+  Sun Dec 10 19:16:44 ART 2023
+ProcessKeyBinding 402 when=1702246604303 modifiers=0 code=11 char=ffff false false
+--------------- 1548 --------------
+  Sun Dec 10 19:16:44 ART 2023
+ProcessKeyBinding 401 when=1702246604365 modifiers=80 code=11 char=ffff false false
+--------------- 1549 --------------
+  Sun Dec 10 19:16:44 ART 2023
+Menu Activated: File | Save All Libraries
+--------------- 1550 --------------
+  Sun Dec 10 19:16:44 ART 2023
+ProcessKeyBinding 400 when=1702246604553 modifiers=80 code=0 char=13 false false
+--------------- 1551 --------------
+  Sun Dec 10 19:16:44 ART 2023
+ProcessKeyBinding 402 when=1702246604709 modifiers=0 code=11 char=ffff false false
+--------------- 1552 --------------
+  Sun Dec 10 19:17:01 ART 2023
+Menu Activated: Edit | Modes | Edit | Toggle Outline Edit
+--------------- 1553 --------------
+  Sun Dec 10 19:17:12 ART 2023
+Menu Activated: Cell | New Cell...
+--------------- 1554 --------------
+  Sun Dec 10 19:17:21 ART 2023
+ProcessKeyBinding 401 when=1702246641131 modifiers=80 code=11 char=ffff false false
+--------------- 1555 --------------
+  Sun Dec 10 19:17:21 ART 2023
+Menu Activated: File | Save All Libraries
+--------------- 1556 --------------
+  Sun Dec 10 19:17:21 ART 2023
+ProcessKeyBinding 400 when=1702246641365 modifiers=80 code=0 char=13 false false
+--------------- 1557 --------------
+  Sun Dec 10 19:17:21 ART 2023
+ProcessKeyBinding 402 when=1702246641474 modifiers=0 code=11 char=ffff false false
+--------------- 1558 --------------
+  Sun Dec 10 19:17:27 ART 2023
+Menu Activated: Cell | Expand Cell Instances | All the Way
+Currently highlighted: 
+    com.sun.electric.tool.user.HighlightEOBJ in cell 'logic_CONTROL{lay}': 'ffsr_s{lay}[ffsr_s@0].R'
+--------------- 1559 --------------
+  Sun Dec 10 19:17:27 ART 2023
+ProcessKeyBinding 400 when=1702246647443 modifiers=0 code=0 char=61(a) false false
+--------------- 1560 --------------
+  Sun Dec 10 19:17:27 ART 2023
+ProcessKeyBinding 402 when=1702246647506 modifiers=0 code=41 char=61(a) false false
+--------------- 1561 --------------
+  Sun Dec 10 19:17:28 ART 2023
+ProcessKeyBinding 401 when=1702246648303 modifiers=80 code=11 char=ffff false false
+--------------- 1562 --------------
+  Sun Dec 10 19:17:28 ART 2023
+ProcessKeyBinding 402 when=1702246648631 modifiers=0 code=11 char=ffff false false
+--------------- 1563 --------------
+  Sun Dec 10 19:17:29 ART 2023
+ProcessKeyBinding 401 when=1702246648990 modifiers=80 code=11 char=ffff false false
+--------------- 1564 --------------
+  Sun Dec 10 19:17:29 ART 2023
+Menu Activated: Edit | Copy
+Currently highlighted: 
+    com.sun.electric.tool.user.HighlightEOBJ in cell 'logic_CONTROL{lay}': ffsr_s{lay}['ffsr_s@0']
+--------------- 1565 --------------
+  Sun Dec 10 19:17:29 ART 2023
+ProcessKeyBinding 400 when=1702246649099 modifiers=80 code=0 char=3 false false
+--------------- 1566 --------------
+  Sun Dec 10 19:17:29 ART 2023
+ProcessKeyBinding 402 when=1702246649162 modifiers=0 code=11 char=ffff false false
+--------------- 1567 --------------
+  Sun Dec 10 19:17:29 ART 2023
+ProcessKeyBinding 401 when=1702246649553 modifiers=80 code=11 char=ffff false false
+--------------- 1568 --------------
+  Sun Dec 10 19:17:29 ART 2023
+Menu Activated: Edit | Paste
+--------------- 1569 --------------
+  Sun Dec 10 19:17:29 ART 2023
+ProcessKeyBinding 400 when=1702246649662 modifiers=80 code=0 char=16 false false
+--------------- 1570 --------------
+  Sun Dec 10 19:17:29 ART 2023
+ProcessKeyBinding 402 when=1702246649740 modifiers=0 code=11 char=ffff false false
+--------------- 1571 --------------
+  Sun Dec 10 19:17:33 ART 2023
+ProcessKeyBinding 401 when=1702246653490 modifiers=80 code=11 char=ffff false false
+--------------- 1572 --------------
+  Sun Dec 10 19:17:33 ART 2023
+ProcessKeyBinding 402 when=1702246653865 modifiers=0 code=11 char=ffff false false
+--------------- 1573 --------------
+  Sun Dec 10 19:17:34 ART 2023
+ProcessKeyBinding 401 when=1702246653990 modifiers=80 code=11 char=ffff false false
+--------------- 1574 --------------
+  Sun Dec 10 19:17:34 ART 2023
+Menu Activated: File | Save All Libraries
+--------------- 1575 --------------
+  Sun Dec 10 19:17:34 ART 2023
+ProcessKeyBinding 400 when=1702246654537 modifiers=80 code=0 char=13 false false
+--------------- 1576 --------------
+  Sun Dec 10 19:17:34 ART 2023
+ProcessKeyBinding 402 when=1702246654646 modifiers=0 code=11 char=ffff false false
+--------------- 1577 --------------
+  Sun Dec 10 19:17:38 ART 2023
+ProcessKeyBinding 401 when=1702246658334 modifiers=80 code=11 char=ffff false false
+--------------- 1578 --------------
+  Sun Dec 10 19:17:38 ART 2023
+ProcessKeyBinding 402 when=1702246658849 modifiers=0 code=11 char=ffff false false
+--------------- 1579 --------------
+  Sun Dec 10 19:17:41 ART 2023
+ProcessKeyBinding 401 when=1702246661115 modifiers=80 code=11 char=ffff false false
+--------------- 1580 --------------
+  Sun Dec 10 19:17:41 ART 2023
+ProcessKeyBinding 402 when=1702246661709 modifiers=0 code=11 char=ffff false false
+--------------- 1581 --------------
+  Sun Dec 10 19:17:46 ART 2023
+Menu Activated: Cell | Expand Cell Instances | All the Way
+Currently highlighted: 
+    com.sun.electric.tool.user.HighlightEOBJ in cell 'logic_CONTROL{lay}': 'logic_R1{lay}[logic_R1@0].gnd'
+--------------- 1582 --------------
+  Sun Dec 10 19:17:46 ART 2023
+ProcessKeyBinding 400 when=1702246666021 modifiers=0 code=0 char=61(a) false false
+--------------- 1583 --------------
+  Sun Dec 10 19:17:46 ART 2023
+ProcessKeyBinding 402 when=1702246666115 modifiers=0 code=41 char=61(a) false false
+--------------- 1584 --------------
+  Sun Dec 10 19:18:00 ART 2023
+Menu Activated: Cell | Expand Cell Instances | All the Way
+Currently highlighted: 
+    com.sun.electric.tool.user.HighlightEOBJ in cell 'logic_CONTROL{lay}': 'logic_S1{lay}[logic_S1@0].gnd'
+--------------- 1585 --------------
+  Sun Dec 10 19:18:00 ART 2023
+ProcessKeyBinding 400 when=1702246680678 modifiers=0 code=0 char=61(a) false false
+--------------- 1586 --------------
+  Sun Dec 10 19:18:00 ART 2023
+ProcessKeyBinding 402 when=1702246680724 modifiers=0 code=41 char=61(a) false false
+--------------- 1587 --------------
+  Sun Dec 10 19:18:13 ART 2023
+Menu Activated: Cell | Expand Cell Instances | All the Way
+Currently highlighted: 
+    com.sun.electric.tool.user.HighlightEOBJ in cell 'logic_CONTROL{lay}': 'logic_S0R0{lay}[logic_S0@0].gnd'
+--------------- 1588 --------------
+  Sun Dec 10 19:18:13 ART 2023
+ProcessKeyBinding 400 when=1702246693724 modifiers=0 code=0 char=61(a) false false
+--------------- 1589 --------------
+  Sun Dec 10 19:18:13 ART 2023
+ProcessKeyBinding 402 when=1702246693803 modifiers=0 code=41 char=61(a) false false
+--------------- 1590 --------------
+  Sun Dec 10 19:18:25 ART 2023
+ProcessKeyBinding 401 when=1702246705568 modifiers=80 code=11 char=ffff false false
+--------------- 1591 --------------
+  Sun Dec 10 19:18:25 ART 2023
+Menu Activated: File | Save All Libraries
+--------------- 1592 --------------
+  Sun Dec 10 19:18:25 ART 2023
+ProcessKeyBinding 400 when=1702246705943 modifiers=80 code=0 char=13 false false
+--------------- 1593 --------------
+  Sun Dec 10 19:18:26 ART 2023
+ProcessKeyBinding 402 when=1702246706115 modifiers=0 code=11 char=ffff false false
+--------------- 1594 --------------
+  Sun Dec 10 19:18:48 ART 2023
+ProcessKeyBinding 401 when=1702246728037 modifiers=80 code=11 char=ffff false false
+--------------- 1595 --------------
+  Sun Dec 10 19:18:48 ART 2023
+Menu Activated: File | Save All Libraries
+--------------- 1596 --------------
+  Sun Dec 10 19:18:48 ART 2023
+ProcessKeyBinding 400 when=1702246728287 modifiers=80 code=0 char=13 false false
+--------------- 1597 --------------
+  Sun Dec 10 19:18:48 ART 2023
+ProcessKeyBinding 402 when=1702246728396 modifiers=0 code=11 char=ffff false false
+--------------- 1598 --------------
+  Sun Dec 10 19:19:14 ART 2023
+Menu Activated: Cell | Expand Cell Instances | All the Way
+Currently highlighted: 
+    com.sun.electric.tool.user.HighlightEOBJ in cell 'logic_CONTROL{lay}': 'logic_OUTPUTs{lay}[logic_OU@0].vdd'
+--------------- 1599 --------------
+  Sun Dec 10 19:19:14 ART 2023
+ProcessKeyBinding 400 when=1702246753943 modifiers=0 code=0 char=61(a) false false
+--------------- 1600 --------------
+  Sun Dec 10 19:19:14 ART 2023
+ProcessKeyBinding 402 when=1702246754006 modifiers=0 code=41 char=61(a) false false
+--------------- 1601 --------------
+  Sun Dec 10 19:19:16 ART 2023
+ProcessKeyBinding 401 when=1702246756412 modifiers=80 code=11 char=ffff false false
+--------------- 1602 --------------
+  Sun Dec 10 19:19:17 ART 2023
+ProcessKeyBinding 402 when=1702246757412 modifiers=0 code=11 char=ffff false false
+--------------- 1603 --------------
+  Sun Dec 10 19:19:19 ART 2023
+ProcessKeyBinding 401 when=1702246759865 modifiers=80 code=11 char=ffff false false
+--------------- 1604 --------------
+  Sun Dec 10 19:19:21 ART 2023
+ProcessKeyBinding 402 when=1702246761365 modifiers=0 code=11 char=ffff false false
+--------------- 1605 --------------
+  Sun Dec 10 19:19:21 ART 2023
+ProcessKeyBinding 401 when=1702246761646 modifiers=80 code=11 char=ffff false false
+--------------- 1606 --------------
+  Sun Dec 10 19:19:22 ART 2023
+ProcessKeyBinding 402 when=1702246762349 modifiers=0 code=11 char=ffff false false
+--------------- 1607 --------------
+  Sun Dec 10 19:19:23 ART 2023
+ProcessKeyBinding 401 when=1702246763490 modifiers=80 code=11 char=ffff false false
+--------------- 1608 --------------
+  Sun Dec 10 19:19:23 ART 2023
+ProcessKeyBinding 402 when=1702246763881 modifiers=0 code=11 char=ffff false false
+--------------- 1609 --------------
+  Sun Dec 10 19:19:26 ART 2023
+Menu Activated: Tools | DRC | Check Hierarchically
+Currently highlighted: 
+    com.sun.electric.tool.user.HighlightEOBJ in cell 'logic_CONTROL{lay}': ffsr_s{lay}['ffsr_s@1']
+    com.sun.electric.tool.user.HighlightEOBJ in cell 'logic_CONTROL{lay}': logic_OUTPUTs{lay}['logic_OU@0']
+    com.sun.electric.tool.user.HighlightEOBJ in cell 'logic_CONTROL{lay}': 'ffsr_s{lay}[ffsr_s@0].Q'
+--------------- 1610 --------------
+  Sun Dec 10 19:19:27 ART 2023
+Menu Activated: Tools | DRC | Check Hierarchically
+--------------- 1611 --------------
+  Sun Dec 10 19:19:27 ART 2023
+Menu Activated: Tools | DRC | Check Hierarchically
+--------------- 1612 --------------
+  Sun Dec 10 19:19:27 ART 2023
+ProcessKeyBinding 401 when=1702246767896 modifiers=80 code=11 char=ffff false false
+--------------- 1613 --------------
+  Sun Dec 10 19:19:28 ART 2023
+ProcessKeyBinding 402 when=1702246768678 modifiers=0 code=11 char=ffff false false
+--------------- 1614 --------------
+  Sun Dec 10 19:19:30 ART 2023
+ProcessKeyBinding 401 when=1702246770428 modifiers=80 code=11 char=ffff false false
+--------------- 1615 --------------
+  Sun Dec 10 19:19:31 ART 2023
+ProcessKeyBinding 402 when=1702246771209 modifiers=0 code=11 char=ffff false false
+--------------- 1616 --------------
+  Sun Dec 10 19:19:38 ART 2023
+ProcessKeyBinding 401 when=1702246778803 modifiers=80 code=11 char=ffff false false
+--------------- 1617 --------------
+  Sun Dec 10 19:19:39 ART 2023
+ProcessKeyBinding 402 when=1702246779037 modifiers=0 code=11 char=ffff false false
+--------------- 1618 --------------
+  Sun Dec 10 19:19:44 ART 2023
+Menu Activated: Tools | DRC | Check Hierarchically
+--------------- 1619 --------------
+  Sun Dec 10 19:19:45 ART 2023
+Menu Activated: Tools | DRC | Check Hierarchically
+--------------- 1620 --------------
+  Sun Dec 10 19:19:45 ART 2023
+Menu Activated: Tools | DRC | Check Hierarchically
+--------------- 1621 --------------
+  Sun Dec 10 19:19:45 ART 2023
+ProcessKeyBinding 401 when=1702246785834 modifiers=80 code=11 char=ffff false false
+--------------- 1622 --------------
+  Sun Dec 10 19:19:46 ART 2023
+Menu Activated: File | Save All Libraries
+--------------- 1623 --------------
+  Sun Dec 10 19:19:46 ART 2023
+ProcessKeyBinding 400 when=1702246786803 modifiers=80 code=0 char=13 false false
+--------------- 1624 --------------
+  Sun Dec 10 19:19:47 ART 2023
+ProcessKeyBinding 402 when=1702246787006 modifiers=0 code=11 char=ffff false false
+--------------- 1625 --------------
+  Sun Dec 10 19:23:59 ART 2023
+ProcessKeyBinding 401 when=1702247039818 modifiers=80 code=11 char=ffff false false
+--------------- 1626 --------------
+  Sun Dec 10 19:24:00 ART 2023
+ProcessKeyBinding 402 when=1702247040256 modifiers=0 code=11 char=ffff false false
+--------------- 1627 --------------
+  Sun Dec 10 19:24:01 ART 2023
+ProcessKeyBinding 401 when=1702247041631 modifiers=80 code=11 char=ffff false false
+--------------- 1628 --------------
+  Sun Dec 10 19:24:02 ART 2023
+ProcessKeyBinding 402 when=1702247042240 modifiers=0 code=11 char=ffff false false
+--------------- 1629 --------------
+  Sun Dec 10 19:24:03 ART 2023
+ProcessKeyBinding 401 when=1702247043131 modifiers=80 code=11 char=ffff false false
+--------------- 1630 --------------
+  Sun Dec 10 19:24:03 ART 2023
+ProcessKeyBinding 402 when=1702247043818 modifiers=0 code=11 char=ffff false false
+--------------- 1631 --------------
+  Sun Dec 10 19:24:05 ART 2023
+Menu Activated: Edit | Move | Move Objects Down
+Currently highlighted: 
+    com.sun.electric.tool.user.HighlightEOBJ in cell 'logic_CONTROL{lay}': 'ffsr_s{lay}[ffsr_s@0].gnd'
+--------------- 1632 --------------
+  Sun Dec 10 19:24:06 ART 2023
+Menu Activated: Edit | Move | Move Objects Left
+Currently highlighted: 
+    com.sun.electric.tool.user.HighlightEOBJ in cell 'logic_CONTROL{lay}': 'ffsr_s{lay}[ffsr_s@0].gnd'
+--------------- 1633 --------------
+  Sun Dec 10 19:24:06 ART 2023
+Menu Activated: Edit | Move | Move Objects Left
+Currently highlighted: 
+    com.sun.electric.tool.user.HighlightEOBJ in cell 'logic_CONTROL{lay}': 'ffsr_s{lay}[ffsr_s@0].gnd'
+--------------- 1634 --------------
+  Sun Dec 10 19:24:06 ART 2023
+Menu Activated: Edit | Move | Move Objects Left
+Currently highlighted: 
+    com.sun.electric.tool.user.HighlightEOBJ in cell 'logic_CONTROL{lay}': 'ffsr_s{lay}[ffsr_s@0].gnd'
+--------------- 1635 --------------
+  Sun Dec 10 19:24:06 ART 2023
+Menu Activated: Edit | Move | Move Objects Left
+Currently highlighted: 
+    com.sun.electric.tool.user.HighlightEOBJ in cell 'logic_CONTROL{lay}': 'ffsr_s{lay}[ffsr_s@0].gnd'
+--------------- 1636 --------------
+  Sun Dec 10 19:24:11 ART 2023
+Menu Activated: Edit | Move | Move Objects Down
+Currently highlighted: 
+    com.sun.electric.tool.user.HighlightEOBJ in cell 'logic_CONTROL{lay}': 'logic_OUTPUTs{lay}[logic_OU@0].gnd'
+--------------- 1637 --------------
+  Sun Dec 10 19:24:12 ART 2023
+Menu Activated: Edit | Move | Move Objects Down
+Currently highlighted: 
+    com.sun.electric.tool.user.HighlightEOBJ in cell 'logic_CONTROL{lay}': 'logic_OUTPUTs{lay}[logic_OU@0].gnd'
+--------------- 1638 --------------
+  Sun Dec 10 19:24:15 ART 2023
+Menu Activated: Edit | Move | Move Objects Down
+Currently highlighted: 
+    com.sun.electric.tool.user.HighlightEOBJ in cell 'logic_CONTROL{lay}': 'ffsr_s{lay}[ffsr_s@1].gnd'
+--------------- 1639 --------------
+  Sun Dec 10 19:24:16 ART 2023
+ProcessKeyBinding 401 when=1702247056412 modifiers=80 code=11 char=ffff false false
+--------------- 1640 --------------
+  Sun Dec 10 19:24:17 ART 2023
+ProcessKeyBinding 402 when=1702247057053 modifiers=0 code=11 char=ffff false false
+--------------- 1641 --------------
+  Sun Dec 10 19:24:18 ART 2023
+ProcessKeyBinding 401 when=1702247058506 modifiers=80 code=11 char=ffff false false
+--------------- 1642 --------------
+  Sun Dec 10 19:24:18 ART 2023
+Menu Activated: File | Save All Libraries
+Currently highlighted: 
+    com.sun.electric.tool.user.HighlightEOBJ in cell 'logic_CONTROL{lay}': 'ffsr_s{lay}[ffsr_s@1].gnd'
+--------------- 1643 --------------
+  Sun Dec 10 19:24:18 ART 2023
+ProcessKeyBinding 400 when=1702247058709 modifiers=80 code=0 char=13 false false
+--------------- 1644 --------------
+  Sun Dec 10 19:24:18 ART 2023
+ProcessKeyBinding 402 when=1702247058818 modifiers=0 code=11 char=ffff false false
+--------------- 1645 --------------
+  Sun Dec 10 19:24:19 ART 2023
+Menu Activated: Tools | DRC | Check Hierarchically
+--------------- 1646 --------------
+  Sun Dec 10 19:24:22 ART 2023
+ProcessKeyBinding 401 when=1702247062740 modifiers=80 code=11 char=ffff false false
+--------------- 1647 --------------
+  Sun Dec 10 19:24:23 ART 2023
+ProcessKeyBinding 402 when=1702247063568 modifiers=0 code=11 char=ffff false false
+--------------- 1648 --------------
+  Sun Dec 10 19:24:27 ART 2023
+Menu Activated: Edit | Move | Move Objects Left
+Currently highlighted: 
+    com.sun.electric.tool.user.HighlightEOBJ in cell 'logic_CONTROL{lay}': 'logic_S0R0{lay}[logic_S0@0].R0'
+--------------- 1649 --------------
+  Sun Dec 10 19:24:27 ART 2023
+Menu Activated: Edit | Move | Move Objects Left
+Currently highlighted: 
+    com.sun.electric.tool.user.HighlightEOBJ in cell 'logic_CONTROL{lay}': 'logic_S0R0{lay}[logic_S0@0].R0'
+--------------- 1650 --------------
+  Sun Dec 10 19:24:28 ART 2023
+Menu Activated: Edit | Move | Move Objects Down
+Currently highlighted: 
+    com.sun.electric.tool.user.HighlightEOBJ in cell 'logic_CONTROL{lay}': 'logic_S0R0{lay}[logic_S0@0].R0'
+--------------- 1651 --------------
+  Sun Dec 10 19:24:28 ART 2023
+Menu Activated: Edit | Move | Move Objects Down
+Currently highlighted: 
+    com.sun.electric.tool.user.HighlightEOBJ in cell 'logic_CONTROL{lay}': 'logic_S0R0{lay}[logic_S0@0].R0'
+--------------- 1652 --------------
+  Sun Dec 10 19:24:28 ART 2023
+Menu Activated: Edit | Move | Move Objects Left
+Currently highlighted: 
+    com.sun.electric.tool.user.HighlightEOBJ in cell 'logic_CONTROL{lay}': 'logic_S0R0{lay}[logic_S0@0].R0'
+--------------- 1653 --------------
+  Sun Dec 10 19:24:29 ART 2023
+Menu Activated: Edit | Move | Move Objects Left
+Currently highlighted: 
+    com.sun.electric.tool.user.HighlightEOBJ in cell 'logic_CONTROL{lay}': 'logic_S0R0{lay}[logic_S0@0].R0'
+--------------- 1654 --------------
+  Sun Dec 10 19:24:30 ART 2023
+Menu Activated: Tools | DRC | Check Hierarchically
+Currently highlighted: 
+    com.sun.electric.tool.user.HighlightEOBJ in cell 'logic_CONTROL{lay}': 'logic_S0R0{lay}[logic_S0@0].R0'
+--------------- 1655 --------------
+  Sun Dec 10 19:24:30 ART 2023
+Menu Activated: Edit | Move | Move Objects Down
+Currently highlighted: 
+    com.sun.electric.tool.user.HighlightEOBJ in cell 'logic_CONTROL{lay}': 'logic_S0R0{lay}[logic_S0@0].R0'
+--------------- 1656 --------------
+  Sun Dec 10 19:24:30 ART 2023
+Menu Activated: Tools | DRC | Check Hierarchically
+Currently highlighted: 
+    com.sun.electric.tool.user.HighlightEOBJ in cell 'logic_CONTROL{lay}': 'logic_S0R0{lay}[logic_S0@0].R0'
+--------------- 1657 --------------
+  Sun Dec 10 19:24:31 ART 2023
+Menu Activated: Edit | Move | Move Objects Down
+Currently highlighted: 
+    com.sun.electric.tool.user.HighlightEOBJ in cell 'logic_CONTROL{lay}': 'logic_S0R0{lay}[logic_S0@0].R0'
+--------------- 1658 --------------
+  Sun Dec 10 19:24:31 ART 2023
+Menu Activated: Tools | DRC | Check Hierarchically
+Currently highlighted: 
+    com.sun.electric.tool.user.HighlightEOBJ in cell 'logic_CONTROL{lay}': 'logic_S0R0{lay}[logic_S0@0].R0'
+--------------- 1659 --------------
+  Sun Dec 10 19:24:32 ART 2023
+Menu Activated: Edit | Move | Move Objects Down
+Currently highlighted: 
+    com.sun.electric.tool.user.HighlightEOBJ in cell 'logic_CONTROL{lay}': 'logic_S0R0{lay}[logic_S0@0].R0'
+--------------- 1660 --------------
+  Sun Dec 10 19:24:32 ART 2023
+Menu Activated: Tools | DRC | Check Hierarchically
+Currently highlighted: 
+    com.sun.electric.tool.user.HighlightEOBJ in cell 'logic_CONTROL{lay}': 'logic_S0R0{lay}[logic_S0@0].R0'
+--------------- 1661 --------------
+  Sun Dec 10 19:24:32 ART 2023
+Menu Activated: Edit | Move | Move Objects Down
+Currently highlighted: 
+    com.sun.electric.tool.user.HighlightEOBJ in cell 'logic_CONTROL{lay}': 'logic_S0R0{lay}[logic_S0@0].R0'
+--------------- 1662 --------------
+  Sun Dec 10 19:24:33 ART 2023
+Menu Activated: Tools | DRC | Check Hierarchically
+Currently highlighted: 
+    com.sun.electric.tool.user.HighlightEOBJ in cell 'logic_CONTROL{lay}': 'logic_S0R0{lay}[logic_S0@0].R0'
+--------------- 1663 --------------
+  Sun Dec 10 19:24:33 ART 2023
+Menu Activated: Edit | Move | Move Objects Down
+Currently highlighted: 
+    com.sun.electric.tool.user.HighlightEOBJ in cell 'logic_CONTROL{lay}': 'logic_S0R0{lay}[logic_S0@0].R0'
+--------------- 1664 --------------
+  Sun Dec 10 19:24:33 ART 2023
+Menu Activated: Tools | DRC | Check Hierarchically
+Currently highlighted: 
+    com.sun.electric.tool.user.HighlightEOBJ in cell 'logic_CONTROL{lay}': 'logic_S0R0{lay}[logic_S0@0].R0'
+--------------- 1665 --------------
+  Sun Dec 10 19:24:34 ART 2023
+Menu Activated: Edit | Move | Move Objects Up
+Currently highlighted: 
+    com.sun.electric.tool.user.HighlightEOBJ in cell 'logic_CONTROL{lay}': 'logic_S0R0{lay}[logic_S0@0].R0'
+--------------- 1666 --------------
+  Sun Dec 10 19:24:34 ART 2023
+Menu Activate
