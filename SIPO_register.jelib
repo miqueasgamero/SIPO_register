@@ -12642,6 +12642,44 @@ Awire|net@15|||900|pin@7||-51|-15|pin@8||-51|-24
 Awire|net@16|||2700|gnd@0||-51|-27|pin@8||-51|-24
 X
 
+# Cell tb_r16b;1{sch}
+Ctb_r16b;1{sch}||schematic|1702165441167|1702167566941|
+Ispiceparts:Pulse;1{ic}|Pulse@0||-19|-1|||D5G4;|ATTR_DCVoltage(D5G0.5;NPY-2;)S0V|ATTR_DelayTime(D5G0.5;NPY0.5;)S0ns|ATTR_FallTime(D5G0.5;NPY-0.5;)S10ps|ATTR_InitialVoltage(D5G0.5;NPY1.5;)I0|ATTR_Period(D5G0.5;NPY-1.5;)S20ns|ATTR_PulseVoltage(D5G0.5;NPY1;)S5V|ATTR_PulseWidth(D5G0.5;NPY-1;)S10ns|ATTR_RiseTime(D5G0.5;NP)S10ps
+Ispiceparts:Pulse;1{ic}|Pulse@1||-18.5|9|||D5G4;|ATTR_DCVoltage(D5G0.5;NPY-2;)S0V|ATTR_DelayTime(D5G0.5;NPY0.5;)S5ns|ATTR_FallTime(D5G0.5;NPY-0.5;)S10ps|ATTR_InitialVoltage(D5G0.5;NPY1.5;)I0|ATTR_Period(D5G0.5;NPY-1.5;)S20ns|ATTR_PulseVoltage(D5G0.5;NPY1;)S5V|ATTR_PulseWidth(D5G0.5;NPY-1;)S10ns|ATTR_RiseTime(D5G0.5;NP)S10ps
+Ispiceparts:Pulse;1{ic}|Pulse@2||-19|-11|||D5G4;|ATTR_DCVoltage(D5G0.5;NPY-2;)S0V|ATTR_DelayTime(D5G0.5;NPY0.5;)S100ns|ATTR_FallTime(D5G0.5;NPY-0.5;)S10ps|ATTR_InitialVoltage(D5G0.5;NPY1.5;)I0|ATTR_Period(D5G0.5;NPY-1.5;)S60ns|ATTR_PulseVoltage(D5G0.5;NPY1;)S5V|ATTR_PulseWidth(D5G0.5;NPY-1;)S30ns|ATTR_RiseTime(D5G0.5;NP)S10ps
+Ngeneric:Facet-Center|art@0||0|0||||AV
+NGround|gnd@0||-23|-18||||
+Iinv;1{ic}|inv@0||-5|11|||D5G4;
+Iinv;1{ic}|inv@1||8|11|||D5G4;
+Iinv;1{ic}|inv@2||-5|1|||D5G4;
+Iinv;1{ic}|inv@3||8|1|||D5G4;
+Iinv;1{ic}|inv@4||-5|-9|||D5G4;
+Iinv;1{ic}|inv@5||8|-9|||D5G4;
+NWire_Pin|pin@0||-19|2||||
+NWire_Pin|pin@1||-23|6||||
+NWire_Pin|pin@2||-23|-4||||
+NWire_Pin|pin@3||-23|-14||||
+NWire_Pin|pin@4||-23|-16||||
+Ngeneric:Invisible-Pin|pin@5||-1.5|-12.5|||||SIM_spice_card(D5G1;)S[vdd vdd 0 DC 5   ,.tran 200n]
+Ir16b;1{ic}|r16b@0||17.5|2|||D5G4;
+Awire|CLK|D5G1;||1800|inv@1|out|10|12|r16b@0|CLK|12.5|12
+Awire|D|D5G1;||1800|inv@3|out|10|2|r16b@0|D|12.5|2
+Awire|TG|D5G1;||1800|inv@5|out|10|-8|r16b@0|TG|12.5|-8
+Awire|net@1|||900|Pulse@0|plus|-19|2|pin@0||-19|2
+Awire|net@4|||0|Pulse@1|minus|-18.5|6|pin@1||-23|6
+Awire|net@5|||900|pin@1||-23|6|pin@2||-23|-4
+Awire|net@6|||0|Pulse@0|minus|-19|-4|pin@2||-23|-4
+Awire|net@7|||900|pin@2||-23|-4|pin@3||-23|-14
+Awire|net@8|||0|Pulse@2|minus|-19|-14|pin@3||-23|-14
+Awire|net@9|||900|pin@3||-23|-14|pin@4||-23|-16
+Awire|net@11|||1800|inv@0|out|-3|12|inv@1|in|-1|12
+Awire|net@13|||1800|inv@2|out|-3|2|inv@3|in|-1|2
+Awire|net@16|||1800|inv@4|out|-3|-8|inv@5|in|-1|-8
+Awire|vci|D5G1;||0|inv@0|in|-14|12|Pulse@1|plus|-18.5|12
+Awire|vdi|D5G1;||0|inv@2|in|-14|2|pin@0||-19|2
+Awire|vti|D5G1;||1800|Pulse@2|plus|-19|-8|inv@4|in|-14|-8
+X
+
 # Cell tlatch2_sim;1{sch}
 Ctlatch2_sim;1{sch}||schematic|1697926995447|1698093567420|
 Ispiceparts:Pulse;1{ic}|Pulse@0||-21.5|-4.5|||D5G4;|ATTR_DCVoltage(D5G0.5;NPY-2;)S1V|ATTR_DelayTime(D5G0.5;NPY0.5;)S0ns|ATTR_FallTime(D5G0.5;NPY-0.5;)S1ps|ATTR_InitialVoltage(D5G0.5;NPY1.5;)I0|ATTR_Period(D5G0.5;NPY-1.5;)S40ns|ATTR_PulseVoltage(D5G0.5;NPY1;)S5V|ATTR_PulseWidth(D5G0.5;NPY-1;)S20ns|ATTR_RiseTime(D5G0.5;NP)S1ps
