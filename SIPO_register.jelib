@@ -18216,6 +18216,11 @@ EQ15||D5G2;|comp_tra@15|out|U
 EGATE|TG|D5G2;|pin@37||U
 X
 
+# Cell simulacion_completa;1{sch}
+Csimulacion_completa;1{sch}||schematic|1703789654086|1703789654087|
+Ngeneric:Facet-Center|art@0||0|0||||AV
+X
+
 # Cell tb_and4;1{sch}
 Ctb_and4;1{sch}||schematic|1701727185403|1701727570623|
 Ispiceparts:Pulse;1{ic}|Pulse@0||-43|6|||D5G4;|ATTR_DCVoltage(D5G0.5;NPY-2;)S1V|ATTR_DelayTime(D5G0.5;NPY0.5;)S0ns|ATTR_FallTime(D5G0.5;NPY-0.5;)S200ps|ATTR_InitialVoltage(D5G0.5;NPY1.5;)I0|ATTR_Period(D5G0.5;NPY-1.5;)S6ns|ATTR_PulseVoltage(D5G0.5;NPY1;)S5V|ATTR_PulseWidth(D5G0.5;NPY-1;)S3ns|ATTR_RiseTime(D5G0.5;NP)S200ps
