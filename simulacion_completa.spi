@@ -1,7 +1,7 @@
 *** SPICE deck for cell simulacion_completa{sch} from library SIPO_register
 *** Created on Thu Dec 28, 2023 15:54:14
-*** Last revised on Tue Jan 02, 2024 19:52:21
-*** Written on Tue Jan 02, 2024 19:54:25 by Electric VLSI Design System, version 9.07
+*** Last revised on Tue Jan 02, 2024 20:40:04
+*** Written on Tue Jan 02, 2024 20:40:08 by Electric VLSI Design System, version 9.07
 *** Layout tech: mocmos, foundry MOSIS
 *** UC SPICE *** , MIN_RESIST 4.0, MIN_CAPAC 0.1FF
 * Model cards are described in this file:
@@ -224,13 +224,13 @@ Xr16b@0 CLK_INT D Q0 Q1 Q10 Q11 Q12 Q13 Q14 Q15 Q2 Q3 Q4 Q5 Q6 Q7 Q8 Q9 net@3 SI
 .global gnd vdd
 
 *** TOP LEVEL CELL: simulacion_completa{sch}
-VPWL@0 EN gnd PWL (0ns 0 9.9ns 0 10ns 5V 19.99ns 5V 20ns 0 49.99ns 0 50ns 5V 209.9ns 5V 210ns 0 229.9ns 0 230ns 5 245ns 5 250ns 0 R=0 TD=0)
-VPulse@3 SYN gnd DC=1V pulse 0 5V 30ns 200ps 200ps 10ns 1000ns
-VPulse@4 CLK gnd DC=1V pulse 0 5V 0ns 50ps 50ps 5ns 10ns
-VPulse@5 D gnd DC=1V pulse 0 6V 45ns 50ps 50ps 80ns 1000ns
+VPWL@0 EN gnd PWL (0us 0 9.9us 0 10us 5V 19.9us 5V 20us 0 49.9us 0 50us 5V 204.9us 5V 205us 0 279.9us 0 280us 5 289.9us 5 290us 0  R=0 TD=0)
+VPulse@4 CLK gnd DC=1V pulse 0 5V 0ns 50ps 50ps 5us 10us
+VPulse@5 D gnd DC=1V pulse 0V 5V 42.5us 50ps 50ps 90us 1m
+VPulse@6 SYN gnd DC=1V pulse 0 5V 30us 200ps 200ps 10us 500us
 Xproy_fin@0 Acknowledge CLK CLK_interno D EN proy_fin@0_Q0 proy_fin@0_Q1 proy_fin@0_Q10 proy_fin@0_Q11 proy_fin@0_Q12 proy_fin@0_Q13 proy_fin@0_Q14 proy_fin@0_Q15 proy_fin@0_Q2 proy_fin@0_Q3 proy_fin@0_Q4 proy_fin@0_Q5 proy_fin@0_Q6 proy_fin@0_Q7 proy_fin@0_Q8 proy_fin@0_Q9 SYN SIPO_register__proy_final
 
 * Spice Code nodes in cell cell 'simulacion_completa{sch}'
 vdd vdd 0 DC 5 
-.tran 300n
+.tran 300u
 .END

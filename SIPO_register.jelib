@@ -18408,21 +18408,21 @@ EGATE|TG|D5G2;|pin@37||U
 X
 
 # Cell simulacion_completa;1{sch}
-Csimulacion_completa;1{sch}||schematic|1703789654086|1704234943918|
-Ispiceparts:PWL;1{ic}|PWL@0||-32|-4|||D5G4;|ATTR_Delay(D5G0.5;NPY-1;)S0|ATTR_Pulses(D5G0.5;NPX-3;Y1;)S0ns 0 9.9ns 0 10ns 5V 19.99ns 5V 20ns 0 49.99ns 0 50ns 5V 209.9ns 5V 210ns 0 229.9ns 0 230ns 5 245ns 5 250ns 0|ATTR_RepeatTime(D5G0.5;NP)S0
-Ispiceparts:Pulse;1{ic}|Pulse@3||-23|-12|||D5G4;|ATTR_DCVoltage(D5G0.5;NPY-2;)S1V|ATTR_DelayTime(D5G0.5;NPY0.5;)S30ns|ATTR_FallTime(D5G0.5;NPY-0.5;)S200ps|ATTR_InitialVoltage(D5G0.5;NPY1.5;)I0|ATTR_Period(D5G0.5;NPY-1.5;)S1000ns|ATTR_PulseVoltage(D5G0.5;NPY1;)S5V|ATTR_PulseWidth(D5G0.5;NPY-1;)S10ns|ATTR_RiseTime(D5G0.5;NP)S200ps
-Ispiceparts:Pulse;1{ic}|Pulse@4||-17|-21|||D5G4;|ATTR_DCVoltage(D5G0.5;NPY-2;)S1V|ATTR_DelayTime(D5G0.5;NPY0.5;)S0ns|ATTR_FallTime(D5G0.5;NPY-0.5;)S50ps|ATTR_InitialVoltage(D5G0.5;NPY1.5;)I0|ATTR_Period(D5G0.5;NPY-1.5;)S10ns|ATTR_PulseVoltage(D5G0.5;NPY1;)S5V|ATTR_PulseWidth(D5G0.5;NPY-1;)S5ns|ATTR_RiseTime(D5G0.5;NP)S50ps
-Ispiceparts:Pulse;1{ic}|Pulse@5||-24|10|||D5G4;|ATTR_DCVoltage(D5G0.5;NPY-2;)S1V|ATTR_DelayTime(D5G0.5;NPY0.5;)S40ns|ATTR_FallTime(D5G0.5;NPY-0.5;)S50ps|ATTR_InitialVoltage(D5G0.5;NPY1.5;)I0|ATTR_Period(D5G0.5;NPY-1.5;)S1000ns|ATTR_PulseVoltage(D5G0.5;NPY1;)S5V|ATTR_PulseWidth(D5G0.5;NPY-1;)S160ns|ATTR_RiseTime(D5G0.5;NP)S50ps
+Csimulacion_completa;1{sch}||schematic|1703789654086|1704238804617|
+Ispiceparts:PWL;1{ic}|PWL@0||-32|-4|||D5G4;|ATTR_Delay(D5G0.5;NPY-1;)S0|ATTR_Pulses(D5G0.5;NPX-1;Y1;)S0us 0 9.9us 0 10us 5V 19.9us 5V 20us 0 49.9us 0 50us 5V 204.9us 5V 205us 0 279.9us 0 280us 5 289.9us 5 290us 0 |ATTR_RepeatTime(D5G0.5;NP)S0
+Ispiceparts:Pulse;1{ic}|Pulse@4||-17|-21|||D5G4;|ATTR_DCVoltage(D5G0.5;NPY-2;)S1V|ATTR_DelayTime(D5G0.5;NPY0.5;)S0ns|ATTR_FallTime(D5G0.5;NPY-0.5;)S50ps|ATTR_InitialVoltage(D5G0.5;NPY1.5;)I0|ATTR_Period(D5G0.5;NPY-1.5;)S10us|ATTR_PulseVoltage(D5G0.5;NPY1;)S5V|ATTR_PulseWidth(D5G0.5;NPY-1;)S5us|ATTR_RiseTime(D5G0.5;NP)S50ps
+Ispiceparts:Pulse;1{ic}|Pulse@5||-24|10|||D5G4;|ATTR_DCVoltage(D5G0.5;NPY-2;)S1V|ATTR_DelayTime(D5G0.5;NPY0.5;)S42.5us|ATTR_FallTime(D5G0.5;NPY-0.5;)S50ps|ATTR_InitialVoltage(D5G0.5;NPY1.5;)S0V|ATTR_Period(D5G0.5;NPY-1.5;)S1000u|ATTR_PulseVoltage(D5G0.5;NPY1;)S5V|ATTR_PulseWidth(D5G0.5;NPY-1;)S90us|ATTR_RiseTime(D5G0.5;NP)S50ps
+Ispiceparts:Pulse;1{ic}|Pulse@6||-23|-12|||D5G4;|ATTR_DCVoltage(D5G0.5;NPY-2;)S1V|ATTR_DelayTime(D5G0.5;NPY0.5;)S30us|ATTR_FallTime(D5G0.5;NPY-0.5;)S200ps|ATTR_InitialVoltage(D5G0.5;NPY1.5;)I0|ATTR_Period(D5G0.5;NPY-1.5;)S500us|ATTR_PulseVoltage(D5G0.5;NPY1;)S5V|ATTR_PulseWidth(D5G0.5;NPY-1;)S10us|ATTR_RiseTime(D5G0.5;NP)S200ps
 Ngeneric:Facet-Center|art@0||0|0||||AV
 NOff-Page|conn@0||-3|29||||
 NGround|gnd@0||-32|-11||||
 NGround|gnd@2||-17|-31||||
-NGround|gnd@3||-23|-18||||
+NGround|gnd@3||-23|-20||||
 NGround|gnd@5||-24|1||||
 NWire_Pin|pin@0||-32|5||||
 NWire_Pin|pin@2||-23|-7||||
 NWire_Pin|pin@3||-17|-16||||
-Ngeneric:Invisible-Pin|pin@5||-36|14|||||SIM_spice_card(D5G1;)S[vdd vdd 0 DC 5 ,.tran 300n]
+Ngeneric:Invisible-Pin|pin@5||-36|14|||||SIM_spice_card(D5G1;)S[vdd vdd 0 DC 5 ,.tran 300u]
 NWire_Pin|pin@6||-19|14.5||||
 NWire_Pin|pin@7||-24|14.5||||
 NWire_Pin|pin@9||-1|-25||||
@@ -18433,8 +18433,6 @@ Awire|net@11|||2700|proy_fin@0|ACK|-1|24|conn@0|y|-1|29
 Awire|net@12|||0|proy_fin@0|D|-9.5|14.5|pin@6||-19|14.5
 Awire|net@17|||900|pin@0||-32|5|PWL@0|plus|-32|-1
 Awire|net@18|||2700|gnd@0||-32|-9|PWL@0|minus|-32|-7
-Awire|net@19|||900|pin@2||-23|-7|Pulse@3|plus|-23|-9
-Awire|net@20|||2700|gnd@3||-23|-16|Pulse@3|minus|-23|-15
 Awire|net@23|||900|Pulse@4|minus|-17|-24|gnd@2||-17|-29
 Awire|net@24|||2700|Pulse@4|plus|-17|-18|pin@3||-17|-16
 Awire|net@25|||0|proy_fin@0|EN|-9.5|5|pin@0||-32|5
@@ -18442,6 +18440,8 @@ Awire|net@27|||0|pin@6||-19|14.5|pin@7||-24|14.5
 Awire|net@28|||900|pin@7||-24|14.5|Pulse@5|plus|-24|13
 Awire|net@29|||2700|gnd@5||-24|3|Pulse@5|minus|-24|7
 Awire|net@30|||900|proy_fin@0|CLOCK|-1|-23|pin@9||-1|-25
+Awire|net@38|||2700|Pulse@6|plus|-23|-9|pin@2||-23|-7
+Awire|net@39|||900|Pulse@6|minus|-23|-15|gnd@3||-23|-18
 EAcknowledge||D5G2;X1;|conn@0|a|U
 ECLK||D5G2;|pin@3||U
 ECLK_interno||D5G2;|pin@9||U
