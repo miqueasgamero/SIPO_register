@@ -6,8 +6,9 @@ Ignoring BSIM parameter TLEV
 Ignoring BSIM parameter ACM
 Ignoring BSIM parameter HDIF
 Ignoring BSIM parameter TLEV
-Error on line 146 : vpwl@0 en gnd pwl (0ns 0 9.9ns 0 10ns 5v 19.99ns 5v 20ns 0 49.99ns 0 50ns 5v 59.99ns 5v 60ns 0 69.99ns 0 70ns 5v 79ns 5v 80ns 0 r=0 td=0)
+Error on line 146 : vpwl@0 en gnd pwl (0ns 0 9.9ns 0 10ns 5v 19.99ns 5v 20ns 0 49.99ns 0 50ns 5v 59.99ns 5v 219.9ns 5v 220ns 0 229.9ns 0 230ns 5 268.9ns 5 270ns 0 r=0 td=0)
 	 Unknown parameter "r"
+Vpwl@0: Removing PWL point (5.999e-008,5)
 WARNING: Node FFSR_S@0:NMOS-4@0_B is floating.
 WARNING: Node FFSR_S@0:NMOS-4@1_B is floating.
 WARNING: Node FFSR_S@0:NMOS-4@2_B is floating.
@@ -135,22 +136,22 @@ Gmin = 0
 Gmin stepping succeeded in finding the operating point.
 
 
-Date: Thu Dec 28 19:25:01 2023
-Total elapsed time: 1.449 seconds.
+Date: Tue Jan 02 18:56:16 2024
+Total elapsed time: 2.041 seconds.
 
 tnom = 27
 temp = 27
 method = modified trap
-totiter = 9201
-traniter = 8796
-tranpoints = 2490
-accept = 2092
-rejected = 398
+totiter = 16013
+traniter = 15608
+tranpoints = 4290
+accept = 3393
+rejected = 897
 matrix size = 115
 fillins = 168
 solver = Normal
-Thread vector: 388.1/89.9[11] 53.5/10.2[11] 16.2/5.0[11] 0.8/2.2[1]  2592/500
-Matrix Compiler1: 28.90 KB object code size  10.6/5.0/[3.6]
-Matrix Compiler2: 17.47 KB object code size  4.3/4.7/[1.8]
+Thread vector: 379.3/122.4[11] 58.6/31.3[11] 16.5/7.4[11] 0.9/7.6[1]  2592/500
+Matrix Compiler1: 28.90 KB object code size  11.1/4.9/[4.7]
+Matrix Compiler2: 17.47 KB object code size  4.5/4.5/[1.8]
 
 

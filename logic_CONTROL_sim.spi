@@ -1,7 +1,7 @@
 *** SPICE deck for cell logic_CONTROL_sim{sch} from library SIPO_register
 *** Created on Sun Dec 10, 2023 18:42:14
-*** Last revised on Thu Dec 28, 2023 22:23:05
-*** Written on Thu Dec 28, 2023 22:24:56 by Electric VLSI Design System, version 9.07
+*** Last revised on Tue Jan 02, 2024 18:52:10
+*** Written on Tue Jan 02, 2024 18:56:14 by Electric VLSI Design System, version 9.07
 *** Layout tech: mocmos, foundry MOSIS
 *** UC SPICE *** , MIN_RESIST 4.0, MIN_CAPAC 0.1FF
 * Model cards are described in this file:
@@ -143,9 +143,9 @@ Xor@0 net@61 net@0 S1 SIPO_register__or
 .global gnd vdd
 
 *** TOP LEVEL CELL: logic_CONTROL_sim{sch}
-VPWL@0 EN gnd PWL (0ns 0 9.9ns 0 10ns 5V 19.99ns 5V 20ns 0 49.99ns 0 50ns 5V 59.99ns 5V 60ns 0 69.99ns 0 70ns 5V 79ns 5V 80ns 0 R=0 TD=0)
+VPWL@0 EN gnd PWL (0ns 0 9.9ns 0 10ns 5V 19.99ns 5V 20ns 0 49.99ns 0 50ns 5V 59.99ns 5V 219.9ns 5V 220ns 0 229.9ns 0 230ns 5 268.9ns 5 270ns 0 R=0 TD=0)
 VPulse@0 CLK gnd DC=1V pulse 0 5V 0ns 200ps 200ps 5ns 10ns
-VPulse@1 SYN gnd DC=1V pulse 0 5V 30ns 200ps 200ps 10ns 100ns
+VPulse@1 SYN gnd DC=1V pulse 0 5V 30ns 200ps 200ps 10ns 300ns
 Xffsr_s@0 CLK Q0 net@28 net@12 net@15 SIPO_register__ffsr_sOK
 Xffsr_s@1 CLK Q1 net@22 net@9 net@6 SIPO_register__ffsr_sOK
 Xlogic_OU@0 ACK CK Q0 net@28 Q1 net@22 TG SIPO_register__logic_OUTPUTs
@@ -155,5 +155,5 @@ Xlogic_S1@0 EN net@28 net@22 net@6 SYN SIPO_register__logic_S1
 
 * Spice Code nodes in cell cell 'logic_CONTROL_sim{sch}'
 vdd vdd 0 DC 5 
-.tran 100n
+.tran 300n
 .END
