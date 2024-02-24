@@ -1,0 +1,221 @@
+*** SPICE deck for cell proy_final{sch} from library SIPO_register
+*** Created on mar dic 12, 2023 20:55:26
+*** Last revised on jue feb 22, 2024 17:22:29
+*** Written on jue feb 22, 2024 17:22:38 by Electric VLSI Design System, version 9.07
+*** Layout tech: mocmos, foundry MOSIS
+*** UC SPICE *** , MIN_RESIST 4.0, MIN_CAPAC 0.1FF
+* Model cards are described in this file:
+.include C:\Users\giuli\OneDrive\Documentos\LTspiceXVII\lib\sym\MOS\mos.txt
+
+*** SUBCIRCUIT SIPO_register__ffsr_sOK FROM CELL ffsr_sOK{sch}
+.SUBCKT SIPO_register__ffsr_sOK CLK Q Qn R S
+** GLOBAL gnd
+** GLOBAL vdd
+Mnmos-4@0 Qn Q gnd nmos-4@0_b NMOS L=0.6U W=1.8U
+Mnmos-4@1 Qn S net@6 nmos-4@1_b NMOS L=0.6U W=1.8U
+Mnmos-4@2 net@6 CLK gnd nmos-4@2_b NMOS L=0.6U W=1.8U
+Mnmos-4@3 Q Qn gnd nmos-4@3_b NMOS L=0.6U W=1.8U
+Mnmos-4@4 Q R net@31 nmos-4@4_b NMOS L=0.6U W=1.8U
+Mnmos-4@5 net@31 CLK gnd nmos-4@5_b NMOS L=0.6U W=1.8U
+Mpmos-4@0 vdd S net@11 pmos-4@0_b PMOS L=0.6U W=3U
+Mpmos-4@1 vdd CLK net@11 pmos-4@1_b PMOS L=0.6U W=3U
+Mpmos-4@2 net@11 Q Qn pmos-4@2_b PMOS L=0.6U W=3U
+Mpmos-4@6 vdd R net@21 pmos-4@6_b PMOS L=0.6U W=3U
+Mpmos-4@7 vdd CLK net@21 pmos-4@7_b PMOS L=0.6U W=3U
+Mpmos-4@8 net@21 Qn Q pmos-4@8_b PMOS L=0.6U W=3U
+.ENDS SIPO_register__ffsr_sOK
+
+*** SUBCIRCUIT SIPO_register__inv FROM CELL inv{sch}
+.SUBCKT SIPO_register__inv in out
+** GLOBAL gnd
+** GLOBAL vdd
+Mnmos@0 out in gnd gnd NMOS L=0.6U W=1.8U
+Mpmos@0 vdd in out vdd PMOS L=0.6U W=3U
+.ENDS SIPO_register__inv
+
+*** SUBCIRCUIT SIPO_register__nand FROM CELL nand{sch}
+.SUBCKT SIPO_register__nand A B out
+** GLOBAL gnd
+** GLOBAL vdd
+Mnmos@0 out A net@10 gnd NMOS L=0.6U W=1.8U
+Mnmos@1 net@10 B gnd gnd NMOS L=0.6U W=1.8U
+Mpmos@0 vdd A out vdd PMOS L=0.6U W=3U
+Mpmos@1 vdd B out vdd PMOS L=0.6U W=3U
+.ENDS SIPO_register__nand
+
+*** SUBCIRCUIT SIPO_register__and FROM CELL and{sch}
+.SUBCKT SIPO_register__and A B out
+** GLOBAL gnd
+** GLOBAL vdd
+Xinv@0 net@0 out SIPO_register__inv
+Xnand@0 A B net@0 SIPO_register__nand
+.ENDS SIPO_register__and
+
+*** SUBCIRCUIT SIPO_register__logic_OUTPUTs FROM CELL logic_OUTPUTs{sch}
+.SUBCKT SIPO_register__logic_OUTPUTs ACK CK Q0 Q0_ Q1 Q1_ TG
+** GLOBAL gnd
+** GLOBAL vdd
+Xand@0 Q1 Q0_ ACK SIPO_register__and
+Xand@1 Q0 Q1_ CK SIPO_register__and
+Xand@2 Q0 Q1 TG SIPO_register__and
+.ENDS SIPO_register__logic_OUTPUTs
+
+*** SUBCIRCUIT SIPO_register__and3 FROM CELL and3{sch}
+.SUBCKT SIPO_register__and3 A B C out
+** GLOBAL gnd
+** GLOBAL vdd
+Mnmos-4@0 net@1 A net@9 nmos-4@0_b NMOS L=0.6U W=1.8U
+Mnmos-4@1 net@9 B net@10 nmos-4@1_b NMOS L=0.6U W=1.8U
+Mnmos-4@2 net@10 C gnd nmos-4@2_b NMOS L=0.6U W=1.8U
+Mnmos-4@4 out net@1 gnd nmos-4@4_b NMOS L=0.6U W=1.8U
+Mpmos-4@0 vdd A net@1 pmos-4@0_b PMOS L=0.6U W=3U
+Mpmos-4@1 vdd B net@1 pmos-4@1_b PMOS L=0.6U W=3U
+Mpmos-4@2 vdd C net@1 pmos-4@2_b PMOS L=0.6U W=3U
+Mpmos-4@4 vdd net@1 out pmos-4@4_b PMOS L=0.6U W=3U
+.ENDS SIPO_register__and3
+
+*** SUBCIRCUIT SIPO_register__nor FROM CELL nor{sch}
+.SUBCKT SIPO_register__nor A B out
+** GLOBAL gnd
+** GLOBAL vdd
+Mnmos@0 out A gnd gnd NMOS L=0.6U W=1.8U
+Mnmos@1 out B gnd gnd NMOS L=0.6U W=1.8U
+Mpmos@0 vdd A net@20 vdd PMOS L=0.6U W=3U
+Mpmos@1 net@20 B out vdd PMOS L=0.6U W=3U
+.ENDS SIPO_register__nor
+
+*** SUBCIRCUIT SIPO_register__or FROM CELL or{sch}
+.SUBCKT SIPO_register__or A B out
+** GLOBAL gnd
+** GLOBAL vdd
+Xinv@0 net@0 out SIPO_register__inv
+Xnor@0 A B net@0 SIPO_register__nor
+.ENDS SIPO_register__or
+
+*** SUBCIRCUIT SIPO_register__logic_R1 FROM CELL logic_R1{sch}
+.SUBCKT SIPO_register__logic_R1 EN Q0 Q0_ Q1 R1
+** GLOBAL gnd
+** GLOBAL vdd
+Xand3@0 EN Q0_ Q1 net@16 SIPO_register__and3
+Xand@0 net@1 Q0 net@14 SIPO_register__and
+Xinv@0 EN net@1 SIPO_register__inv
+Xor@0 net@14 net@16 R1 SIPO_register__or
+.ENDS SIPO_register__logic_R1
+
+*** SUBCIRCUIT SIPO_register__logic_S0R0 FROM CELL logic_S0R0{sch}
+.SUBCKT SIPO_register__logic_S0R0 EN Q1 R0 S0 SYN
+** GLOBAL gnd
+** GLOBAL vdd
+Xand@12 EN net@114 net@129 SIPO_register__and
+Xand@13 EN Q1 net@127 SIPO_register__and
+Xinv@2 SYN net@114 SIPO_register__inv
+Xinv@3 EN R0 SIPO_register__inv
+Xor@3 net@127 net@129 S0 SIPO_register__or
+.ENDS SIPO_register__logic_S0R0
+
+*** SUBCIRCUIT SIPO_register__and4 FROM CELL and4{sch}
+.SUBCKT SIPO_register__and4 A B C D out
+** GLOBAL gnd
+** GLOBAL vdd
+Mnmos-4@0 net@1 A net@9 nmos-4@0_b NMOS L=0.6U W=1.8U
+Mnmos-4@1 net@9 B net@10 nmos-4@1_b NMOS L=0.6U W=1.8U
+Mnmos-4@2 net@10 C net@11 nmos-4@2_b NMOS L=0.6U W=1.8U
+Mnmos-4@3 net@11 D gnd nmos-4@3_b NMOS L=0.6U W=1.8U
+Mnmos-4@4 out net@1 gnd nmos-4@4_b NMOS L=0.6U W=1.8U
+Mpmos-4@0 vdd A net@1 pmos-4@0_b PMOS L=0.6U W=3U
+Mpmos-4@1 vdd B net@1 pmos-4@1_b PMOS L=0.6U W=3U
+Mpmos-4@2 vdd C net@1 pmos-4@2_b PMOS L=0.6U W=3U
+Mpmos-4@3 vdd D net@1 pmos-4@3_b PMOS L=0.6U W=3U
+Mpmos-4@4 vdd net@1 out pmos-4@4_b PMOS L=0.6U W=3U
+.ENDS SIPO_register__and4
+
+*** SUBCIRCUIT SIPO_register__logic_S1 FROM CELL logic_S1{sch}
+.SUBCKT SIPO_register__logic_S1 EN Q0_ Q1_ S1 SYN
+** GLOBAL gnd
+** GLOBAL vdd
+Xand3@1 SYN net@43 Q0_ net@0 SIPO_register__and3
+Xand4@0 net@75 EN Q0_ Q1_ net@61 SIPO_register__and4
+Xinv@0 SYN net@75 SIPO_register__inv
+Xinv@1 EN net@43 SIPO_register__inv
+Xor@0 net@61 net@0 S1 SIPO_register__or
+.ENDS SIPO_register__logic_S1
+
+*** SUBCIRCUIT SIPO_register__logic_CONTROL FROM CELL logic_CONTROL{sch}
+.SUBCKT SIPO_register__logic_CONTROL ACK CK EN SR_CLK SYN TG
+** GLOBAL gnd
+** GLOBAL vdd
+Xffsr_s@0 SR_CLK Q0xxxxxxxxx net@28 net@12 net@15 SIPO_register__ffsr_sOK
+Xffsr_s@1 SR_CLK Q1xxxxxxx net@22 net@9 net@6 SIPO_register__ffsr_sOK
+Xlogic_OU@0 ACK CK Q0xxxxxxxxx net@28 Q1xxxxxxx net@22 TG SIPO_register__logic_OUTPUTs
+Xlogic_R1@0 EN Q0xxxxxxxxx net@28 Q1xxxxxxx net@9 SIPO_register__logic_R1
+Xlogic_S0@0 EN Q1xxxxxxx net@12 net@15 SYN SIPO_register__logic_S0R0
+Xlogic_S1@0 EN net@28 net@22 net@6 SYN SIPO_register__logic_S1
+.ENDS SIPO_register__logic_CONTROL
+
+*** SUBCIRCUIT SIPO_register__comp_trans FROM CELL comp_trans{sch}
+.SUBCKT SIPO_register__comp_trans C Cn in out
+** GLOBAL gnd
+** GLOBAL vdd
+Mnmos-4@0 in C out gnd NMOS L=0.6U W=1.8U
+Mpmos-4@0 out Cn in vdd PMOS L=0.6U W=3U
+.ENDS SIPO_register__comp_trans
+
+*** SUBCIRCUIT SIPO_register__ffd FROM CELL ffd{sch}
+.SUBCKT SIPO_register__ffd CLK CLKn D Q
+** GLOBAL gnd
+** GLOBAL vdd
+Mnmos@0 net@12 CLKn net@0 gnd NMOS L=0.6U W=1.8U
+Mnmos@1 net@0 CLK net@1 gnd NMOS L=0.6U W=1.8U
+Mnmos@2 net@32 CLK net@30 gnd NMOS L=0.6U W=1.8U
+Mnmos@3 net@30 CLKn net@31 gnd NMOS L=0.6U W=1.8U
+Mpmos@0 net@0 CLK net@12 vdd PMOS L=0.6U W=3U
+Mpmos@1 net@1 CLKn net@0 vdd PMOS L=0.6U W=3U
+Mpmos@2 net@30 CLKn net@32 vdd PMOS L=0.6U W=3U
+Mpmos@3 net@31 CLK net@30 vdd PMOS L=0.6U W=3U
+Xinv@0 D net@12 SIPO_register__inv
+Xinv@1 net@0 net@16 SIPO_register__inv
+Xinv@2 net@16 net@1 SIPO_register__inv
+Xinv@4 net@16 net@32 SIPO_register__inv
+Xinv@5 net@30 Q SIPO_register__inv
+Xinv@6 Q net@31 SIPO_register__inv
+.ENDS SIPO_register__ffd
+
+*** SUBCIRCUIT SIPO_register__ffd_w_tgOK FROM CELL ffd_w_tgOK{sch}
+.SUBCKT SIPO_register__ffd_w_tgOK CLK CLKn D Dnext Q TG TGn
+** GLOBAL gnd
+** GLOBAL vdd
+Xcomp_tra@0 TG TGn Dnext Q SIPO_register__comp_trans
+Xffd@0 CLK CLKn D Dnext SIPO_register__ffd
+.ENDS SIPO_register__ffd_w_tgOK
+
+*** SUBCIRCUIT SIPO_register__r16bOK FROM CELL r16bOK{sch}
+.SUBCKT SIPO_register__r16bOK CLK D Q0 Q1 Q10 Q11 Q12 Q13 Q14 Q15 Q2 Q3 Q4 Q5 Q6 Q7 Q8 Q9 TG
+** GLOBAL gnd
+** GLOBAL vdd
+Xffd_w_tg@0 CLK net@9 D net@0 Q0 TG net@123 SIPO_register__ffd_w_tgOK
+Xffd_w_tg@1 CLK net@9 net@0 net@4 Q1 TG net@123 SIPO_register__ffd_w_tgOK
+Xffd_w_tg@2 CLK net@9 net@4 net@188 Q2 TG net@123 SIPO_register__ffd_w_tgOK
+Xffd_w_tg@3 CLK net@9 net@188 net@192 Q3 TG net@123 SIPO_register__ffd_w_tgOK
+Xffd_w_tg@4 CLK net@9 net@192 net@196 Q4 TG net@123 SIPO_register__ffd_w_tgOK
+Xffd_w_tg@5 CLK net@9 net@196 net@200 Q5 TG net@123 SIPO_register__ffd_w_tgOK
+Xffd_w_tg@6 CLK net@9 net@200 net@204 Q6 TG net@123 SIPO_register__ffd_w_tgOK
+Xffd_w_tg@7 CLK net@9 net@204 net@208 Q7 TG net@123 SIPO_register__ffd_w_tgOK
+Xffd_w_tg@8 CLK net@9 net@242 ffd_w_tg@8_Dnext Q15 TG net@123 SIPO_register__ffd_w_tgOK
+Xffd_w_tg@9 CLK net@9 net@237 net@242 Q14 TG net@123 SIPO_register__ffd_w_tgOK
+Xffd_w_tg@10 CLK net@9 net@232 net@237 Q13 TG net@123 SIPO_register__ffd_w_tgOK
+Xffd_w_tg@11 CLK net@9 net@227 net@232 Q12 TG net@123 SIPO_register__ffd_w_tgOK
+Xffd_w_tg@12 CLK net@9 net@222 net@227 Q11 TG net@123 SIPO_register__ffd_w_tgOK
+Xffd_w_tg@13 CLK net@9 net@217 net@222 Q10 TG net@123 SIPO_register__ffd_w_tgOK
+Xffd_w_tg@14 CLK net@9 net@212 net@217 Q9 TG net@123 SIPO_register__ffd_w_tgOK
+Xffd_w_tg@15 CLK net@9 net@208 net@212 Q8 TG net@123 SIPO_register__ffd_w_tgOK
+Xinv@0 CLK net@9 SIPO_register__inv
+Xinv@1 TG net@123 SIPO_register__inv
+.ENDS SIPO_register__r16bOK
+
+.global gnd vdd
+
+*** TOP LEVEL CELL: proy_final{sch}
+Xlogic_CO@0 ACK net@7 EN CLK SYN net@3 SIPO_register__logic_CONTROL
+Xnand@0 net@7 CLK CLK_INT SIPO_register__nand
+Xr16b@0 CLK_INT D Q0 Q1 Q10 Q11 Q12 Q13 Q14 Q15 Q2 Q3 Q4 Q5 Q6 Q7 Q8 Q9 net@3 SIPO_register__r16bOK
+.END

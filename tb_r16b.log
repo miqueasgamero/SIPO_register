@@ -14,21 +14,21 @@ Warning: Pd = 0 is less than W.
 Warning: Ps = 0 is less than W.
 Direct Newton iteration for .op point succeeded.
 
-Date: Sat Dec 09 21:23:37 2023
-Total elapsed time: 4.995 seconds.
+Date: Fri Feb 23 17:27:17 2024
+Total elapsed time: 3.286 seconds.
 
 tnom = 27
 temp = 27
 method = modified trap
-totiter = 11971
-traniter = 11940
-tranpoints = 4106
-accept = 3201
-rejected = 905
+totiter = 7843
+traniter = 7812
+tranpoints = 3201
+accept = 2725
+rejected = 476
 matrix size = 161
 fillins = 285
 solver = Normal
-Thread vector: 417.1/264.0[4] 112.2/69.2[4] 42.2/93.5[1] 2.8/48.7[1]  2592/500
-Matrix Compiler1: 59.63 KB object code size  23.3/15.1/[5.3]
-Matrix Compiler2:    2128 opcodes  7.5/[6.8]/8.9
+Thread vector: 587.7/332.4[4] 123.5/83.2[4] 124.8/78.4[4] 4.4/38.8[1]  2592/500
+Matrix Compiler1: 59.63 KB object code size  23.1/13.7/[8.4]
+Matrix Compiler2: off  [6.9]/12.7/13.1
 

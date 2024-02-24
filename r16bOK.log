@@ -1,0 +1,9 @@
+Circuit: *** SPICE deck for cell r16bOK{sch} from library SIPO_register
+
+Ignoring BSIM parameter ACM
+Ignoring BSIM parameter HDIF
+Ignoring BSIM parameter TLEV
+Ignoring BSIM parameter ACM
+Ignoring BSIM parameter HDIF
+Ignoring BSIM parameter TLEV
+Fatal Error: No analysis request found.

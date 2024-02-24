@@ -1,0 +1,83 @@
+*** SPICE deck for cell r16bOK{sch} from library SIPO_register
+*** Created on sáb dic 09, 2023 17:21:23
+*** Last revised on vie feb 23, 2024 20:50:27
+*** Written on vie feb 23, 2024 20:50:38 by Electric VLSI Design System, version 9.07
+*** Layout tech: mocmos, foundry MOSIS
+*** UC SPICE *** , MIN_RESIST 4.0, MIN_CAPAC 0.1FF
+* Model cards are described in this file:
+.include C:\Users\giuli\OneDrive\Documentos\LTspiceXVII\lib\sym\MOS\mos.txt
+
+*** SUBCIRCUIT SIPO_register__comp_trans FROM CELL comp_trans{sch}
+.SUBCKT SIPO_register__comp_trans C Cn in out
+** GLOBAL gnd
+** GLOBAL vdd
+Mnmos-4@0 in C out gnd NMOS L=0.6U W=1.8U
+Mpmos-4@0 out Cn in vdd PMOS L=0.6U W=3U
+.ENDS SIPO_register__comp_trans
+
+*** SUBCIRCUIT SIPO_register__inv FROM CELL inv{sch}
+.SUBCKT SIPO_register__inv in out
+** GLOBAL gnd
+** GLOBAL vdd
+Mnmos@0 out in gnd gnd NMOS L=0.6U W=1.8U
+Mpmos@0 vdd in out vdd PMOS L=0.6U W=3U
+.ENDS SIPO_register__inv
+
+*** SUBCIRCUIT SIPO_register__ffd FROM CELL ffd{sch}
+.SUBCKT SIPO_register__ffd CLK CLKn D Q
+** GLOBAL gnd
+** GLOBAL vdd
+Mnmos@0 net@12 CLKn net@0 gnd NMOS L=0.6U W=1.8U
+Mnmos@1 net@0 CLK net@1 gnd NMOS L=0.6U W=1.8U
+Mnmos@2 net@32 CLK net@30 gnd NMOS L=0.6U W=1.8U
+Mnmos@3 net@30 CLKn net@31 gnd NMOS L=0.6U W=1.8U
+Mpmos@0 net@0 CLK net@12 vdd PMOS L=0.6U W=3U
+Mpmos@1 net@1 CLKn net@0 vdd PMOS L=0.6U W=3U
+Mpmos@2 net@30 CLKn net@32 vdd PMOS L=0.6U W=3U
+Mpmos@3 net@31 CLK net@30 vdd PMOS L=0.6U W=3U
+Xinv@0 D net@12 SIPO_register__inv
+Xinv@1 net@0 net@16 SIPO_register__inv
+Xinv@2 net@16 net@1 SIPO_register__inv
+Xinv@4 net@16 net@32 SIPO_register__inv
+Xinv@5 net@30 Q SIPO_register__inv
+Xinv@6 Q net@31 SIPO_register__inv
+.ENDS SIPO_register__ffd
+
+*** SUBCIRCUIT SIPO_register__ffd_w_tgOK FROM CELL ffd_w_tgOK{sch}
+.SUBCKT SIPO_register__ffd_w_tgOK CLK CLKn D Dnext Q TG TGn
+** GLOBAL gnd
+** GLOBAL vdd
+Xcomp_tra@0 TG TGn Dnext Q SIPO_register__comp_trans
+Xffd@0 CLK CLKn D Dnext SIPO_register__ffd
+.ENDS SIPO_register__ffd_w_tgOK
+
+.global gnd vdd
+
+*** TOP LEVEL CELL: r16bOK{sch}
+Xffd_w_tg@0 ccllkk11 CLKn1 D net@0 Q0 TG net@123 SIPO_register__ffd_w_tgOK
+Xffd_w_tg@1 ccllkk11 CLKn1 net@0 net@4 Q1 TG net@123 SIPO_register__ffd_w_tgOK
+Xffd_w_tg@2 ccllkk11 CLKn1 net@4 net@188 Q2 TG net@123 SIPO_register__ffd_w_tgOK
+Xffd_w_tg@3 ccllkk11 CLKn1 net@188 net@192 Q3 TG net@123 SIPO_register__ffd_w_tgOK
+Xffd_w_tg@4 ccllkk11 CLKn1 net@192 net@196 Q4 TG net@123 SIPO_register__ffd_w_tgOK
+Xffd_w_tg@5 ccllkk11 CLKn1 net@196 net@200 Q5 TG net@123 SIPO_register__ffd_w_tgOK
+Xffd_w_tg@6 ccllkk11 CLKn1 net@200 net@204 Q6 TG net@123 SIPO_register__ffd_w_tgOK
+Xffd_w_tg@7 ccllkk11 CLKn1 net@204 net@208 Q7 TG net@123 SIPO_register__ffd_w_tgOK
+Xffd_w_tg@8 ccllkk11 CLKn1 net@242 ffd_w_tg@8_Dnext Q15 TG net@123 SIPO_register__ffd_w_tgOK
+Xffd_w_tg@9 ccllkk11 CLKn1 net@237 net@242 Q14 TG net@123 SIPO_register__ffd_w_tgOK
+Xffd_w_tg@10 ccllkk11 CLKn1 net@232 net@237 Q13 TG net@123 SIPO_register__ffd_w_tgOK
+Xffd_w_tg@11 ccllkk11 CLKn1 net@227 net@232 Q12 TG net@123 SIPO_register__ffd_w_tgOK
+Xffd_w_tg@12 ccllkk11 CLKn1 net@222 net@227 Q11 TG net@123 SIPO_register__ffd_w_tgOK
+Xffd_w_tg@13 ccllkk11 CLKn1 net@217 net@222 Q10 TG net@123 SIPO_register__ffd_w_tgOK
+Xffd_w_tg@14 ccllkk11 CLKn1 net@212 net@217 Q9 TG net@123 SIPO_register__ffd_w_tgOK
+Xffd_w_tg@15 ccllkk11 CLKn1 net@208 net@212 Q8 TG net@123 SIPO_register__ffd_w_tgOK
+Xinv@0 CLK net@257 SIPO_register__inv
+Xinv@1 TG net@123 SIPO_register__inv
+Xinv@2 net@252 ccllkk11 SIPO_register__inv
+Xinv@3 ccllkk11 CLKn1 SIPO_register__inv
+Xinv@4 net@255 net@250 SIPO_register__inv
+Xinv@5 net@250 net@252 SIPO_register__inv
+Xinv@6 net@258 net@253 SIPO_register__inv
+Xinv@7 net@253 net@255 SIPO_register__inv
+Xinv@8 net@257 net@256 SIPO_register__inv
+Xinv@9 net@256 net@258 SIPO_register__inv
+.END

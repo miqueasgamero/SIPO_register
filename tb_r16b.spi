@@ -1,7 +1,7 @@
 *** SPICE deck for cell tb_r16b{sch} from library SIPO_register
 *** Created on sáb dic 09, 2023 20:44:01
-*** Last revised on sáb dic 09, 2023 21:19:26
-*** Written on sáb dic 09, 2023 21:23:31 by Electric VLSI Design System, version 9.07
+*** Last revised on vie feb 23, 2024 17:27:08
+*** Written on vie feb 23, 2024 17:27:13 by Electric VLSI Design System, version 9.07
 *** Layout tech: mocmos, foundry MOSIS
 *** UC SPICE *** , MIN_RESIST 4.0, MIN_CAPAC 0.1FF
 * Model cards are described in this file:
@@ -43,53 +43,53 @@ Xinv@5 net@30 Q SIPO_register__inv
 Xinv@6 Q net@31 SIPO_register__inv
 .ENDS SIPO_register__ffd
 
-*** SUBCIRCUIT SIPO_register__ffd_w_tg FROM CELL ffd_w_tg{sch}
-.SUBCKT SIPO_register__ffd_w_tg CLK CLKn D Dnext Q TG TGn
+*** SUBCIRCUIT SIPO_register__ffd_w_tgOK FROM CELL ffd_w_tgOK{sch}
+.SUBCKT SIPO_register__ffd_w_tgOK CLK CLKn D Dnext Q TG TGn
 ** GLOBAL gnd
 ** GLOBAL vdd
 Xcomp_tra@0 TG TGn Dnext Q SIPO_register__comp_trans
 Xffd@0 CLK CLKn D Dnext SIPO_register__ffd
-.ENDS SIPO_register__ffd_w_tg
+.ENDS SIPO_register__ffd_w_tgOK
 
-*** SUBCIRCUIT SIPO_register__r16b FROM CELL r16b{sch}
-.SUBCKT SIPO_register__r16b CLK D Q0 Q1 Q10 Q11 Q12 Q13 Q14 Q15 Q2 Q3 Q4 Q5 Q6 Q7 Q8 Q9 TG
+*** SUBCIRCUIT SIPO_register__r16bOK FROM CELL r16bOK{sch}
+.SUBCKT SIPO_register__r16bOK CLK D Q0 Q1 Q10 Q11 Q12 Q13 Q14 Q15 Q2 Q3 Q4 Q5 Q6 Q7 Q8 Q9 TG
 ** GLOBAL gnd
 ** GLOBAL vdd
-Xffd_w_tg@0 CLK net@9 D net@0 Q0 TG net@123 SIPO_register__ffd_w_tg
-Xffd_w_tg@1 CLK net@9 net@0 net@4 Q1 TG net@123 SIPO_register__ffd_w_tg
-Xffd_w_tg@2 CLK net@9 net@4 net@188 Q2 TG net@123 SIPO_register__ffd_w_tg
-Xffd_w_tg@3 CLK net@9 net@188 net@192 Q3 TG net@123 SIPO_register__ffd_w_tg
-Xffd_w_tg@4 CLK net@9 net@192 net@196 Q4 TG net@123 SIPO_register__ffd_w_tg
-Xffd_w_tg@5 CLK net@9 net@196 net@200 Q5 TG net@123 SIPO_register__ffd_w_tg
-Xffd_w_tg@6 CLK net@9 net@200 net@204 Q6 TG net@123 SIPO_register__ffd_w_tg
-Xffd_w_tg@7 CLK net@9 net@204 net@208 Q7 TG net@123 SIPO_register__ffd_w_tg
-Xffd_w_tg@8 CLK net@9 net@242 ffd_w_tg@8_Dnext Q15 TG net@123 SIPO_register__ffd_w_tg
-Xffd_w_tg@9 CLK net@9 net@237 net@242 Q14 TG net@123 SIPO_register__ffd_w_tg
-Xffd_w_tg@10 CLK net@9 net@232 net@237 Q13 TG net@123 SIPO_register__ffd_w_tg
-Xffd_w_tg@11 CLK net@9 net@227 net@232 Q12 TG net@123 SIPO_register__ffd_w_tg
-Xffd_w_tg@12 CLK net@9 net@222 net@227 Q11 TG net@123 SIPO_register__ffd_w_tg
-Xffd_w_tg@13 CLK net@9 net@217 net@222 Q10 TG net@123 SIPO_register__ffd_w_tg
-Xffd_w_tg@14 CLK net@9 net@212 net@217 Q9 TG net@123 SIPO_register__ffd_w_tg
-Xffd_w_tg@15 CLK net@9 net@208 net@212 Q8 TG net@123 SIPO_register__ffd_w_tg
+Xffd_w_tg@0 CLK net@9 D net@0 Q0 TG net@123 SIPO_register__ffd_w_tgOK
+Xffd_w_tg@1 CLK net@9 net@0 net@4 Q1 TG net@123 SIPO_register__ffd_w_tgOK
+Xffd_w_tg@2 CLK net@9 net@4 net@188 Q2 TG net@123 SIPO_register__ffd_w_tgOK
+Xffd_w_tg@3 CLK net@9 net@188 net@192 Q3 TG net@123 SIPO_register__ffd_w_tgOK
+Xffd_w_tg@4 CLK net@9 net@192 net@196 Q4 TG net@123 SIPO_register__ffd_w_tgOK
+Xffd_w_tg@5 CLK net@9 net@196 net@200 Q5 TG net@123 SIPO_register__ffd_w_tgOK
+Xffd_w_tg@6 CLK net@9 net@200 net@204 Q6 TG net@123 SIPO_register__ffd_w_tgOK
+Xffd_w_tg@7 CLK net@9 net@204 net@208 Q7 TG net@123 SIPO_register__ffd_w_tgOK
+Xffd_w_tg@8 CLK net@9 net@242 ffd_w_tg@8_Dnext Q15 TG net@123 SIPO_register__ffd_w_tgOK
+Xffd_w_tg@9 CLK net@9 net@237 net@242 Q14 TG net@123 SIPO_register__ffd_w_tgOK
+Xffd_w_tg@10 CLK net@9 net@232 net@237 Q13 TG net@123 SIPO_register__ffd_w_tgOK
+Xffd_w_tg@11 CLK net@9 net@227 net@232 Q12 TG net@123 SIPO_register__ffd_w_tgOK
+Xffd_w_tg@12 CLK net@9 net@222 net@227 Q11 TG net@123 SIPO_register__ffd_w_tgOK
+Xffd_w_tg@13 CLK net@9 net@217 net@222 Q10 TG net@123 SIPO_register__ffd_w_tgOK
+Xffd_w_tg@14 CLK net@9 net@212 net@217 Q9 TG net@123 SIPO_register__ffd_w_tgOK
+Xffd_w_tg@15 CLK net@9 net@208 net@212 Q8 TG net@123 SIPO_register__ffd_w_tgOK
 Xinv@0 CLK net@9 SIPO_register__inv
 Xinv@1 TG net@123 SIPO_register__inv
-.ENDS SIPO_register__r16b
+.ENDS SIPO_register__r16bOK
 
 .global gnd vdd
 
 *** TOP LEVEL CELL: tb_r16b{sch}
-VPulse@0 vdi net@4 DC=0V pulse 0 5V 0ns 10ps 10ps 10ns 20ns
-VPulse@1 vci net@4 DC=0V pulse 0 5V 5ns 10ps 10ps 10ns 20ns
-VPulse@2 vti net@4 DC=0V pulse 0 5V 100ns 10ps 10ps 30ns 60ns
+VPulse@0 vdi net@4 DC=1V pulse 5V 0 0 10ps 10ps 1us 2us
+VPulse@1 vci net@4 DC=1V pulse 5V 0 0 10ps 10ps 500ns 1us
+VPulse@2 vti net@4 DC=1V pulse 5V 0 0 10ps 10ps 1us 10us
 Xinv@0 vci net@11 SIPO_register__inv
 Xinv@1 net@11 CLK SIPO_register__inv
 Xinv@2 vdi net@13 SIPO_register__inv
 Xinv@3 net@13 D SIPO_register__inv
 Xinv@4 vti net@16 SIPO_register__inv
 Xinv@5 net@16 TG SIPO_register__inv
-Xr16b@0 CLK D r16b@0_Q0 r16b@0_Q1 r16b@0_Q10 r16b@0_Q11 r16b@0_Q12 r16b@0_Q13 r16b@0_Q14 r16b@0_Q15 r16b@0_Q2 r16b@0_Q3 r16b@0_Q4 r16b@0_Q5 r16b@0_Q6 r16b@0_Q7 r16b@0_Q8 r16b@0_Q9 TG SIPO_register__r16b
+Xr16b@0 CLK D r16b@0_Q0 r16b@0_Q1 r16b@0_Q10 r16b@0_Q11 r16b@0_Q12 r16b@0_Q13 r16b@0_Q14 r16b@0_Q15 r16b@0_Q2 r16b@0_Q3 r16b@0_Q4 r16b@0_Q5 r16b@0_Q6 r16b@0_Q7 r16b@0_Q8 r16b@0_Q9 TG SIPO_register__r16bOK
 
 * Spice Code nodes in cell cell 'tb_r16b{sch}'
 vdd vdd 0 DC 5   
-.tran 200n
+.tran 10u
 .END

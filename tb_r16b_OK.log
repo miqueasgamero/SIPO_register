@@ -1,0 +1,33 @@
+Circuit: *** SPICE deck for cell tb_r16b_OK{sch} from library SIPO_register
+
+Ignoring BSIM parameter ACM
+Ignoring BSIM parameter HDIF
+Ignoring BSIM parameter TLEV
+Ignoring BSIM parameter ACM
+Ignoring BSIM parameter HDIF
+Ignoring BSIM parameter TLEV
+WARNING: Specified period is not longer than the sum of Trise, Tfall, and Ton for vpulse@2.  Increasing period to 1.00004e-005
+Warning: Pd = 0 is less than W.
+Warning: Ps = 0 is less than W.
+Warning: Pd = 0 is less than W.
+Warning: Ps = 0 is less than W.
+Direct Newton iteration for .op point succeeded.
+
+Date: Fri Feb 23 20:55:55 2024
+Total elapsed time: 9.892 seconds.
+
+tnom = 27
+temp = 27
+method = modified trap
+totiter = 29101
+traniter = 29070
+tranpoints = 9778
+accept = 7452
+rejected = 2326
+matrix size = 172
+fillins = 282
+solver = Normal
+Thread vector: 484.0/341.2[4] 384.4/107.8[4] 28.4/16.4[3] 3.1/252.1[1]  2592/500
+Matrix Compiler1: 59.89 KB object code size  24.0/18.4/[6.4]
+Matrix Compiler2:    2212 opcodes  9.3/[7.6]/8.7
+
